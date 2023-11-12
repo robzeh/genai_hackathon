@@ -1,0 +1,18 @@
+
+Patient Information:
+
+* Patient's Name: John Smith
+* Patient's Date of Birth / Age: N/A
+* Patient's Gender: Male
+
+Presenting Symptoms: None specified in the transcript.
+
+Duration: Last week (approximately)
+
+Other Symptoms: None specified in the transcript.
+
+Medicine in Use: None specified in the transcript.
+
+Allergies: None specified in the transcript.
+
+Summary of Information Available: The patient, John Smith, had a procedure done at the hospital but does not have any specific follow-up care instructions. He is seeking clarification on what he needs to do for his post-operative care.

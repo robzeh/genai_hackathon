@@ -70,7 +70,7 @@ def generate_summary(transcript, system_prompt):
     # generate response
     full_resp = generate("llama2", user_prompt, system_prompt)
     print(full_resp)
-    with open(f"./responses/{transcript}-response.txt", "w") as f:
+    with open(f"./responses/{transcript}-response-with-sum.txt", "w") as f:
         f.write(full_resp[0])
 
 

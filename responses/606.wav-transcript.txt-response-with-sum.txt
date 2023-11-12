@@ -1,0 +1,12 @@
+
+* Patient's Name: Sarah Johnson
+* Patient's Date of Birth / Age: Not provided
+* Patient's Gender: Female
+* Presenting Symptoms: Headaches, dizziness, nausea
+* Duration: Couple weeks
+* Other Symptoms: Not provided
+* Medicine in Use: Not provided
+* Allergies: Not provided
+
+Summary of information available in the transcript:
+Sarah Johnson is a female patient who has been experiencing frequent headaches, dizziness, and nausea for a couple weeks. She is unsure if she should be concerned and is seeking medical advice.

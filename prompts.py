@@ -10,4 +10,6 @@ Please provide a summary with bullet points that list patient information in the
     * Other Symptoms:
     * Medicine in Use:
     * Allergies:
+
+then, please provide a summary for the information available in the transcript.
 """
