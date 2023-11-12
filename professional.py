@@ -40,7 +40,7 @@ else:
     st.error('Transcript file does not exist for the selected record.')
 
 
-summary_file_path = os.path.join(outputs_folder_path, selected_record.replace('.wav', '.wav-transcript.txt-response.txt'))
+summary_file_path = os.path.join(outputs_folder_path, selected_record.replace('.wav', '.wav-transcript.txt-response-with-sum.txt'))
 if os.path.exists(summary_file_path):
     with open(summary_file_path, 'r') as file:
         summary_text = file.read()
