@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi, Agent 2. My name is John Smith. I'm calling to request my medical records from HealthHarbor.
+
+Agent 2: Hello, John. I can definitely assist you with that. Before we proceed, I just need to confirm some information for security purposes. Can you please verify your date of birth and address?
+
+Customer: Sure, my date of birth is January 15, 1985, and my address is 123 Main Street.
+
+Agent 2: Thank you for providing that information, John. Now, could you please specify which medical records you would like to request?
+
+Customer: I would like to request all of my medical records from the past five years, if possible.
+
+Agent 2: Understood, John. I will need to generate a request for your medical records. This process usually takes a few business days. Is there a specific address where you would like us to send the records?
+
+Customer: Yes, please send them to my current address, which is 456 Oak Avenue.
+
+Agent 2: Noted, John. I will update your address in our system and proceed with the request. Is there any specific reason why you need these medical records?
+
+Customer: I'm switching doctors, and my new healthcare provider requires my complete medical history for their records.
+
+Agent 2: I see. That's a valid reason. Please bear with me for a moment while I process your request. 
+
+(Customer waits for a few minutes)
+
+Agent 2: Thank you for waiting, John. Your medical records request has been successfully submitted. As mentioned earlier, it may take a few business days to process. Is there anything else I can assist you with?
+
+Customer: No, that's all I needed. Thank you for your help, Agent 2.
+
+Agent 2: You're welcome, John. It was my pleasure assisting you today. If you have any further questions or concerns in the future, don't hesitate to reach out. Take care!
+
+Customer: Thank you, Agent 2. Have a great day!
+
+Agent 2: You too, John. Goodbye! [/INST] Medical Records Requests </s>

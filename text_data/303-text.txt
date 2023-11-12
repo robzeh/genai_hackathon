@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: (Angry) Finally, someone answers! I've been trying to get through to your hospital for days. I need to request my medical records and no one seems to be able to help me.
+
+Agent 2: I apologize for the wait and any inconvenience caused. I understand your frustration. I'll do my best to assist you with your medical records request. May I have your name and date of birth, please?
+
+Customer: My name is Sarah Johnson and my date of birth is March 12, 1985. It shouldn't be this difficult to get my own medical records!
+
+Agent 2: I apologize for the difficulties you've faced, Sarah. Rest assured, I'll help you through the process. Can you please provide me with some additional information? Which specific medical records are you looking to request?
+
+Customer: I need my complete medical history from the past five years. I'm switching doctors and they require all of my previous records.
+
+Agent 2: I understand the urgency, Sarah. To expedite the process, I'll need you to fill out a Medical Records Request Form. Is it possible for me to email you the form?
+
+Customer: Fine, but make it quick. I don't have time to waste.
+
+Agent 2: I completely understand, Sarah. I'll send the form to the email address we have on file. Please check your inbox and fill out the necessary information. Once you've completed the form, please send it back to us as soon as possible.
+
+Customer: Alright, I've received the email. Let me fill out this form. How long will it take for my medical records to be sent to my new doctor?
+
+Agent 2: Once we receive the completed form, it usually takes around 3-5 business days for us to process the request and send your medical records to your new doctor. However, please note that the exact timeframe may vary depending on the volume of requests we're currently handling.
+
+Customer: That's too long! I need them sooner than that. Can you expedite the process?
+
+Agent 2: I understand your urgency, Sarah. Let me check if there's any possibility to expedite your request. Please bear with me for a moment.
+
+(Customer on hold for a few minutes)
+
+Agent 2: Thank you for your patience, Sarah. I've spoken with our medical records department, and they have agreed to prioritize your request. Your medical records will be sent to your new doctor within the next 48 hours.
+
+Customer: Finally, some progress! I appreciate your help in expediting this. Is there anything else I need to do?
+
+Agent 2: No problem, Sarah. I'm glad I could assist you. Just ensure that the completed form is sent back to us as soon as possible. If you have any further questions or concerns, feel free to reach out to us. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help. [/INST] Medical Records Requests </s>

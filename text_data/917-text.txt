@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. I'm really scared and I need some information about the services provided by your hospital.
+
+Agent 2: I'm here to help, sir. Please don't worry. I'll do my best to provide you with all the information you need. Can you tell me your name?
+
+Customer: Yes, my name is John Smith.
+
+Agent 2: Thank you, Mr. Smith. How can I assist you today?
+
+Customer: I'm experiencing some symptoms that are really worrying me. I was wondering if your hospital offers emergency services?
+
+Agent 2: Yes, Mr. Smith, HealthHarbor does provide emergency services. We have a dedicated emergency department that operates 24/7. You can come in anytime if it's an emergency.
+
+Customer: That's a relief to know. Can you please tell me more about the other services your hospital offers?
+
+Agent 2: Of course, Mr. Smith. HealthHarbor offers a wide range of medical services including general check-ups, specialized consultations, surgeries, diagnostic tests, and rehabilitation services. We have a team of highly skilled doctors and nurses who are dedicated to providing the best possible care to our patients.
+
+Customer: That sounds reassuring. Do you have any specific departments for different medical specialties?
+
+Agent 2: Yes, we do, Mr. Smith. We have departments for cardiology, orthopedics, neurology, oncology, pediatrics, and many others. Each department is equipped with state-of-the-art technology and staffed with specialized doctors and nurses to ensure the best care for our patients.
+
+Customer: That's great to hear. I'm also concerned about the cost of these services. Are they covered by insurance?
+
+Agent 2: HealthHarbor accepts most major insurance plans, Mr. Smith. However, I would recommend contacting your insurance provider to confirm if our hospital is in-network for your specific plan. We also offer various payment options and financial assistance programs for those who may not have insurance coverage.
+
+Customer: That's good to know. I'll make sure to check with my insurance provider. One more thing, are there any support services available for patients and their families?
+
+Agent 2: Absolutely, Mr. Smith. HealthHarbor understands the importance of providing holistic care. We have social workers, counselors, and support groups available to assist patients and their families throughout their healthcare journey. We believe in supporting not only the physical health but also the emotional well-being of our patients.
+
+Customer: That's really comforting to hear. I appreciate all the information you've provided, Agent 2. You've helped alleviate some of my fears.
+
+Agent 2: I'm glad I could help, Mr. Smith. Remember, our hospital is here to provide you with the best possible care. If you have any further questions or concerns, please don't hesitate to reach out to us. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your support and understanding, Agent 2.
+
+Agent 2: You're welcome, Mr. Smith. Take care and have a great day. [/INST] General Inquiries </s>

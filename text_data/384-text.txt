@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. I'm calling to inquire about my lab and test results. I had some tests done last week, and I haven't received any updates yet.
+
+Agent 3: I apologize for the delay in getting back to you. May I have your full name and date of birth, please?
+
+Customer: My name is Emily Johnson, and my date of birth is June 15, 1985.
+
+Agent 3: Thank you, Emily. Let me pull up your records. Please bear with me for a moment.
+
+(Customer waits for a few moments)
+
+Agent 3: I found your records, Emily. It seems that your test results are ready. Would you like me to go over them with you?
+
+Customer: Yes, please. I'm a bit anxious to know the results.
+
+Agent 3: I understand. Let's start with your blood work. Your complete blood count shows all levels within the normal range, which is great news. Your cholesterol levels are also within the healthy range.
+
+Customer: Oh, that's a relief. What about the other tests?
+
+Agent 3: Your urine analysis came back normal as well. Your kidney function and glucose levels are all normal. Your liver function tests also show no abnormalities.
+
+Customer: That's a relief to hear. I was worried about those results. What about the X-ray I had done?
+
+Agent 3: Your X-ray shows no signs of any abnormalities. Your lungs and bones appear to be in good condition. Is there anything specific you would like to know about the X-ray?
+
+Customer: No, I think that covers everything. I'm just glad everything seems to be normal. Thank you for going over the results with me, Agent 3.
+
+Agent 3: You're welcome, Emily. I'm glad to hear that everything looks good. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3. Have a great day!
+
+Agent 3: You're welcome, Emily. It was my pleasure to assist you. If you have any further questions or concerns, don't hesitate to give us a call. Have a wonderful day! Goodbye. [/INST] Lab and Test Results </s>

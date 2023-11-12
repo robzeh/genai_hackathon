@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I've been experiencing some symptoms lately and I'm not sure if I should be concerned.
+
+Agent 3: Hello, Emily. I'm here to help. Can you please let me know what symptoms you've been experiencing?
+
+Customer: Sure. I've been having frequent headaches and occasional dizziness. It's been happening for the past week or so.
+
+Agent 3: I understand how concerning that can be. Have you noticed any other symptoms accompanying the headaches and dizziness?
+
+Customer: No, not really. I haven't experienced any nausea or vomiting. It's mainly just the headaches and dizziness.
+
+Agent 3: Okay, thank you for sharing that. Have you had any recent changes in your lifestyle or any significant stressors?
+
+Customer: Not really. My lifestyle has been pretty consistent, and I haven't been under any excessive stress lately.
+
+Agent 3: Alright. In this case, it's always a good idea to consult with a healthcare professional. However, based on the symptoms you've described, it is possible that your headaches and dizziness could be related to tension or stress. It's important to manage stress levels and try relaxation techniques such as deep breathing exercises or meditation. If the symptoms persist or worsen, I recommend scheduling an appointment with your primary care physician for a thorough evaluation.
+
+Customer: That makes sense. I'll definitely try those relaxation techniques and monitor my symptoms. If they continue, I'll make an appointment with my doctor.
+
+Agent 3: That's a wise decision, Emily. It's always better to be safe and get professional advice. Is there anything else I can assist you with?
+
+Customer: No, that was all. Thank you for your help, Agent 3. I appreciate your time and advice.
+
+Agent 3: You're welcome, Emily. I'm glad I could assist you. If you have any further questions or concerns, don't hesitate to reach out. Take care and have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye.
+
+Agent 3: Goodbye, Emily. Have a wonderful day! [/INST] Medical Advice or Symptom Assessment </s>

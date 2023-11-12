@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Finally, someone answers! I have been waiting for my lab and test results for over a week now. This is unacceptable!
+
+Agent 4: I apologize for the delay in receiving your results. I understand your frustration. May I have your name and date of birth, please?
+
+Customer: My name is Jane Smith, and my date of birth is January 15, 1985. Can you please tell me why it's taking so long for me to get my results?
+
+Agent 4: I'm sorry, Ms. Smith. Let me check your records. I see here that your results were sent to the lab for processing on January 7th. It usually takes about 3-5 business days to receive the results. Let me check with the lab to see what the delay is.
+
+(Customer waits on hold for a few minutes)
+
+Agent 4: Thank you for patiently waiting, Ms. Smith. I have just spoken with the lab, and they have informed me that there was a technical issue with their system, causing the delay in processing the results. They have assured me that your results will be ready by tomorrow. I apologize for the inconvenience caused.
+
+Customer: This is ridiculous! I've been so worried about my health, and now I have to wait even longer. What if there's something seriously wrong with me? This is unacceptable!
+
+Agent 4: I completely understand your concerns, Ms. Smith. I assure you that we take your health seriously, and we are doing everything we can to expedite the process. As soon as your results are available, we will contact you immediately. Is there anything else I can assist you with?
+
+Customer: No, I just want my results as soon as possible. I hope you keep your promise this time.
+
+Agent 4: I understand your frustration, Ms. Smith, and I apologize for the inconvenience caused. Rest assured, we will prioritize your case and ensure that you receive your results promptly. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+(Customer and Agent 4 discuss a few more minor details regarding contact information and preferences)
+
+Agent 4: Thank you for contacting us, Ms. Smith. I apologize again for the delay, and we appreciate your patience. Once your results are available, we will contact you immediately. Take care and have a good day.
+
+Customer: Thank you, I hope to hear from you soon. Goodbye.
+
+Agent 4: You're welcome, Ms. Smith. Goodbye, and take care. [/INST] Lab and Test Results </s>

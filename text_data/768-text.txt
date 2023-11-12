@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answers! I have been waiting for my lab and test results for over a week now! This is unacceptable!
+
+Agent 1: I apologize for the delay and any inconvenience caused, sir. I understand your frustration. Could you please provide me with your name and date of birth? I will look into this matter for you right away.
+
+Customer: My name is John Smith and my date of birth is January 15th, 1980.
+
+Agent 1: Thank you, Mr. Smith. Let me pull up your file and check the status of your lab and test results. Please bear with me for a moment.
+
+(Customer impatiently waits)
+
+Agent 1: I apologize for the wait, Mr. Smith. It seems that there was a delay in processing your results. I understand this is frustrating, but I assure you we are doing our best to resolve this issue as quickly as possible. 
+
+Customer: This is ridiculous! I need those results for my upcoming appointment with my doctor next week. How can I trust this hospital if you can't even deliver test results on time?
+
+Agent 1: I completely understand your concerns, Mr. Smith, and I apologize for the inconvenience caused. We take your feedback seriously, and I will make sure to escalate this matter to our lab department immediately. Is it possible for you to reschedule your appointment with your doctor?
+
+Customer: No, I can't reschedule at this point. I have been waiting for this appointment for months, and I need those results to discuss my treatment options. This is causing me unnecessary stress and anxiety!
+
+Agent 1: I apologize once again for the delay and the distress it has caused you, Mr. Smith. I will personally follow up with our lab department and request an expedited processing of your results. Is there a contact number where I can reach you once the results are available?
+
+Customer: Yes, you can reach me at 555-1234. But I expect to receive them within the next 24 hours. This has already gone on for too long!
+
+Agent 1: I completely understand your urgency, Mr. Smith, and I will do everything in my power to ensure you receive your results as soon as possible. I will personally follow up with you within the next 24 hours to provide you with an update.
+
+Customer: You better do that! This kind of incompetence is unacceptable. I hope you understand the seriousness of this situation.
+
+Agent 1: I sincerely apologize for the inconvenience caused, Mr. Smith. I assure you that I understand the urgency and importance of this matter. We value you as a patient, and we will make sure to rectify this situation promptly. 
+
+(Customer calms down slightly)
+
+Customer: Well, I appreciate your understanding. I hope this gets resolved soon.
+
+Agent 1: Thank you for your patience and understanding, Mr. Smith. We will work diligently to resolve this issue and provide you with the results you need as quickly as possible. If you have any further questions or concerns, please don't hesitate to contact us. [/INST] Lab and Test Results </s>

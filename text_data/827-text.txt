@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I'm feeling really worried about some symptoms I've been experiencing lately.
+
+Agent 4: Hi, Emily. I'm sorry to hear that you're feeling worried. I'm here to help. Can you please tell me more about your symptoms?
+
+Customer: Well, for the past few days, I've been having a persistent headache, and it's been getting worse. I've also been feeling nauseous and dizzy at times.
+
+Agent 4: I understand how concerning that can be, Emily. Have you noticed any other symptoms or changes in your health recently?
+
+Customer: Yes, actually. I've been feeling fatigued even after a good night's sleep, and my appetite has been quite low as well. I've also been having some trouble concentrating.
+
+Agent 4: I appreciate you sharing that with me, Emily. Based on your symptoms, I would recommend consulting with a healthcare professional. However, I can provide you with some general information to help you understand your situation better. It's important to note that I'm not a doctor, but I can offer some guidance.
+
+Customer: Thank you, Agent 4. I understand that you're not a doctor, but any information would be helpful at this point.
+
+Agent 4: Of course, Emily. It's important to consider that your symptoms could be related to various factors. However, given the persistent headache, dizziness, and fatigue, it might be worth exploring the possibility of scheduling an appointment with a healthcare provider. They can assess your symptoms more accurately and provide appropriate medical advice.
+
+Customer: I see. I'll definitely take your advice and schedule an appointment. It's just that I've been worried about these symptoms, and I wanted to get some initial guidance.
+
+Agent 4: I completely understand, Emily. It's always better to be proactive about your health concerns. Is there anything else you'd like to discuss or any other questions I can help you with?
+
+Customer: No, that was my main concern. I really appreciate your assistance and guidance, Agent 4.
+
+Agent 4: You're very welcome, Emily. I'm glad I could help. Remember, it's important to reach out to a healthcare professional for a proper assessment. If you have any further questions or need assistance in the future, please don't hesitate to contact us. Take care of yourself, and I hope you feel better soon!
+
+Customer: Thank you, Agent 4. I will definitely keep that in mind. Have a great day!
+
+Agent 4: You too, Emily. Goodbye!
+
+[Call ends] [/INST] Medical Advice or Symptom Assessment </s>

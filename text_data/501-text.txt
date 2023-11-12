@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Thompson. I've been experiencing some concerning symptoms lately and I was hoping to get some medical advice or a symptom assessment.
+
+Agent 3: I'm sorry to hear that, Sarah. I'll do my best to help you out. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having persistent headaches, along with some dizziness and occasional nausea. It's been going on for about a week now.
+
+Agent 3: I understand, Sarah. Headaches can have various causes, ranging from stress to underlying medical conditions. Have you noticed any triggers for these headaches?
+
+Customer: Not really. They seem to come on randomly throughout the day, regardless of what I'm doing.
+
+Agent 3: Okay. Have you experienced any changes in your vision, such as blurriness or sensitivity to light?
+
+Customer: No, my vision seems to be fine.
+
+Agent 3: Alright. Based on your symptoms, it's important to consider multiple factors. I'm not a doctor, but I can provide some general advice. It would be best to consult with a healthcare professional for a proper diagnosis. They may want to run some tests or ask you more detailed questions to narrow down the potential causes.
+
+Customer: I understand. I was just hoping to get some initial guidance. Do you have any suggestions on what I could do in the meantime?
+
+Agent 3: Of course, Sarah. While waiting for your doctor's appointment, you can try some self-care measures. Make sure to stay hydrated, get enough rest, and manage your stress levels. You can also consider keeping a headache diary to note any specific patterns or triggers you may notice.
+
+Customer: That sounds reasonable. I'll start doing that. Thank you for your advice, Agent 3.
+
+Agent 3: You're welcome, Sarah. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you for your assistance.
+
+Agent 3: It was my pleasure, Sarah. Take care and I hope you find relief soon. Don't hesitate to reach out if you have any further questions or concerns.
+
+Customer: I will. Thank you again. Goodbye.
+
+Agent 3: Goodbye, Sarah. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

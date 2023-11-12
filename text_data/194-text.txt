@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm really worried about some symptoms I've been experiencing lately. I was hoping you could provide me with some medical advice or help assess my symptoms.
+
+Agent 1: I'm sorry to hear that you're feeling worried. I'll do my best to help you. Can you please start by telling me your name?
+
+Customer: My name is Emily Johnson.
+
+Agent 1: Thank you, Emily. Could you please describe the symptoms you've been experiencing?
+
+Customer: Lately, I've been having persistent headaches, dizziness, and occasional blurred vision. I'm really concerned about what might be causing these symptoms.
+
+Agent 1: I understand your concern, Emily. Headaches, dizziness, and blurred vision can be symptoms of various conditions. Have you experienced these symptoms before?
+
+Customer: No, these symptoms are new to me. They started about a week ago and have been bothering me ever since.
+
+Agent 1: Okay, thank you for the information. Based on your symptoms, it's important to consider a few possibilities. However, I'm not a doctor, so I'll advise you to seek medical attention for a proper diagnosis and treatment. It's always best to consult with a healthcare professional who can examine you in person.
+
+Customer: I was hoping to avoid going to the hospital, but I understand. I'll make an appointment with my doctor as soon as possible. Is there anything else I should be aware of?
+
+Agent 1: It's great that you're planning to see your doctor, Emily. In the meantime, I recommend monitoring your symptoms and keeping track of any patterns or triggers you notice. It might also be helpful to avoid activities that worsen your symptoms, such as staring at screens for prolonged periods or skipping meals. Adequate hydration and a balanced diet can also contribute to overall well-being.
+
+Customer: Thank you for the advice, Agent 1. I'll definitely take note of all these recommendations. I just hope it's nothing serious.
+
+Agent 1: I understand your concern, Emily. It's natural to worry when experiencing new symptoms. Remember, it's essential to consult a healthcare professional to get proper advice and guidance. They will be able to assess your symptoms thoroughly and provide appropriate treatment options.
+
+Customer: I'll keep that in mind, Agent 1. Thank you for your help and understanding. Is there anything else I should know or do?
+
+Agent 1: You're welcome, Emily. Just remember that if your symptoms worsen or if you experience any sudden changes, it's important to seek immediate medical attention. If you have any further questions or concerns, don't hesitate to reach out to us again. We're here to help.
+
+Customer: I appreciate your support, Agent 1. Thank you for your time and guidance. I'll follow up with my doctor and reach out if I have any more questions.
+
+Agent 1: You're very welcome, Emily. I'm glad I could assist you today. Take care of yourself and don't hesitate to contact us if you need any further assistance. Have a great day!
+
+Customer: Thank you, Agent 1. Have a great day too! Goodbye.
+
+Agent 1: Goodbye, Emily. [/INST] Medical Advice or Symptom Assessment </s>

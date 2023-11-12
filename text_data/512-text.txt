@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is John Smith. I'm calling to request my medical records from your hospital.
+
+Agent 1: Thank you for reaching out, Mr. Smith. I'll be happy to assist you with that. Can you please provide me with your date of birth and the approximate dates of the medical records you are requesting?
+
+Customer: Sure, my date of birth is January 15, 1980. I'm specifically looking for records from my hospital stay in June 2019.
+
+Agent 1: Thank you for providing the information, Mr. Smith. Let me check our system to see how we can assist you. I'll need a moment to pull up your records.
+
+(Customer is put on hold momentarily)
+
+Agent 1: Thank you for waiting, Mr. Smith. I have located your medical records from June 2019. Before we proceed, I need to verify your identity for security purposes. Can you please confirm your address and phone number on file?
+
+Customer: Sure, my address is 123 Main Street, Anytown, USA, and my phone number is (555) 123-4567.
+
+Agent 1: Thank you for confirming, Mr. Smith. Now, regarding your medical records request, we have a couple of options available. We can either provide you with a physical copy of the records, or we can send them electronically to an email address you provide. Which option would you prefer?
+
+Customer: I would prefer to receive them electronically. Can you send them to my email address, johnsmith@email.com?
+
+Agent 1: Absolutely, Mr. Smith. I will arrange for your medical records to be sent to the provided email address. Please note that you may receive them in a secure file format, and you may need a password to access them. Is there anything else I can assist you with?
+
+Customer: No, that will be all. Thank you for your help, Agent 1.
+
+Agent 1: You're welcome, Mr. Smith. If you have any further questions or need any additional assistance, please don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, goodbye.
+
+Agent 1: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

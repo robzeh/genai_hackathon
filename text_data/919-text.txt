@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm really worried about my health and I need some medical advice.
+
+Agent 1: I understand, and I'm here to help. Can you please provide me with your name?
+
+Customer: Yes, my name is Emily White.
+
+Agent 1: Thank you, Emily. Now, could you explain what symptoms or concerns you are experiencing?
+
+Customer: Lately, I've been having frequent headaches and feeling extremely fatigued. I'm also experiencing some dizziness and nausea.
+
+Agent 1: I'm sorry to hear that, Emily. Those symptoms can be concerning. Have you experienced anything else unusual recently?
+
+Customer: Well, I've noticed that my appetite has decreased, and I've been having trouble sleeping at night.
+
+Agent 1: I see. It sounds like there could be several factors contributing to your symptoms. However, I'm not a doctor, so I would recommend you seek medical advice from a healthcare professional. They will be able to provide a proper assessment and diagnosis.
+
+Customer: I understand, but I'm just really worried. Do you have any suggestions on what it could possibly be?
+
+Agent 1: I completely understand your concern, Emily. While it's difficult to determine the exact cause without a medical examination, your symptoms could be related to various conditions, such as stress, migraines, or even an underlying medical issue. It's important to consult with a healthcare professional to get an accurate diagnosis.
+
+Customer: I guess you're right. I should make an appointment with my doctor as soon as possible. Can you provide any guidance on what to expect during the appointment?
+
+Agent 1: Of course, Emily. During your appointment, the doctor will likely ask you questions about your symptoms, medical history, and any recent changes in your lifestyle. They may also conduct a physical examination and order some tests if necessary. It's important to be open and honest with your doctor, as it will help them make an accurate diagnosis.
+
+Customer: Thank you, Agent 1. I'll make sure to be prepared for my appointment. I appreciate your help and reassurance.
+
+Agent 1: You're welcome, Emily. It's important to take care of your health, and I'm glad I could provide some guidance. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thank you again for your help.
+
+Agent 1: You're welcome, Emily. Take care, and I wish you a speedy recovery. If you have any other questions or concerns in the future, don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Emily. Take care. [/INST] Medical Advice or Symptom Assessment </s>

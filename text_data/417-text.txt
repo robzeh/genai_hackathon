@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: I need some information about your healthcare facility. I've been trying to find details online, but it's been a frustrating experience.
+
+Agent: I apologize for any inconvenience you may have faced. I'll do my best to provide you with the information you need. Could you please let me know what specific details you are looking for?
+
+Customer: I want to know what medical services are offered at HealthHarbor. I need to make sure you have the expertise and equipment to handle my condition.
+
+Agent: I understand your concern. HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We have departments for cardiology, neurology, orthopedics, oncology, and many more. Our team of specialists and state-of-the-art equipment ensure that we provide the best possible care to our patients.
+
+Customer: Well, that's good to hear. But I've also heard some negative reviews about waiting times. Can you tell me how long it usually takes to get an appointment?
+
+Agent: I apologize for any inconvenience caused by waiting times. Due to high demand and the need to accommodate urgent cases, there might be occasional delays in appointment availability. However, we strive to minimize waiting times as much as possible. The exact wait time can vary depending on the department and the urgency of the situation. Would you like me to check the current availability for you?
+
+Customer: Yes, please. I need to see a neurologist as soon as possible, so I hope the wait won't be too long.
+
+Agent: I completely understand your urgency. Let me check the availability for you. Can I have your full name and contact information, please?
+
+Customer: My name is Angela Thompson, and my phone number is 555-1234.
+
+Agent: Thank you, Ms. Thompson. I see that we have a few available slots in the next week for neurology appointments. I can schedule you for a consultation with Dr. Johnson on Thursday at 10 AM. Does that work for you?
+
+Customer: Finally, some progress! Yes, that works for me. Please go ahead and schedule the appointment.
+
+Agent: Wonderful! I have successfully scheduled your appointment with Dr. Johnson on Thursday at 10 AM. You will receive a confirmation via email and a reminder closer to the date. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help. I hope my experience at HealthHarbor will be better than my online search.
+
+Agent: I understand your frustration, and I assure you that we will do our best to provide you with excellent care. If you have any further questions or concerns, please don't hesitate to reach out. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: Thank you. Goodbye.
+
+Agent: Goodbye, Ms. Thompson. Take care. [/INST] Healthcare Facility Information </s>

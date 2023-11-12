@@ -1,0 +1,25 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: I can't believe the service I received at your hospital! I am so angry right now!
+
+Agent 1: I apologize for any inconvenience you may have experienced. Can you please let me know what happened so I can assist you better?
+
+Customer: I came in for a routine check-up, and the waiting time was ridiculous! I waited for over an hour just to be seen by a doctor!
+
+Agent 1: I'm really sorry to hear that you had to wait for so long. We understand that your time is valuable and we strive to provide prompt service. I apologize for the delay. Is there anything else I can assist you with?
+
+Customer: Yes, there is! The doctor I saw was in such a rush and barely listened to my concerns. I felt like I was just another number to them!
+
+Agent 1: I apologize for the way you were treated. We aim to provide compassionate care to all our patients. I'll make a note of your feedback and share it with our management team. Is there anything specific you would like me to address?
+
+Customer: I want assurance that this won't happen to me or any other patient again. Waiting for hours and being rushed through an appointment is unacceptable!
+
+Agent 1: I completely understand your frustration, and I assure you that we take your feedback seriously. We continuously work on improving our services, and your feedback will help us in that process. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. I just hope you take my complaint seriously and make the necessary changes.
+
+Agent 1: Thank you for bringing this to our attention. We value your feedback and will take appropriate actions to address the issues you've raised. If you have any further concerns or questions in the future, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor. Have a great day!
+
+Customer: Thank you. I hope to see some improvements. Goodbye. [/INST] General Inquiries </s>

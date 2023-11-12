@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm really worried about my health and I have a few general inquiries. Can you help me?
+
+Agent 3: Of course, I'm here to help. What seems to be bothering you?
+
+Customer: Well, I've been experiencing some persistent headaches lately, and I'm not sure if I should be concerned. Can you provide any insights?
+
+Agent 3: I understand your concern. Headaches can have various causes, so it's always best to consult with a healthcare professional. Have you considered scheduling an appointment with one of our doctors?
+
+Customer: I haven't yet, but I guess that would be a good idea. How can I go about scheduling an appointment?
+
+Agent 3: We have a few options for scheduling appointments. You can either call our hospital directly and book an appointment with the receptionist, or you can visit our website and use our online booking system. Which option would you prefer?
+
+Customer: I think I'll go with the online booking system. It sounds more convenient. Can you guide me through the process?
+
+Agent 3: Absolutely! First, you'll need to visit our website at www.healthharbor.com. Once you're on the homepage, you'll see a "Book an Appointment" button. Click on that, and it will take you to our online booking portal. From there, you can select your preferred doctor, date, and time for the appointment. Just follow the prompts, and you'll be all set.
+
+Customer: That sounds straightforward enough. I'll give it a try. Thank you for your help!
+
+Agent 3: You're welcome! Is there anything else I can assist you with?
+
+Customer: Actually, yes. I'm also concerned about the cost of healthcare. Are there any financial assistance programs available at HealthHarbor?
+
+Agent 3: Yes, we do have financial assistance programs for eligible patients. These programs are designed to provide support to those who may have difficulty affording their medical expenses. I can connect you with our financial services department to discuss your specific situation and explore the options available to you. Would you like me to transfer you?
+
+Customer: That would be great, thank you. Please transfer me to the financial services department.
+
+Agent 3: Sure, please hold the line while I connect you to a representative from the financial services department.
+
+[Call is put on hold]
+
+Agent 3: Thank you for holding. I have successfully transferred your call to the financial services department, and they will assist you further. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you for your assistance, Agent 3.
+
+Agent 3: You're welcome! I'm glad I could help. If you have any more questions in the future, don't hesitate to reach out. Take care and have a great day!
+
+Customer: Thank you, you too. Goodbye!
+
+[Call ends] [/INST] General Inquiries </s>

@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. I'm calling because I've been experiencing some concerning symptoms and I'm not sure what to do.
+
+Agent 4: I'm sorry to hear that. Can you please tell me more about the symptoms you've been experiencing?
+
+Customer: Sure. I've been having frequent headaches, dizziness, and occasional nausea for the past week. I'm not sure if it's something serious or if it will go away on its own.
+
+Agent 4: I understand your concern. Headaches can be caused by various factors. Have you noticed any specific triggers for your headaches?
+
+Customer: Not really. They seem to come on randomly throughout the day. I've tried taking over-the-counter painkillers, but they only provide temporary relief.
+
+Agent 4: I see. It's important to note that I'm not a doctor, but based on your symptoms, it might be a good idea to consult with a healthcare professional. They can better assess your condition and provide appropriate medical advice. Would you like me to help you find a doctor in your area?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 4: You're welcome. Could you please provide me with your ZIP code so I can search for nearby healthcare providers?
+
+Customer: My ZIP code is 12345.
+
+Agent 4: Thank you. I'm searching for doctors in your area now. While I do that, let's discuss your dizziness and nausea. Have you experienced these symptoms together or separately?
+
+Customer: They usually occur together, especially when I have a headache. It's been affecting my daily activities and I'm starting to get worried.
+
+Agent 4: I understand your concern. Dizziness and nausea can be associated with various medical conditions. It would be best to schedule an appointment with a healthcare professional to get a proper assessment. Meanwhile, try to rest and avoid any triggers that may worsen your symptoms.
+
+Customer: Alright, I'll definitely make an appointment. Thank you for your assistance.
+
+Agent 4: You're welcome. I'm glad I could help. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thanks again for your help.
+
+Agent 4: You're welcome. I hope you feel better soon. Don't hesitate to call us again if you have any further questions or concerns. Take care!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye and take care! [/INST] Medical Advice or Symptom Assessment </s>

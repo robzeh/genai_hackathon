@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone answered! I have been waiting for my lab and test results for weeks now. This is unacceptable!
+
+Agent 2: I apologize for the delay in receiving your results. I understand your frustration. May I please have your name and date of birth so I can locate your records?
+
+Customer: My name is Emily Smith and my date of birth is March 10, 1985.
+
+Agent 2: Thank you, Emily. Let me pull up your file. I see here that your results were received last week, but it seems there was an error in notifying you. I sincerely apologize for this oversight.
+
+Customer: Well, it's about time you admit your mistake. I need those results urgently. What are they?
+
+Agent 2: I completely understand your urgency, Emily. Let me go through your results. It seems that your blood work came back normal. Your cholesterol levels are within the healthy range, and there are no signs of any abnormalities.
+
+Customer: That's a relief, I suppose. What about the other tests? Did you find anything unusual?
+
+Agent 2: Your urine analysis also came back clear, indicating no signs of infection or other issues. Your X-ray results showed no abnormalities as well. Overall, it seems that everything is normal, Emily.
+
+Customer: Thank goodness! I was worried sick. Why didn't anyone contact me earlier?
+
+Agent 2: I sincerely apologize for the lack of communication, Emily. We understand the importance of timely access to test results. I will make sure to address this issue with our lab and ensure it doesn't happen again in the future.
+
+Customer: You better do that! This kind of negligence is unacceptable. I expect better service from a healthcare facility.
+
+Agent 2: I completely understand your frustration, Emily, and I apologize once again. We value our patients' trust and will work hard to regain it. Is there anything else I can assist you with today?
+
+Customer: No, I just wanted my results. I appreciate your help in finally getting them, even though it took longer than it should have.
+
+Agent 2: I apologize for any inconvenience caused, Emily. I'm glad we could resolve this for you. If you have any further questions or concerns in the future, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor.
+
+Customer: Alright, thank you. Goodbye.
+
+Agent 2: You're welcome, Emily. Take care and have a great day. Goodbye. [/INST] Lab and Test Results </s>

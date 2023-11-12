@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Finally! I've been on hold for ages. I need some medical advice. I'm feeling really angry right now.
+
+Agent 4: I apologize for the wait and understand you're feeling angry. I'll do my best to assist you. Could you please provide me with your name?
+
+Customer: My name is Sarah Johnson.
+
+Agent 4: Thank you, Sarah. How can I help you today? What symptoms are you experiencing?
+
+Customer: I've been having a persistent headache for the past two days, and it's getting worse. I'm also feeling nauseous.
+
+Agent 4: I'm sorry to hear that, Sarah. Headaches and nausea can be quite bothersome. Have you experienced any other symptoms recently?
+
+Customer: No, it's mainly just the headache and nausea. But it's really affecting my daily life.
+
+Agent 4: I understand how frustrating that can be. Have you taken any medication or tried any home remedies to alleviate your symptoms?
+
+Customer: I've taken over-the-counter painkillers, but they only provide temporary relief. I haven't tried any home remedies yet.
+
+Agent 4: Okay, thank you for sharing that information. Based on your symptoms, it would be best for you to consult with a medical professional. Headaches and nausea can be caused by various factors, and it's important to get a proper diagnosis. Would you like me to assist you in scheduling an appointment with a doctor?
+
+Customer: Yes, that would be helpful. I want to get to the bottom of this and find a solution.
+
+Agent 4: I completely understand, Sarah. I'll need some additional information to schedule the appointment. Could you please provide me with your preferred date and time for the appointment?
+
+Customer: I'm available next Tuesday at 2 PM. Can you book it for me?
+
+Agent 4: Absolutely, Sarah. I've scheduled an appointment for you on Tuesday at 2 PM. You'll receive a confirmation email with all the details shortly. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I just hope the doctor can help me find relief.
+
+Agent 4: I understand your concern, Sarah. Our doctors are highly qualified and will do their best to help you. If you have any more questions or concerns, please don't hesitate to reach out to us. We're here to support you.
+
+Customer: Thank you for your assistance. I appreciate your help.
+
+Agent 4: You're welcome, Sarah. Take care, and I hope you feel better soon. Goodbye!
+
+Customer: Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

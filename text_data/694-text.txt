@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Finally, someone answered! I have been waiting for so long to get my lab and test results. This is ridiculous! 
+
+Agent 4: I apologize for the wait and any inconvenience caused. I understand your frustration. Could you please provide me with your name and date of birth so that I can locate your records?
+
+Customer: My name is Sarah Johnson, and my date of birth is January 10, 1985.
+
+Agent 4: Thank you, Sarah. Let me pull up your file. I see that you recently had some lab tests done. May I ask which specific results you are looking for?
+
+Customer: I had a blood test, a urine test, and an X-ray done. I want to know the results for all of them!
+
+Agent 4: I completely understand your concern, Sarah. Give me a moment to access your results. 
+
+(Customer waits impatiently)
+
+Agent 4: I have your results here, Sarah. The blood test indicates that your cholesterol levels are within the normal range. Your urine test shows no signs of infection or abnormalities. Lastly, your X-ray came back clear, with no signs of any fractures or abnormalities.
+
+Customer: Are you sure? I've been feeling so sick lately, and I was hoping these tests would provide some answers!
+
+Agent 4: I understand your concerns, Sarah, but these results indicate that there are no major issues. However, I recommend scheduling an appointment with your primary care physician to discuss your symptoms further and explore other possible causes.
+
+Customer: I can't believe this! I was expecting some concrete answers, and now I'm back to square one!
+
+Agent 4: I apologize if the results are not what you were hoping for, Sarah. Sometimes, additional tests or a consultation with a specialist may be required to determine the underlying cause of your symptoms. Our role here is to provide you with the test results, and your primary care physician will be able to guide you further.
+
+Customer: Fine, I'll make an appointment. But I'm not happy about this at all!
+
+Agent 4: I understand your frustration, Sarah, and I apologize for any disappointment caused. Is there anything else I can assist you with today?
+
+Customer: No, I guess not. Just make sure this call is noted in my file!
+
+Agent 4: Absolutely, Sarah. I will make a note of this conversation for future reference. If you have any other questions or concerns, please don't hesitate to reach out. Take care.
+
+Customer: Whatever. Goodbye. *hangs up* [/INST] Lab and Test Results </s>

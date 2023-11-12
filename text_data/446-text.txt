@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I recently had some lab tests done at your hospital, and I wanted to inquire about the results.
+
+Agent 1: Thank you for reaching out, Sarah. I understand you're looking for information about your lab test results. I'll be happy to assist you with that. Can you please provide me with your patient ID or any other identification details?
+
+Customer: Sure, my patient ID is 123456789.
+
+Agent 1: Thank you for providing that, Sarah. Let me pull up your records. I see here that you had a comprehensive blood workup done. Is that correct?
+
+Customer: Yes, that's correct. I had some routine blood tests done, and I'm curious to know the results.
+
+Agent 1: Alright, let me access your results. Please bear with me for a moment. It seems that your blood workup came back within normal ranges. Everything looks good. Is there anything specific you would like to know about the results?
+
+Customer: That's great to hear. I'm mainly interested in my cholesterol levels and blood sugar levels. Can you provide me with those details?
+
+Agent 1: Certainly, Sarah. Your total cholesterol level is 180 mg/dL, which falls within the desirable range. As for your blood sugar levels, your fasting glucose level is 95 mg/dL, indicating normal blood sugar control.
+
+Customer: That's a relief. Thank you for sharing those details, Agent 1. Is there anything else I should be aware of in my lab results?
+
+Agent 1: Your lab results indicate that your liver function, kidney function, and thyroid function are all normal. Your complete blood count and lipid profile are also within normal limits. Overall, it appears that you have a clean bill of health based on these results.
+
+Customer: That's great news to hear. I'm glad everything looks normal. Thank you for taking the time to go over my results, Agent 1. I really appreciate it.
+
+Agent 1: You're welcome, Sarah. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again for your help, Agent 1.
+
+Agent 1: It was my pleasure, Sarah. If you have any further questions or need assistance in the future, don't hesitate to reach out. Have a wonderful day!
+
+Customer: You too, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Sarah. Take care! [/INST] Lab and Test Results </s>

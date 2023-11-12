@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Finally, I've been trying to reach someone for ages! I need to request my medical records immediately.
+
+Agent 3: I apologize for the wait and any inconvenience caused. I understand your urgency, and I'll be happy to assist you with your medical records request. May I have your name, please?
+
+Customer: My name is John Smith.
+
+Agent 3: Thank you, Mr. Smith. Could you please provide me with your date of birth and any other identifying information to locate your records?
+
+Customer: My date of birth is July 15, 1980. My address is 123 Oak Street, and my social security number is 123-45-6789.
+
+Agent 3: Thank you for providing the necessary information, Mr. Smith. I see that you're a patient at HealthHarbor. Could you please specify which specific medical records you're requesting?
+
+Customer: I need a copy of all my medical records from the past five years. I'm switching doctors, and they require the complete history.
+
+Agent 3: I understand your need for a comprehensive medical history. Let me check if we can provide the records for the requested time frame. Please bear with me for a moment.
+
+(Customer is put on hold for a short while.)
+
+Agent 3: Thank you for your patience, Mr. Smith. Good news! We can provide you with a copy of your medical records from the past five years. However, there is a standard procedure to follow for obtaining them. First, we'll need you to fill out a medical records release form. Would you like me to email it to you, or would you prefer to pick it up in person?
+
+Customer: Email it to me, please. I don't have the time to come in person.
+
+Agent 3: Noted, Mr. Smith. I will send the medical records release form to the email address we have on file. Please ensure you check your spam folder as well. Once you've filled out the form, please return it to us via email or fax. Once we receive the completed form, we'll process your request promptly.
+
+Customer: Alright, I'll keep an eye out for the email. How long does it usually take to process the request once you receive the completed form?
+
+Agent 3: Our standard processing time is around 5-7 business days after receiving the completed form. However, please note that it may vary depending on the volume of requests we're handling at that time.
+
+Customer: That's too long! I need it sooner than that. Can't you expedite the process?
+
+Agent 3: I understand your urgency, Mr. Smith. While we do offer an expedited service for an additional fee, I'm afraid we cannot guarantee a shorter processing time for regular requests. However, I can escalate your request and see if we can expedite it as a special case. Would you like me to proceed with that?
+
+Customer: Yes, please do whatever you can to speed up the process. It's crucial for my new doctor to have my records as soon as possible.
+
+Agent 3: I completely understand, Mr. Smith. I will escalate your request and make a note of your urgency. Although I cannot guarantee an immediate turnaround, I will do my best to expedite the process for you. Is there anything else I can assist you with?
+
+Customer: No, that's all. Just make sure my request gets prioritized. This whole ordeal has been frustrating enough.
+
+Agent 3: I completely understand your frustration, Mr. Smith. Rest assured, I'll do my best to ensure your request is handled promptly. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor, and have a great day.
+
+Customer: Thank you, Agent 3. I appreciate your assistance. Goodbye.
+
+Agent 3: You're welcome, Mr. Smith. Take care and have a great day. Goodbye. [/INST] Medical Records Requests </s>

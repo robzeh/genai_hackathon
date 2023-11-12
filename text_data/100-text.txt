@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is John Smith, and I'm feeling quite worried. I need to request my medical records from your hospital. Can you help me with that?
+
+Agent 4: Of course, Mr. Smith. I understand your concern. We are here to assist you. Could you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: My date of birth is March 15, 1980, and I'm requesting my medical records for personal reference and also for a second opinion from another doctor.
+
+Agent 4: Thank you for providing that information, Mr. Smith. I completely understand the need for a second opinion. Let me check if we have your records on file. It may take a few moments, please bear with me.
+
+(Customer waits for a few moments)
+
+Agent 4: Mr. Smith, I have found your records in our system. In order to process your request, I will need you to fill out a medical records release form. This form can be sent to you electronically or via regular mail. Which option do you prefer?
+
+Customer: I would prefer receiving the form electronically, please. Can you email it to me?
+
+Agent 4: Certainly, Mr. Smith. I will need your email address to send you the form. Could you please provide it to me?
+
+Customer: My email address is johnsmith@email.com.
+
+Agent 4: Thank you, Mr. Smith. I will send you the form right away. Once you receive it, please fill it out completely and return it to us as soon as possible. You can send it back via email or fax. Our contact information will be included in the email along with the form.
+
+Customer: Understood. I will complete the form and send it back to you promptly. Is there any specific information I need to include or any fees associated with this request?
+
+Agent 4: There are no fees for the medical records request within the first 30 days. However, if you require a large volume of records or request them after 30 days, there may be a nominal fee. As for the information to include, please ensure you provide your full name, date of birth, the specific records you need, and any relevant dates or timeframes.
+
+Customer: Alright, I'll make sure to include all the necessary details. Just to confirm, how long does it usually take to process the request once you receive the completed form?
+
+Agent 4: Once we receive the completed form, it usually takes around 7-10 business days to process the request and provide you with the requested medical records. However, this timeline can vary depending on the volume of requests we receive. We will inform you if there are any delays.
+
+Customer: That sounds reasonable. I appreciate your assistance, Agent 4. I'm glad I could easily request my medical records. Is there anything else I should know about this process?
+
+Agent 4: You're welcome, Mr. Smith. I'm glad I could help. Just one more thing, please make sure to provide us with a valid photo ID along with your completed form. This is to ensure the privacy and security of your medical records. Once we receive everything, we will notify you of the successful processing of your request.
+
+Customer: I understand the need for security and will include a copy of my photo ID. Thank you for reminding me. I believe that covers all my concerns regarding this request.
+
+Agent 4: You're welcome, Mr. Smith. I'm glad I could address all your concerns. If you have any more questions or need further assistance, please don't hesitate to reach out to us. We are here to help you. [/INST] Medical Records Requests </s>

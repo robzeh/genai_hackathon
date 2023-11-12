@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: (angry) Finally, someone answers! I've been on hold for ages. I need some medical advice. I've been feeling really sick lately and I don't know what to do.
+
+Agent 1: I apologize for the wait and I understand your frustration. I'm here to help you. Can you please provide me with your name?
+
+Customer: My name is Lisa Johnson.
+
+Agent 1: Thank you, Lisa. I'm sorry to hear that you're feeling unwell. Can you please describe your symptoms to me?
+
+Customer: I've been having a high fever, severe headache, and body aches. I'm also experiencing a sore throat and a cough.
+
+Agent 1: I'm not a doctor, but those symptoms could be indicative of a viral infection, possibly the flu. It's important to see a healthcare professional for a proper diagnosis. Have you visited a doctor yet?
+
+Customer: No, I haven't. I was hoping to get some advice from you before making an appointment.
+
+Agent 1: I understand, but it's always best to consult with a medical professional for an accurate assessment. They will be able to provide you with the most appropriate advice and treatment options. Is there anything else I can assist you with?
+
+Customer: Well, how long does the flu usually last? I can't afford to take too much time off work.
+
+Agent 1: The duration of the flu can vary from person to person, but typically it lasts for about a week to ten days. However, it's important to note that complications can arise, especially if left untreated. I strongly recommend seeing a doctor as soon as possible to prevent any further complications.
+
+Customer: Ugh, this is so frustrating. I can't believe I have to deal with this.
+
+Agent 1: I completely understand your frustration, Lisa. Being sick can be very inconvenient, but it's important to prioritize your health. Taking care of yourself now can prevent any potential complications in the future. Is there anything else I can assist you with?
+
+Customer: No, I guess not. I'll make an appointment with my doctor. Thanks for your help, I guess.
+
+Agent 1: You're welcome, Lisa. I'm glad I could assist you. If you have any further questions or concerns, please don't hesitate to reach out. Take care and I hope you feel better soon.
+
+Customer: Yeah, thanks. Goodbye.
+
+Agent 1: Goodbye, Lisa. Have a great day. [/INST] Medical Advice or Symptom Assessment </s>

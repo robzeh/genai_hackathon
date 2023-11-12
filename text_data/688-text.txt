@@ -1,0 +1,51 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer (angry): About time I got through to someone! I've been on hold for ages. I need some medical advice. I've been feeling really sick lately and I don't know what to do.
+
+Agent 2: I apologize for the wait and I understand your frustration. I'm here to help you. Can you please provide me with your name?
+
+Customer: My name is Sarah Thompson.
+
+Agent 2: Thank you, Sarah. I'm sorry to hear that you're feeling sick. Can you please describe your symptoms in detail?
+
+Customer: Well, for the past week, I've had a persistent cough, fever, and body aches. I've also been experiencing shortness of breath.
+
+Agent 2: I'm not a doctor, but those symptoms could be signs of a respiratory infection. It's important to consult with a healthcare professional to get an accurate diagnosis. I can help you find a nearby healthcare facility if you'd like.
+
+Customer: Yes, I would appreciate that. I just want to know what's wrong with me and how to get better.
+
+Agent 2: Of course, Sarah. I'm here to assist you. Can you please provide me with your ZIP code?
+
+Customer: My ZIP code is 12345.
+
+Agent 2: Thank you. Give me a moment to find the closest healthcare facility to your location. 
+
+(Customer waits for a few seconds)
+
+Agent 2: Sarah, I've found a few options for you. There's the HealthHarbor Urgent Care Center located at 123 Main Street, which is just a few miles away from your location. They're open until 8 PM tonight. Would you like me to schedule an appointment for you?
+
+Customer: No, I don't want to go to HealthHarbor. They have terrible service there. I'd rather go somewhere else.
+
+Agent 2: I apologize if you had a negative experience in the past. I understand your concerns. Let me find an alternative healthcare facility for you. 
+
+(Customer waits for a few more seconds)
+
+Agent 2: Sarah, I found another option for you. There's a community clinic called CareWell Clinic at 456 Elm Avenue. They have good reviews and are open until 9 PM tonight. Would you like me to schedule an appointment there instead?
+
+Customer: Yes, that sounds better. Please schedule an appointment for me at CareWell Clinic.
+
+Agent 2: I'm glad I could find an alternative that suits your needs. I'll go ahead and schedule the appointment for you. Can I have your phone number so they can reach out to you?
+
+Customer: Sure, it's 555-123-4567.
+
+Agent 2: Thank you, Sarah. I have scheduled an appointment for you at CareWell Clinic. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I just hope I can get better soon. Thanks for your help.
+
+Agent 2: You're welcome, Sarah. I hope you recover quickly. If you have any other questions or concerns, don't hesitate to reach out. Take care and have a good day!
+
+Customer: Thank you, goodbye.
+
+Agent 2: Goodbye, Sarah. [/INST] Medical Advice or Symptom Assessment </s>

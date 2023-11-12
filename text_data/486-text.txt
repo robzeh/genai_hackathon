@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. This is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I have a few general inquiries about HealthHarbor.
+
+Agent 3: Of course, Emily. I'll do my best to help you. What would you like to know?
+
+Customer: First, I wanted to know what services the hospital offers.
+
+Agent 3: HealthHarbor provides a wide range of medical services, including emergency care, surgery, maternity care, pediatrics, internal medicine, and various specialty clinics. We also have diagnostic services such as radiology and laboratory tests.
+
+Customer: That's great to hear. How about the availability of doctors? Are there specialists in different fields?
+
+Agent 3: Absolutely, Emily. HealthHarbor has a team of highly skilled doctors and specialists in various fields such as cardiology, neurology, orthopedics, gastroenterology, and many more. We strive to provide comprehensive care to our patients.
+
+Customer: That's really reassuring. I also wanted to know if you accept insurance plans.
+
+Agent 3: Yes, HealthHarbor accepts most major insurance plans. However, it's always a good idea to check with your insurance provider to confirm the coverage for specific services or procedures.
+
+Customer: Alright, I'll make sure to do that. Can you tell me about the visiting hours for patients?
+
+Agent 3: Visiting hours at HealthHarbor are from 9 am to 9 pm. However, please note that there might be some restrictions or limitations based on the patient's condition or the department they are admitted to. It's best to check with the nursing staff for any specific guidelines.
+
+Customer: Got it, thanks for clarifying. One more thing, are there any support services available for patients and their families?
+
+Agent 3: Yes, Emily. HealthHarbor understands the importance of support services. We offer counseling services, social workers, and support groups to assist patients and their families during their healthcare journey. We also have a patient advocacy program to ensure patients' needs are met.
+
+Customer: That's really helpful to know. I appreciate the effort HealthHarbor puts into patient support. I think that covers all my questions. Thank you for your assistance, Agent 3.
+
+Agent 3: You're welcome, Emily. I'm glad I could help you. If you have any more questions in the future, don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye!
+
+Agent 3: Goodbye, Emily. Take care! [/INST] General Inquiries </s>

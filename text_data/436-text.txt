@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Emily Dawson. I recently had some lab and test done at your hospital, and I'm calling to inquire about the results.
+
+Agent 3: Hello, Emily. I understand that you're looking for your lab and test results. I'll be happy to assist you with that. May I have your date of birth, please?
+
+Customer: Sure, it's April 15, 1985.
+
+Agent 3: Thank you, Emily. I have your records here. Before we proceed, I need to verify your identity for security purposes. Can you please provide me with your home address?
+
+Customer: Yes, it's 123 Main Street, Anytown, USA.
+
+Agent 3: Thank you for confirming, Emily. Now, let me check your file for the lab and test results. Please bear with me for a moment.
+
+(Customer waits patiently)
+
+Agent 3: I apologize for the wait, Emily. I have reviewed your file, and it seems that your lab and test results are not yet available in our system. It usually takes a few days for the results to be processed. May I ask when you had the tests done?
+
+Customer: I had the tests done exactly a week ago. I was told that the results would be available by now.
+
+Agent 3: I apologize for the delay, Emily. Sometimes, certain tests may take longer to process or interpret. I understand your concern, and I will escalate this matter to our laboratory department. They will investigate the status of your results and provide you with an update as soon as possible. Would it be alright if we contact you once we have more information?
+
+Customer: Yes, please do. I would appreciate it if you could expedite the process. These results are important for my ongoing treatment.
+
+Agent 3: I completely understand, Emily. I will ensure that your request is prioritized, and we will contact you as soon as we have an update on your lab and test results. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emily. I apologize for the inconvenience caused, and we will do our best to resolve this matter promptly. If you have any other questions or concerns in the meantime, please don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Emily. Take care. [/INST] Lab and Test Results </s>

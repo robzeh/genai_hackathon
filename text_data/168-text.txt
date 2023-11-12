@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I need some help with my medical records.
+
+Agent 1: Hello, Sarah. I'm here to help. I understand you need assistance with your medical records. Could you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure. My date of birth is June 10, 1985. The reason I need my medical records is because I'm changing doctors and they require my complete medical history.
+
+Agent 1: I see. Changing doctors is an important step, and having your medical records is crucial for continuity of care. Let me assist you in obtaining those records. Can you please confirm the name of the previous healthcare provider?
+
+Customer: Yes, it was Greenfield Medical Center.
+
+Agent 1: Thank you, Sarah. I will need your consent to access your medical records from Greenfield Medical Center. We have a standard release form that needs to be completed. Would you like me to email it to you, or would you prefer a physical copy to be mailed to your address?
+
+Customer: I would prefer to receive the form via email for quicker processing. My email address is sarah.johnson@email.com.
+
+Agent 1: Great, Sarah. I will send the form to your email right away. Once you receive it, please fill it out, sign it, and return it to us. You can send it back through email or fax. Do you have access to a scanner or a fax machine?
+
+Customer: Yes, I have a scanner, so I'll be able to send it back through email once I complete it. Will I need to provide any additional information along with the form?
+
+Agent 1: Besides the completed form, please ensure that you include a copy of your photo ID for verification purposes. This helps us maintain the security and confidentiality of your records.
+
+Customer: Understood. I'll make sure to include a copy of my ID along with the form. How long does the process usually take once I send everything back?
+
+Agent 1: Once we receive your completed form and photo ID, it typically takes around 7-10 business days to process your request. However, please note that during busy periods, it may take a bit longer. Rest assured, we will do our best to expedite the process for you.
+
+Customer: Okay, that sounds reasonable. I'll keep an eye out for the form in my email and send it back to you as soon as possible. Is there anything else I need to know?
+
+Agent 1: Just a couple more things, Sarah. Once we receive and process your request, we will notify you via email or phone call. Additionally, if there are any fees associated with obtaining your medical records, we will inform you of the payment process. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+Customer: Thank you, Agent 1. I appreciate your assistance and for answering all my questions. I'll be sure to contact you if I have any further concerns.
+
+Agent 1: You're welcome, Sarah. It was my pleasure to help you. Take care, and good luck with your new doctor. Have a great day!
+
+Customer: Thank you, Agent 1. You too! Goodbye! [/INST] Medical Records Requests </s>

@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi Agent 2, my name is John Smith. I'm calling to request my medical records from your hospital.
+
+Agent 2: Hello, Mr. Smith. I'd be happy to help you with that. Could you please provide me with your date of birth and the purpose for requesting your medical records?
+
+Customer: Sure, my date of birth is January 15, 1980. I need the records for my personal records and for a follow-up appointment with another doctor.
+
+Agent 2: Thank you for providing that information, Mr. Smith. Just to confirm, you are requesting your complete medical records, correct?
+
+Customer: Yes, that's correct. I would like to have a copy of all my medical records from the past few years.
+
+Agent 2: Understood. In order to process your request, I will need you to fill out a medical records release form. Would you like me to email it to you or would you prefer to pick it up from our hospital?
+
+Customer: It would be more convenient if you could email it to me. My email address is john.smith@email.com.
+
+Agent 2: Noted, Mr. Smith. I will send the medical records release form to your email right away. Once you receive it, please fill it out and send it back to us as soon as possible. Is there anything else I can assist you with?
+
+Customer: Actually, I have a few questions regarding the process. How long does it usually take to receive the medical records once the form is filled out and submitted?
+
+Agent 2: Typically, it takes about 7-10 business days for us to process your request and send out the medical records. However, please keep in mind that this may vary depending on the volume of requests we receive at the time.
+
+Customer: That's understandable. Is there a fee for obtaining the medical records?
+
+Agent 2: Yes, there is a fee associated with obtaining medical records. The exact cost will depend on the number of pages in your records. Once we receive your completed form, we will calculate the total cost and inform you of the payment options.
+
+Customer: Alright, I appreciate the information. Just to clarify, can I request the medical records to be sent directly to my new doctor's office?
+
+Agent 2: Yes, certainly. If you provide us with the necessary details of your new doctor's office, we can send the records directly to them. Just make sure to include that information on the medical records release form.
+
+Customer: Great, I will make sure to include that information. Thank you for your assistance, Agent 2.
+
+Agent 2: You're welcome, Mr. Smith. If you have any further questions or need any additional assistance, please don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 2. You too. Goodbye.
+
+Agent 2: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

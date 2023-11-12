@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Samantha Johnson. I have a few general inquiries about HealthHarbor.
+
+Agent 3: Of course, Samantha. I'll do my best to help you. What would you like to know?
+
+Customer: First, can you tell me about the services HealthHarbor offers?
+
+Agent 3: Certainly, Samantha. HealthHarbor is a comprehensive healthcare facility that provides a wide range of medical services. We have departments for primary care, specialized clinics, surgical procedures, emergency care, and much more. Our goal is to cater to all the healthcare needs of our patients.
+
+Customer: That sounds great. How about the availability of doctors and specialists?
+
+Agent 3: We have a dedicated team of doctors and specialists available at HealthHarbor. They cover various fields such as internal medicine, pediatrics, cardiology, orthopedics, and more. Our doctors follow a schedule to ensure availability, and we also have an on-call service for emergencies.
+
+Customer: That's reassuring to know. What about the facilities and equipment at HealthHarbor?
+
+Agent 3: We pride ourselves on having state-of-the-art facilities and the latest medical equipment. Our hospital is equipped with advanced diagnostic tools, operating theaters, and intensive care units. We aim to provide the best possible care to our patients by investing in modern technology and equipment.
+
+Customer: That's impressive. How do I schedule an appointment at HealthHarbor?
+
+Agent 3: Scheduling an appointment is easy, Samantha. You can either call our appointment hotline or visit our website to book an appointment online. We also have a walk-in option for urgent care situations.
+
+Customer: Great, I'll keep that in mind. What insurance plans does HealthHarbor accept?
+
+Agent 3: We accept a wide range of insurance plans, Samantha. However, it's best to call our insurance department with your specific plan details to ensure coverage. They can guide you through the process and provide you with all the necessary information.
+
+Customer: Alright, I'll make sure to contact the insurance department. Lastly, do you offer any additional services or programs?
+
+Agent 3: Yes, we do. HealthHarbor offers various additional services and programs to support our patients. These include health and wellness programs, rehabilitation services, mental health support, and more. We strive to provide comprehensive care to address all aspects of our patients' well-being.
+
+Customer: That's wonderful to hear. Thank you for answering all my questions, Agent 3. You've been very helpful.
+
+Agent 3: You're welcome, Samantha. I'm glad I could assist you. If you have any more questions in the future, feel free to reach out. Have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye!
+
+Agent 3: Goodbye, Samantha. Take care! [/INST] General Inquiries </s>

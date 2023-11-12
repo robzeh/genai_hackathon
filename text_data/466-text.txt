@@ -1,0 +1,27 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I need to request my medical records from your hospital.
+
+Agent 4: Sure, Emily. I can help you with that. May I have your date of birth and the reason for requesting your medical records?
+
+Customer: My date of birth is May 15, 1985. I need the records for my personal file and to share them with my new primary care physician.
+
+Agent 4: Thank you for providing your date of birth, Emily. I understand you need the records for personal use and to share with your new primary care physician. Let me check if we have your records on file. Can you please hold on for a moment while I access your records?
+
+Customer: Of course, take your time.
+
+Agent 4: Thank you for your patience, Emily. I see that we do have your medical records in our system. To request a copy, we would need you to fill out a medical records release form. Would you like me to email it to you or would you prefer a physical copy mailed to your address?
+
+Customer: I would prefer to receive the form via email. My email address is emilyjohnson@gmail.com.
+
+Agent 4: Noted, Emily. I will send the form to your email address shortly. Once you receive it, please fill it out and send it back to us. Upon receiving the completed form, we will process your request as soon as possible. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thank you for your help, Agent 4.
+
+Agent 4: You're welcome, Emily. If you have any further questions or need any assistance in the future, please don't hesitate to reach out to us. Have a great day!
+
+Customer: You too, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Emily. Take care! [/INST] Medical Records Requests </s>

@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi Agent 1, my name is Sarah Johnson. I'm feeling really worried about my health and I was hoping you could help me with some general inquiries.
+
+Agent 1: Of course, Sarah. I'm here to help. What specific concerns or questions do you have?
+
+Customer: Well, I've been experiencing some persistent headaches lately, and it's been really concerning. I wanted to know if HealthHarbor offers any specialized services for headache treatment.
+
+Agent 1: I'm sorry to hear about your headaches, Sarah. HealthHarbor does have a dedicated neurology department that specializes in diagnosing and treating various types of headaches. We have experienced neurologists who can help identify the cause of your headaches and provide appropriate treatment options. Would you like me to schedule an appointment for you?
+
+Customer: Yes, that would be great. I would appreciate it if you could schedule an appointment for me as soon as possible.
+
+Agent 1: Noted, Sarah. I will schedule an appointment for you with our neurology department. Can you please provide me with your preferred date and time?
+
+Customer: I'm quite flexible with my schedule. Any weekday afternoon would work for me.
+
+Agent 1: Alright, I will try to find an available slot for you. In the meantime, is there anything else I can assist you with?
+
+Customer: Actually, yes. I recently moved to a new area and I'm not familiar with the local hospitals. Can you tell me more about the facilities and services offered at HealthHarbor?
+
+Agent 1: Absolutely, Sarah. HealthHarbor is a full-service hospital that offers a wide range of medical services. We have state-of-the-art facilities and a dedicated team of healthcare professionals. Our services include emergency care, surgery, obstetrics, pediatrics, cardiology, oncology, and much more. We also have advanced diagnostic imaging services such as MRI, CT scans, and X-rays. Additionally, we have a pharmacy and laboratory on-site for convenience.
+
+Customer: That sounds impressive. I'm glad to know that HealthHarbor has such comprehensive services. It gives me peace of mind knowing that I can rely on HealthHarbor for my healthcare needs. 
+
+Agent 1: We're here to provide the best possible care, Sarah. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you so much for your help, Agent 1. I really appreciate your assistance and I'm looking forward to my appointment.
+
+Agent 1: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or concerns, don't hesitate to reach out to us. Take care, and we'll see you soon at HealthHarbor. [/INST] General Inquiries </s>

@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hi, I'm Lisa Thompson. I need help with a medical records request. I'm feeling really scared about it.
+
+Agent 3: Hi, Lisa. I understand that medical records requests can be overwhelming. Don't worry, I'm here to help you. Could you please provide me with your date of birth and the reason for the medical records request?
+
+Customer: My date of birth is July 15, 1985. I need the records for my recent surgery. I'm scared because I'm experiencing some complications, and I want to make sure everything is documented correctly.
+
+Agent 3: I understand your concern, Lisa. It's important to have accurate medical records. I'll do my best to assist you. Can you please provide me with the date of your surgery and any other relevant information?
+
+Customer: The surgery took place on June 27th. Since then, I've been experiencing severe pain and some unusual symptoms. I just want to make sure the records accurately reflect what I've been going through.
+
+Agent 3: I'm sorry to hear that, Lisa. I can imagine how distressing it must be for you. Let me check your records and see what I can do. Please bear with me for a moment while I access your information.
+
+(Customer waits for a few moments)
+
+Agent 3: Thank you for your patience, Lisa. I have located your records. I see that your surgery was performed by Dr. Johnson. Can you please provide me with the details of your symptoms and any treatments you have received since the surgery?
+
+Customer: The main symptom I've been experiencing is intense pain in the surgical area. It's been persistent and hasn't improved since the surgery. Additionally, I've noticed some redness and swelling around the incision site. I've been taking the prescribed pain medication, but it doesn't seem to be helping much.
+
+Agent 3: I'm sorry to hear that you're still in pain, Lisa. It's important to address these symptoms promptly. I will make a note of your concerns and escalate your case to our medical team. They will review your records and get back to you as soon as possible.
+
+Customer: Thank you, Agent 3. I appreciate your help. I'm just really scared that something might be wrong or that the surgery didn't go as planned.
+
+Agent 3: I understand your fears, Lisa. It's natural to feel anxious in such situations. Our medical team will thoroughly review your case, and if necessary, they will reach out to you to discuss any further steps or examinations. We prioritize patient care and safety, so please rest assured that we will do everything we can to address your concerns.
+
+Customer: Thank you for reassuring me, Agent 3. I feel a little better knowing that someone will be looking into this. I just hope it gets resolved soon.
+
+Agent 3: I completely understand, Lisa. Your well-being is our priority, and we will work diligently to resolve this for you. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Lisa. If you have any further questions or concerns, don't hesitate to reach out to us. Take care, and we wish you a speedy recovery.
+
+(Customer hangs up the call) [/INST] Medical Records Requests </s>

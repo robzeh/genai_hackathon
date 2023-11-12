@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Finally, someone who answered! I've been trying to reach your hospital for the past hour and no one picked up! This is ridiculous!
+
+Agent 4: I apologize for the inconvenience, sir. I understand your frustration. How can I help you with your general inquiries today?
+
+Customer: Well, I've been experiencing some health issues recently, and I wanted to know if your hospital provides specialized care for my condition.
+
+Agent 4: Absolutely, sir. HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. Could you please provide me with some details about your condition so that I can guide you appropriately?
+
+Customer: I've been having persistent back pain for the past few weeks, and it's affecting my daily life. I need to know if you have specialized orthopedic care available.
+
+Agent 4: I'm sorry to hear about your discomfort, sir. Yes, HealthHarbor has a dedicated orthopedic department led by highly skilled specialists. They can help diagnose and treat various back-related issues. Would you like me to schedule an appointment for you?
+
+Customer: Yes, please. I can't take this pain anymore. And make it as soon as possible!
+
+Agent 4: I understand, sir. Let me check the availability of our orthopedic department. Can I have your name, please?
+
+Customer: It's John Smith.
+
+Agent 4: Thank you, Mr. Smith. I see that we have an opening tomorrow at 3 PM. Would that work for you?
+
+Customer: Yes, that works. But I hope this doesn't happen again. I shouldn't have to wait this long to get through to someone.
+
+Agent 4: I apologize for the wait again, Mr. Smith. We appreciate your feedback, and I assure you we will work on improving our phone system to provide better service in the future. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Just fix your phone system, please.
+
+Agent 4: I understand your frustration, and I will definitely pass on your feedback to the relevant department. Thank you for bringing this to our attention. If you have any further questions or concerns, please don't hesitate to reach out. Take care, Mr. Smith. [/INST] General Inquiries </s>

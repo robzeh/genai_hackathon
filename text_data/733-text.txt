@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Johnson. I recently had some lab tests done at your hospital, and I was wondering if the results are ready.
+
+Agent 3: Hello, Sarah. I'm glad you reached out to us. I can definitely help you with that. Could you please provide me with your date of birth and the date you had the tests done?
+
+Customer: Sure, my date of birth is May 10th, 1985, and I had the tests done on July 25th, 2022.
+
+Agent 3: Thank you for providing that information, Sarah. Let me check our system for your lab results. Could you please hold for a moment?
+
+(Customer holds)
+
+Agent 3: Thank you for patiently waiting, Sarah. I have found your lab results. Everything appears to be normal. Is there anything specific you would like to know about the results?
+
+Customer: That's great to hear, Agent 3. I was mainly concerned about my cholesterol levels and blood sugar. Are those within the normal range?
+
+Agent 3: Yes, Sarah. Your cholesterol levels and blood sugar are within the normal range. If you have any further questions or concerns about your results, please let me know.
+
+Customer: Thank you, Agent 3. That's a relief. I don't have any further questions regarding the results. Is there anything else I need to do?
+
+Agent 3: You're welcome, Sarah. I'm glad I could assist you. If you have any other medical concerns or need to schedule any follow-up appointments, please feel free to reach out to us. Otherwise, you are all set.
+
+Customer: Alright, I will definitely keep that in mind. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Sarah. It was my pleasure assisting you today. If you have any other questions in the future, don't hesitate to contact us. Take care and have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye!
+
+Agent 3: Goodbye, Sarah. Have a wonderful day! [/INST] Lab and Test Results </s>

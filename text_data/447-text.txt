@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I would like to request my medical records from your hospital.
+
+Agent: Hello, Ms. Johnson. I'd be happy to assist you with that. May I have your date of birth and the approximate dates of your visits to our hospital?
+
+Customer: Sure. My date of birth is January 15, 1985. I had two visits to your hospital, one on February 20, 2020, and another on June 10, 2021.
+
+Agent: Thank you for providing the details, Ms. Johnson. To process your medical records request, I will need your written authorization. Would you like me to email or mail the authorization form to you?
+
+Customer: Email would be more convenient for me. Could you please send it to sarahjohnson@example.com?
+
+Agent: Certainly, Ms. Johnson. I will send the authorization form to your email right away. Once you receive it, please fill it out, sign it, and send it back to us. 
+
+Customer: Okay, I'll keep an eye on my inbox. Once I send the form back, how long will it take for me to receive my medical records?
+
+Agent: Once we receive your completed authorization form, it typically takes around 5-7 business days to process your request. However, please note that due to high demand, there might be a slight delay. We will do our best to provide you with your records as soon as possible.
+
+Customer: That sounds reasonable. I appreciate your help. Can I also request a copy of my lab test results from those visits?
+
+Agent: Of course, Ms. Johnson. You can indicate your request for lab test results on the authorization form. If there are specific tests you need, please mention them, and we will do our best to include them in your records.
+
+Customer: Great, I will make sure to specify that on the form. Are there any fees associated with obtaining my medical records?
+
+Agent: Yes, there may be a fee for processing your medical records request. However, it depends on the size and complexity of your records. Once we receive your completed authorization form, our medical records department will assess the cost and inform you accordingly.
+
+Customer: I see. I hope the fee is reasonable. Is there any way to get an estimate of the cost beforehand?
+
+Agent: I understand your concern, Ms. Johnson. While I don't have access to the exact cost, I recommend reaching out to our medical records department directly after sending the form. They will be able to provide you with an estimate and address any further questions you may have.
+
+Customer: Alright, I will do that. Thank you for your assistance, Agent 1. Is there anything else I need to know or do regarding my medical records request?
+
+Agent: You're welcome, Ms. Johnson. Once we receive your completed authorization form, we will keep you informed about the progress of your request. If there are any additional documents or information required, we will reach out to you. If you have any further questions along the way, feel free to contact our customer service helpline.
+
+Customer: That's good to know. I appreciate your help and will keep an eye on my email for the authorization form. Thank you again, Agent 1.
+
+Agent: You're welcome, Ms. Johnson. It was my pleasure assisting you today. If you have any other questions or need further assistance in the future, don't hesitate to reach out. Have a great day!
+
+Customer: You too, Agent 1. Goodbye.
+
+Agent: Goodbye, Ms. Johnson. Take care! [/INST] Medical Records Requests </s>

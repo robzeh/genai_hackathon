@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm John Smith, and I have a few general inquiries about your hospital.
+
+Agent 1: Hello, Mr. Smith. I'm here to help. What specific information are you looking for?
+
+Customer: Well, I wanted to know what medical services HealthHarbor offers.
+
+Agent 1: HealthHarbor offers a wide range of medical services, including but not limited to primary care, emergency care, surgical procedures, diagnostic tests, and rehabilitation services. We strive to provide comprehensive healthcare to our patients.
+
+Customer: That's great to hear. I was also wondering if HealthHarbor has any specialized departments or centers?
+
+Agent 1: Yes, we have several specialized departments and centers. Some of them include cardiology, orthopedics, oncology, neurology, and women's health. Each department is equipped with highly trained healthcare professionals and state-of-the-art facilities.
+
+Customer: That's impressive. How can I make an appointment with a specific department or doctor?
+
+Agent 1: To make an appointment, you can call our appointment scheduling line, and our representatives will assist you in scheduling an appointment with the desired department or doctor. Alternatively, you can also visit our website and book an appointment online.
+
+Customer: That sounds convenient. Is HealthHarbor covered by insurance plans?
+
+Agent 1: Yes, HealthHarbor accepts most major insurance plans. However, it's always recommended to check with your insurance provider to ensure coverage. Our billing department can also provide assistance in understanding your insurance coverage and any out-of-pocket expenses.
+
+Customer: That's good to know. I appreciate the transparency. Are there any support services available for patients and their families?
+
+Agent 1: Absolutely. HealthHarbor understands the importance of support services. We have a dedicated patient support team that provides counseling, social services, and assistance with navigating the healthcare system. We also offer educational programs and support groups for various medical conditions.
+
+Customer: That's really thoughtful. Do you have any information on the visiting hours and policies for patients?
+
+Agent 1: Yes, we do. Our visiting hours are from 9 am to 9 pm, but please note that certain departments or units may have specific visiting policies. For example, intensive care units may have restricted visiting hours for the well-being of the patients. We encourage visitors to check with the specific department or unit before visiting.
+
+Customer: I see. Thank you for clarifying that. One last question, are there any amenities available for patients and their families during their stay?
+
+Agent 1: Yes, HealthHarbor strives to provide a comfortable environment for our patients and their families. We have amenities such as private rooms, cafeteria, free Wi-Fi, and parking facilities. We also have a gift shop and a pharmacy on-site for convenience.
+
+Customer: That's great to hear. Thank you, Agent 1, for answering all my questions. You've been very helpful.
+
+Agent 1: You're welcome, Mr. Smith. I'm glad I could assist you. If you have any more questions in the future or need further assistance, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye!
+
+Agent 1: Goodbye, Mr. Smith. Take care! [/INST] General Inquiries </s>

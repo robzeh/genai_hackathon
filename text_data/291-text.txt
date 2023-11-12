@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, my name is Sarah Thompson. I'm feeling really scared and I'm not sure what's happening to me. I need some medical advice.
+
+Agent 4: Hi Sarah, I'm sorry to hear that you're feeling scared. I'm here to help you. Can you please tell me what symptoms you're experiencing?
+
+Customer: Well, I've been having severe headaches for the past week. They're accompanied by dizziness and nausea. I'm also feeling extremely fatigued.
+
+Agent 4: I understand how concerning that must be for you, Sarah. Have you noticed any other symptoms, like changes in vision or sensitivity to light?
+
+Customer: Yes, actually. My vision has been blurry at times, especially during these headaches. And bright lights seem to make the pain worse.
+
+Agent 4: Thank you for sharing that information, Sarah. Based on your symptoms, it's important for you to get a proper medical assessment. Have you considered visiting a doctor?
+
+Customer: I'm really scared to go to the doctor. I've been avoiding it because I'm afraid of what they might find. But these symptoms are really affecting my daily life.
+
+Agent 4: I understand your fear, but it's crucial to prioritize your health. A doctor will be able to properly assess your symptoms and provide the necessary guidance. They can also help alleviate any concerns you may have. Would you like me to help you find a doctor near you?
+
+Customer: Yes, please. I think I need to see someone, but I don't know where to start.
+
+Agent 4: Not a problem, Sarah. Can you please provide me with your zip code so I can search for nearby healthcare providers?
+
+Customer: Sure, my zip code is 12345.
+
+Agent 4: Thank you, Sarah. I have found a few options for you. There's a general practitioner clinic just a few blocks away from your location, and there's also a specialized neurology center nearby. Which one would you prefer?
+
+Customer: I think I'll go with the general practitioner clinic for now. Hopefully, they can guide me in the right direction.
+
+Agent 4: That sounds like a good plan, Sarah. I'm glad you're taking this step. I strongly advise you to make an appointment as soon as possible. In the meantime, it may also help to keep a journal of your symptoms and any triggers you notice.
+
+Customer: That's a good idea. I'll start doing that right away. Thank you for your help, Agent 4. I really appreciate it.
+
+Agent 4: You're welcome, Sarah. I'm here to support you throughout this process. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I'll make that appointment and keep track of my symptoms. Hopefully, things will get better soon.
+
+Agent 4: I hope so too, Sarah. Remember, if you need any further assistance or have any questions, don't hesitate to reach out to us. Take care of yourself and I wish you a speedy recovery.
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Sarah. Have a great day. [/INST] Medical Advice or Symptom Assessment </s>

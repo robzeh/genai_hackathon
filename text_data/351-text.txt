@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Finally, someone answered! I've been on hold for ages. I am furious right now. 
+
+Agent 4: I apologize for the wait and any inconvenience caused. I understand you're angry, and I'm here to help. What seems to be the issue?
+
+Customer: Well, I've been experiencing severe abdominal pain for the past two days, and it's not getting any better. I need some medical advice or at least an assessment of my symptoms.
+
+Agent 4: I'm sorry to hear that you're going through this. I'm not a doctor, but I can try to help you assess your symptoms. Can you please describe the pain you're feeling?
+
+Customer: It's a sharp and stabbing pain in my lower abdomen. It's constant and worsens when I move or touch the area. I also feel nauseous and have a fever.
+
+Agent 4: I'm not a medical professional, but based on your description, it's important for you to seek immediate medical attention. Severe abdominal pain accompanied by fever and nausea could be a sign of a serious condition. It's best to visit an emergency room or call your primary care doctor right away.
+
+Customer: Are you kidding me? I've been waiting on hold all this time just to be told to go to the ER? I could have figured that out on my own!
+
+Agent 4: I understand your frustration, but I want to ensure your well-being. It's crucial to have a healthcare professional evaluate your symptoms in person to provide the best possible care. They can conduct appropriate tests and examinations to determine the cause of your pain accurately.
+
+Customer: Alright, fine. I'll go to the ER. But I'm not happy about this at all. This could have been resolved over the phone if you were more helpful.
+
+Agent 4: I apologize if I wasn't able to provide the resolution you were hoping for. Our primary goal is to ensure your safety and well-being, and sometimes that requires in-person evaluation. If you have any more questions or concerns, please let me know, and I'll do my best to assist you.
+
+Customer: Whatever. Just give me the number for the nearest hospital or ER. And make sure it's a good one!
+
+Agent 4: I understand your frustration, and I'll provide you with the information you need. May I have your zip code, please?
+
+Customer: It's 12345.
+
+Agent 4: Thank you. Based on your location, the nearest hospital to you is HealthHarbor Medical Center located at 123 Main Street. Their contact number is (555) 123-4567.
+
+Customer: Fine, I'll go there. But if this turns out to be a waste of my time, I'll be even angrier!
+
+Agent 4: I apologize for any inconvenience you've experienced. If you have any further questions or need assistance in the future, don't hesitate to reach out to us. I hope you receive the care you need at HealthHarbor Medical Center. Take care.
+
+Customer: Yeah, whatever. Goodbye.
+
+[Call ends] [/INST] Medical Advice or Symptom Assessment </s>

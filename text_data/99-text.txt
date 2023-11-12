@@ -1,0 +1,51 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: Hi, I'm calling because I've been experiencing some unusual symptoms lately and I'm not sure what to do about it.
+
+Agent 1: I'm sorry to hear that. Could you please describe your symptoms in detail?
+
+Customer: Sure. I've been having persistent headaches and occasional dizziness. Sometimes, I also feel nauseous.
+
+Agent 1: I understand. How long have you been experiencing these symptoms?
+
+Customer: It's been going on for about a week now. At first, I thought it was just stress, but it hasn't gone away.
+
+Agent 1: I see. Have you noticed any patterns or triggers that might be causing these symptoms?
+
+Customer: Not really. It's been happening both at home and at work, so I can't pinpoint any specific triggers.
+
+Agent 1: Alright. Based on what you've described, it would be best for you to consult a medical professional. I can help you find a nearby healthcare facility or schedule an appointment for you. 
+
+Customer: That would be great, thank you.
+
+Agent 1: May I have your name, please?
+
+Customer: Of course, my name is Emily Johnson.
+
+Agent 1: Thank you, Emily. Could you please provide me with your zip code?
+
+Customer: My zip code is 12345.
+
+Agent 1: Thank you. I have found a few healthcare facilities near you. We have HealthClinic and CareWell Hospital. Which one would you prefer?
+
+Customer: I'm not familiar with either of them. Which one would you recommend?
+
+Agent 1: Both facilities are well-regarded, but based on your symptoms, I would recommend CareWell Hospital. They have specialists who can provide a more comprehensive evaluation.
+
+Customer: Okay, I'll go with CareWell Hospital then.
+
+Agent 1: Great! I can assist you in scheduling an appointment if you'd like.
+
+Customer: Yes, please. That would be very helpful.
+
+Agent 1: Wonderful. I will connect you with the scheduling department at CareWell Hospital. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thank you for your help.
+
+Agent 1: You're welcome, Emily. I hope you feel better soon. Take care!
+
+Customer: Thank you, goodbye.
+
+Agent 1: Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

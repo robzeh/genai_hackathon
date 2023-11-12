@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Good morning, thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Thompson. I need to request some medical records from your hospital.
+
+Agent 4: Good morning, Emily. I'd be happy to help you with that. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure, my date of birth is March 15, 1985. I need the records for my recent surgery so that I can provide them to my new specialist.
+
+Agent 4: Thank you for providing your date of birth, Emily. I'm sorry to hear about your surgery. Let me check if I can locate your records in our system. Could you please hold for a moment?
+
+Customer: Of course, take your time.
+
+Agent 4: Thank you for your patience, Emily. I have found your records in our system. Before we proceed, I need to confirm your identity for security purposes. Can you please verify your home address and phone number?
+
+Customer: Sure, my home address is 123 Oak Street, and my phone number is (555) 123-4567.
+
+Agent 4: Thank you for confirming that information, Emily. Now, to process your request, I need to know specifically which medical records you require. Could you please provide me with the dates and types of documents you need?
+
+Customer: I need all records related to my surgery, including any pre-operative tests and post-operative follow-ups. The surgery took place on August 25, 2021.
+
+Agent 4: Thank you for providing those details, Emily. Let me make a note of your request and check if we have the records available. Please bear with me for a moment.
+
+Customer: No problem, take your time.
+
+Agent 4: I have checked our system, Emily, and I'm pleased to inform you that we do have the medical records you requested. However, we require a signed authorization form from you to release them. I can email the form to you or provide you with a fax number, whichever is more convenient for you.
+
+Customer: Email would be great. My email address is emily.thompson@email.com.
+
+Agent 4: Perfect, Emily. I will send the authorization form to your email address right away. Please keep an eye on your inbox. Once you receive it, please fill it out, sign it, and send it back to us. Once we receive the completed form, we will process your request within 3-5 business days.
+
+Customer: Okay, I will keep an eye out for the email and return the form as soon as possible. Is there anything else I need to do?
+
+Agent 4: That's all you need to do, Emily. Once we receive the completed form, we will take care of the rest. If you have any further questions or need any assistance, feel free to reach out to us. Is there anything else I can help you with today?
+
+Customer: No, that's all. Thank you for your assistance, Agent 4. I appreciate your help.
+
+Agent 4: You're welcome, Emily. It was my pleasure assisting you. If you have any more questions in the future, don't hesitate to contact us. Have a great day!
+
+Customer: You too, Agent 4. Goodbye!
+
+Agent 4: Goodbye, Emily! Take care. [/INST] Medical Records Requests </s>

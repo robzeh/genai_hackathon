@@ -1,0 +1,49 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I've been experiencing some symptoms lately and I was hoping to get some medical advice or an assessment.
+
+Agent 4: Of course, Emily. I'll do my best to assist you. Can you please describe the symptoms you've been experiencing?
+
+Customer: Well, I've been feeling quite fatigued lately, even after a full night's sleep. I've also noticed a persistent cough and occasional shortness of breath.
+
+Agent 4: I understand. Fatigue, coughing, and shortness of breath can be symptoms of various conditions. Have you had any recent exposure to allergens or respiratory irritants?
+
+Customer: Not that I'm aware of. I work from home and don't have any known allergies.
+
+Agent 4: Okay, thank you for that information. Have you traveled recently, or been in contact with someone who has been sick?
+
+Customer: No, I haven't traveled in months and haven't been in contact with anyone who has been sick.
+
+Agent 4: Alright. It's important to consider all possibilities. Have you taken any over-the-counter medication to alleviate your symptoms?
+
+Customer: I've tried taking some cough syrup, but it hasn't provided much relief.
+
+Agent 4: I see. Given your symptoms, it would be best for you to consult with a healthcare professional. They can provide a more accurate assessment and advise on the next steps. Would you like me to assist you in finding a suitable healthcare provider in your area?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 4: Not a problem, Emily. Can you please provide me with your zip code?
+
+Customer: Sure, it's 12345.
+
+Agent 4: Thank you. I'm searching for healthcare providers in your area. While I do that, I want to remind you that I'm not a healthcare professional, but I'll do my best to assist you.
+
+Customer: I understand, thank you for your help.
+
+Agent 4: I've found a list of healthcare providers near your location. There are several options available, including general practitioners and specialists. Would you prefer a specific type of healthcare provider?
+
+Customer: I think a general practitioner would be a good start.
+
+Agent 4: Great. I've found a few general practitioners near your area. Here are their names and contact information. You may want to call and schedule an appointment to discuss your symptoms further.
+
+Customer: Thank you so much, Agent 4. I appreciate your assistance.
+
+Agent 4: You're welcome, Emily. I hope you find the help you need. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you again.
+
+Agent 4: You're welcome. Take care and feel better soon. Goodbye, Emily.
+
+Customer: Goodbye, Agent 4. [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. My name is Emily Thompson. I'm calling because I've been experiencing some unusual symptoms lately and I'm not sure what to do.
+
+Agent 1: I'm sorry to hear that, Emily. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past couple of days, along with some dizziness and nausea. I've also noticed that my vision seems a bit blurry at times.
+
+Agent 1: I understand your concern, Emily. Headaches, dizziness, nausea, and blurry vision can be caused by various factors. Have you had any recent injuries or accidents?
+
+Customer: No, I haven't had any accidents or injuries. These symptoms just seemed to come out of nowhere.
+
+Agent 1: Alright, Emily. Based on the symptoms you've described, it's important to consider a few possibilities. It could be related to a migraine, sinus congestion, or even an underlying medical condition. However, I'm not a doctor, and it would be best for you to consult with a healthcare professional to get a proper assessment. Would you like me to help you locate a nearby healthcare provider?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 1: Alright, Emily. Can you please provide me with your location or zip code so I can find healthcare providers in your area?
+
+Customer: Sure, my zip code is 12345.
+
+Agent 1: Thank you, Emily. Give me a moment to search for healthcare providers near you.
+
+(Customer waits for a moment)
+
+Agent 1: I have found a few healthcare providers near your location, Emily. There is HealthCare Clinic located at 123 Main Street, and there is also City Medical Center at 456 Elm Avenue. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. It would be great to have their contact information handy.
+
+Agent 1: Sure, Emily. The contact number for HealthCare Clinic is (555) 123-4567, and for City Medical Center, it is (555) 987-6543. Please note that it would be best to call and schedule an appointment before visiting any of these providers.
+
+Customer: Thank you so much for your help, Agent 1. I really appreciate it.
+
+Agent 1: You're welcome, Emily. I'm glad I could assist you. Is there anything else I can help you with?
+
+Customer: No, that's all for now. I will contact one of the healthcare providers and schedule an appointment. Thank you again.
+
+Agent 1: You're welcome, Emily. I hope you feel better soon. If you have any more questions or concerns in the future, don't hesitate to reach out to us. Take care!
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Emily. Have a great day. [/INST] Medical Advice or Symptom Assessment </s>

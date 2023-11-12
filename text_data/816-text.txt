@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Call Center Agent: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I've been feeling really worried about some symptoms I've been experiencing lately.
+
+Call Center Agent: I'm sorry to hear that, Sarah. I'm here to help. Can you please tell me more about your symptoms? 
+
+Customer: Well, for the past week, I've been having a persistent headache and feeling quite fatigued. I also noticed some muscle aches and occasional dizziness. I'm not sure if it's something serious, but it has been bothering me.
+
+Call Center Agent: I understand your concern, Sarah. Let me ask you a few more questions to better assess your situation. Have you experienced any fever or nausea?
+
+Customer: No, I haven't had any fever or nausea. It's mainly the headache and fatigue that worry me the most.
+
+Call Center Agent: I see. Have you been under any stress lately, or have you had any changes in your daily routine or diet?
+
+Customer: Yes, I've been quite stressed at work recently, and I've noticed that I haven't been sleeping well. As for my diet, I haven't made any significant changes.
+
+Call Center Agent: Stress and lack of sleep can definitely contribute to the symptoms you're experiencing, Sarah. However, I'm not a doctor, and it's important that you seek professional medical advice. I would recommend making an appointment with your primary care physician to discuss your symptoms in detail and get a proper evaluation.
+
+Customer: I understand, but I was hoping to get some initial guidance from you. Can you suggest any home remedies or over-the-counter medications that might help alleviate these symptoms?
+
+Call Center Agent: I completely understand your concerns, Sarah. However, without a proper diagnosis, it's difficult for me to recommend any specific remedies or medications. It's always best to consult with a healthcare professional who can evaluate your symptoms thoroughly and provide appropriate advice.
+
+Customer: Alright, I guess you're right. I'll make an appointment with my doctor as soon as possible. Is there anything else I should be aware of or any additional precautions I should take?
+
+Call Center Agent: It's good to hear that you'll be seeing your doctor soon, Sarah. In the meantime, make sure to take care of yourself by getting enough rest, staying hydrated, and practicing stress management techniques like deep breathing or meditation. If your symptoms worsen or if you develop any new ones, don't hesitate to seek medical attention promptly.
+
+Customer: Thank you, Agent 4. I appreciate your help and advice. I'll follow your suggestions and see my doctor as soon as I can.
+
+Call Center Agent: You're welcome, Sarah. I'm glad I could assist you. Remember, it's always better to be safe and consult a healthcare professional for a proper evaluation. If you have any more questions or concerns, don't hesitate to call us back. Take care and feel better soon!
+
+Customer: Thank you once again, Agent 4. I will definitely reach out if I have any further questions. Have a great day!
+
+Call Center Agent: You're welcome, Sarah. Have a great day too! Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

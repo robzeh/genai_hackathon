@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi Agent 4, my name is Sarah Johnson. I have a few general inquiries about HealthHarbor and the services you offer.
+
+Agent 4: Of course, Sarah. I'll be happy to help you with any questions you have. What would you like to know?
+
+Customer: Well, first of all, can you give me an overview of the medical services provided by HealthHarbor?
+
+Agent 4: Certainly, Sarah. HealthHarbor is a comprehensive healthcare facility offering a wide range of medical services. We provide primary care, emergency care, surgery, maternity services, pediatrics, radiology, laboratory services, and much more. Is there something specific you're interested in?
+
+Customer: No, I was just curious about the range of services you offer. That sounds very comprehensive. Thank you for the information.
+
+Agent 4: You're welcome, Sarah. Is there anything else you'd like to know about our services?
+
+Customer: Yes, I actually have a question about insurance coverage. Does HealthHarbor accept all insurance plans?
+
+Agent 4: HealthHarbor accepts most major insurance plans. However, it's always a good idea to check with your insurance provider to ensure that we are in-network for your specific plan. We also offer self-pay options for those without insurance coverage.
+
+Customer: That's good to know. Thank you for clarifying that. I'll make sure to check with my provider before scheduling any appointments.
+
+Agent 4: You're welcome, Sarah. It's always best to double-check to avoid any surprises. Is there anything else I can help you with?
+
+Customer: Actually, yes. I'm curious about the wait times at HealthHarbor. Are they usually long?
+
+Agent 4: Our goal at HealthHarbor is to provide timely and efficient care to all our patients. However, wait times can vary depending on the time of day and the nature of the visit. For non-emergency appointments, we strive to keep the wait times as minimal as possible. In emergency cases, we prioritize patients based on the severity of their condition.
+
+Customer: That's reassuring to hear. I appreciate the effort to minimize wait times. It can be frustrating to wait for long periods, especially when you're not feeling well.
+
+Agent 4: I completely understand, Sarah. We value your time and want to ensure you receive the care you need as quickly as possible. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for answering my questions, Agent 4. I appreciate your help.
+
+Agent 4: You're welcome, Sarah. It was my pleasure to assist you. If you have any further inquiries in the future, don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 4. You too. Goodbye.
+
+Agent 4: Goodbye, Sarah. Take care. [/INST] General Inquiries </s>

@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: I can't believe how terrible my experience was at your hospital yesterday. I need some answers!
+
+Agent 1: I'm so sorry to hear that you had a bad experience. I understand you're angry, and I'm here to help. Can you please provide me with your name so I can look up your records?
+
+Customer: My name is John Smith.
+
+Agent 1: Thank you, Mr. Smith. I apologize for any inconvenience caused. Can you please tell me what happened during your visit?
+
+Customer: Where do I even start? The wait times were ridiculous, the staff was rude, and the facilities were dirty. I expected much better from HealthHarbor!
+
+Agent 1: I apologize for the negative experience you had, Mr. Smith. We strive to provide the highest quality of care, and I'm sorry that we fell short in your case. I appreciate your feedback, and I will make sure to address these issues with the appropriate departments. Is there anything specific you would like to know or discuss regarding our healthcare facility?
+
+Customer: I want to know how you plan to improve your services. This is unacceptable!
+
+Agent 1: I completely understand your concern, Mr. Smith. We take feedback like yours very seriously and are constantly working to improve our services. We have regular training programs for our staff to enhance their communication skills and customer service. Additionally, we have implemented a system to monitor and address any cleanliness issues promptly. We value your feedback, and we'll use it to make the necessary changes.
+
+Customer: Well, it's about time! But what about the long wait times? That was incredibly frustrating!
+
+Agent 1: Again, I apologize for the long wait times you experienced. We have been actively working on reducing wait times and streamlining our processes. We are in the process of implementing a new scheduling system to better manage patient flow and minimize wait times. We appreciate your patience and understanding during this improvement phase.
+
+Customer: That's good to hear, but I hope these changes happen soon. I don't want anyone else to go through what I did.
+
+Agent 1: Absolutely, Mr. Smith. We understand the urgency, and we are committed to implementing these changes as soon as possible. Your feedback helps us identify areas for improvement, and we appreciate you bringing these concerns to our attention.
+
+Customer: Well, I hope you actually follow through on your promises. I won't tolerate such poor service again.
+
+Agent 1: Rest assured, Mr. Smith, we take your feedback seriously, and we are dedicated to making the necessary improvements. Is there anything else I can assist you with today?
+
+Customer: No, that will be all. I just wanted to express my dissatisfaction and make sure you're aware of the issues.
+
+Agent 1: I appreciate your honesty and for taking the time to share your concerns. We value you as a patient, and we'll do everything we can to regain your trust. Thank you for calling HealthHarbor, and have a great day.
+
+Customer: Thank you. Goodbye. [/INST] Healthcare Facility Information </s>

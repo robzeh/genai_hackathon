@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I'm feeling really worried about some symptoms I've been experiencing lately.
+
+Agent 1: I understand, Sarah. I'm here to help. Can you please describe the symptoms you're experiencing?
+
+Customer: Well, I've been having persistent headaches for the past week. They're quite intense and don't seem to go away even with painkillers. I'm also feeling nauseous occasionally.
+
+Agent 1: I'm sorry to hear that, Sarah. How would you rate your headache on a scale of 1 to 10, with 10 being the worst?
+
+Customer: I would say it's around a 7 or 8. It's really affecting my daily activities and I'm concerned it might be something serious.
+
+Agent 1: I understand your concern, Sarah. Have you noticed any triggers for these headaches? Any specific activities or foods that seem to worsen them?
+
+Customer: Not really. They seem to occur randomly. I can't pinpoint any particular triggers.
+
+Agent 1: Okay. Based on your symptoms, it's important for you to consult with a healthcare professional. I can help you schedule an appointment with one of our doctors. Would that be alright?
+
+Customer: Yes, please. I would appreciate that.
+
+Agent 1: Great. I'm going to check for the nearest available appointment for you. Can you please confirm your preferred location and contact details?
+
+Customer: Yes, I'm located in New York City, and you can reach me at 555-1234.
+
+Agent 1: Thank you, Sarah. I have scheduled an appointment for you with Dr. Smith at our Main Street clinic in New York City. The appointment is set for tomorrow at 10 AM. Please make sure to arrive 15 minutes early.
+
+Customer: Thank you so much, Agent 1. I really appreciate your help.
+
+Agent 1: You're welcome, Sarah. I'm glad I could assist you. Is there anything else I can help you with?
+
+Customer: No, that's all for now. I'll go ahead and prepare for my appointment. Thank you again for your assistance.
+
+Agent 1: You're welcome, Sarah. Take care, and if you have any questions before your appointment, don't hesitate to call us. Have a great day!
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Sarah. Take care. [/INST] Medical Advice or Symptom Assessment </s>

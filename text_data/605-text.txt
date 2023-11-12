@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Jones. I recently had some lab tests done at your hospital, and I was wondering if the results are ready.
+
+Agent 4: Of course, Emily. I can help you with that. Can you please provide me with your date of birth and the date you had the tests done?
+
+Customer: Sure. My date of birth is January 15, 1985, and I had the tests done on October 5, 2021.
+
+Agent 4: Thank you for providing that information, Emily. Let me check our system for your lab results. Please bear with me for a moment.
+
+(Customer waits for a moment)
+
+Agent 4: I have found your lab results, Emily. Everything looks fine, and there are no major concerns. Is there anything specific you would like to know about the results?
+
+Customer: That's a relief to hear. I just wanted to know if everything is within the normal range. Could you provide me with the specific values for the tests?
+
+Agent 4: Certainly, Emily. Let me go through the results for you. Your blood work shows that your hemoglobin levels are within the normal range, as well as your cholesterol and glucose levels. Your liver function test also came back normal, and there are no abnormalities in your kidney function. Overall, your results indicate that you are in good health.
+
+Customer: That's great news! Thank you for going through the results with me. Is there anything else I should be aware of?
+
+Agent 4: Your ultrasound and X-ray results are also normal, Emily. There are no signs of any abnormalities or concerns in those tests as well. If you have any specific questions about any of the tests or results, feel free to ask.
+
+Customer: I don't have any specific questions at the moment, Agent 4. I'm glad to hear that everything is normal. Thank you for your help and for providing me with the results.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. If you have any further questions or need any additional information in the future, don't hesitate to reach out to us. We're here to help. Is there anything else I can assist you with today?
+
+Customer: No, that will be all for now. Thank you again, Agent 4. Have a great day!
+
+Agent 4: You're welcome, Emily. Have a wonderful day too! Take care. Goodbye!
+
+(Customer hangs up) [/INST] Lab and Test Results </s>

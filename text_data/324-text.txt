@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. This is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I have some general inquiries about your hospital services.
+
+Agent 1: Of course, I'll be happy to help. What would you like to know?
+
+Customer: Firstly, I wanted to know what kinds of medical services are offered at HealthHarbor.
+
+Agent 1: HealthHarbor provides a wide range of medical services. We have departments for general medicine, surgery, pediatrics, gynecology, orthopedics, and more. We also have diagnostic services such as radiology, laboratory testing, and imaging.
+
+Customer: That's great to hear. Can you tell me about the availability of specialists at your hospital?
+
+Agent 1: We have a team of highly skilled specialists in various fields available at HealthHarbor. Our specialists include cardiologists, neurologists, oncologists, and many others. They are available for consultations and treatments as per the patients' needs.
+
+Customer: That sounds comprehensive. How about emergency services? Are they available 24/7?
+
+Agent 1: Yes, we have a fully functional emergency department that operates 24/7. Our emergency team is trained to handle all kinds of medical emergencies and provide immediate care to patients in need.
+
+Customer: That's reassuring to know. What about the facilities and amenities at HealthHarbor?
+
+Agent 1: HealthHarbor is equipped with state-of-the-art facilities to provide the best possible care to our patients. We have advanced medical equipment, comfortable patient rooms, and a dedicated team of healthcare professionals to ensure a comfortable and safe environment for our patients.
+
+Customer: That sounds great. How about insurance coverage? Do you accept all insurance plans?
+
+Agent 1: HealthHarbor accepts a wide range of insurance plans. However, we recommend contacting your insurance provider to confirm coverage details before seeking treatment. Our billing department can also assist you in understanding your insurance coverage and any potential out-of-pocket expenses.
+
+Customer: That's good to know. One last question, are there any support services available for patients and their families?
+
+Agent 1: Yes, we understand the importance of holistic care. HealthHarbor offers various support services for patients and their families, such as counseling, support groups, and social services. We aim to provide comprehensive care that extends beyond medical treatment.
+
+Customer: That's wonderful. Thank you for answering all my questions, Agent 1.
+
+Agent 1: You're welcome! I'm glad I could assist you. If you have any more questions in the future or need any further assistance, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye!
+
+Agent 1: Goodbye and take care! [/INST] General Inquiries </s>

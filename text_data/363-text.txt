@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answers! I've been on hold for ages! I am so angry right now!
+
+Agent 1: I apologize for the wait and any inconvenience caused. I understand you're upset. How can I help you?
+
+Customer: I have some general inquiries about your hospital. First of all, what services do you offer?
+
+Agent 1: HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services, including emergency care, surgeries, diagnostic tests, specialist consultations, and more. Is there something specific you would like to know?
+
+Customer: Well, I recently moved to this city, and I'm looking for a hospital that has a good maternity ward. Can you tell me about your maternity services?
+
+Agent 1: Absolutely! Our maternity ward at HealthHarbor is well-equipped to provide excellent care for expectant mothers. We have experienced obstetricians, state-of-the-art labor and delivery rooms, and postpartum care facilities. We also offer prenatal classes and support for new parents. Would you like me to provide more details?
+
+Customer: That sounds promising. Yes, please provide more details about the prenatal classes and support for new parents.
+
+Agent 1: Our prenatal classes cover a range of topics, including childbirth education, breastfeeding, newborn care, and postpartum recovery. These classes are led by certified instructors and are designed to prepare expectant parents for the arrival of their baby. Additionally, our hospital offers lactation consultations and support groups for new parents to connect and share their experiences.
+
+Customer: That's great to hear. Thank you for the information. Another question I have is about insurance coverage. Do you accept all insurance plans?
+
+Agent 1: HealthHarbor is in-network with most major insurance providers. However, it's always best to check with your insurance company to confirm if we are in-network for your specific plan. Our billing department can also assist you in verifying your coverage and providing any necessary documentation for reimbursement.
+
+Customer: Alright, I'll make sure to check with my insurance provider. One last thing, do you have any patient testimonials or reviews that I can read?
+
+Agent 1: Absolutely! We understand the importance of patient feedback. You can find testimonials and reviews from our patients on our website. We strive to provide the highest quality of care, and our patients' experiences and satisfaction are a testament to that.
+
+Customer: Okay, I'll check out the website. Thank you for your help. I appreciate your assistance despite my initial frustration.
+
+Agent 1: You're welcome! I'm glad I could assist you. I apologize again for the wait earlier. If you have any more questions or need further assistance, please don't hesitate to reach out. We value your feedback and are here to help. Have a great day!
+
+Customer: Thank you, Agent 1. I will keep that in mind. Have a good day too. Goodbye!
+
+Agent 1: Goodbye and take care! [/INST] General Inquiries </s>

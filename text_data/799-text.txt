@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm calling because I've been experiencing some unusual symptoms and I would like some medical advice or an assessment of my symptoms.
+
+Agent 1: I'm sorry to hear that you're not feeling well. I'll do my best to assist you. May I have your name, please?
+
+Customer: Yes, my name is Emily Johnson.
+
+Agent 1: Thank you, Emily. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past week, along with occasional dizziness and nausea. I'm not sure what could be causing it.
+
+Agent 1: I understand your concern, Emily. Headaches can have various causes. Have you experienced any recent stress or changes in your routine?
+
+Customer: Not really, my routine has been pretty consistent. I haven't been under any excessive stress either.
+
+Agent 1: Okay, thank you for providing that information. Have you noticed any triggers or patterns for your headaches? For example, do they worsen after certain activities or improve with rest?
+
+Customer: I haven't noticed any specific triggers or patterns. The headaches seem to come and go randomly throughout the day.
+
+Agent 1: I see. Given the persistent nature of your headaches, it's important to consult with a healthcare professional. I would recommend scheduling an appointment with your primary care physician to discuss your symptoms in detail and undergo a thorough examination.
+
+Customer: Alright, I'll make sure to schedule an appointment. Is there anything I can do in the meantime to alleviate the symptoms?
+
+Agent 1: While waiting for your appointment, you can try some self-care measures. Make sure you're getting enough rest, staying hydrated, and practicing stress-reduction techniques like deep breathing exercises or meditation. It may also be helpful to keep a headache diary to track any potential triggers or patterns.
+
+Customer: Thank you for the suggestions. I'll definitely try those. Is there anything else I should be aware of or look out for?
+
+Agent 1: If your symptoms worsen or if you experience any new or concerning symptoms, it's important to seek immediate medical attention. Additionally, if you develop severe headache accompanied by fever, stiff neck, or visual disturbances, please go to the emergency room right away.
+
+Customer: I will keep that in mind. Thank you for your help, Agent 1. I appreciate your time and advice.
+
+Agent 1: You're welcome, Emily. I'm glad I could assist you. If you have any further questions or concerns, don't hesitate to reach out. Take care and I hope you feel better soon.
+
+Customer: Thank you, Agent 1. Have a great day!
+
+Agent 1: You too, Emily. Take care. Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

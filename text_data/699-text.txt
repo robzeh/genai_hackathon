@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I've been feeling a bit off lately and I'm not sure if I should be concerned or not.
+
+Agent 4: Hi Sarah, I'm here to help. Can you please tell me a bit more about your symptoms and how long you've been experiencing them?
+
+Customer: Sure. I've been having a persistent headache for the past two days. It's not too severe, but it's been bothering me. I also feel a bit tired and have a slight sore throat.
+
+Agent 4: I understand. Headaches and fatigue can be caused by various factors. Have you noticed any other symptoms, such as fever or body aches?
+
+Customer: No, I haven't had a fever, but I do feel a bit achy. Nothing too intense though.
+
+Agent 4: Okay, thank you for sharing that. Based on your symptoms, it's possible that you may be coming down with a mild viral infection. However, I'm not a doctor, so it's important to consult with one to get a proper diagnosis. Would you like me to help you find a nearby healthcare provider?
+
+Customer: Yes, that would be helpful. I'm not sure where to start.
+
+Agent 4: Not a problem, Sarah. Can you please provide me with your zip code? I'll look up some options for you.
+
+Customer: Sure, my zip code is 12345.
+
+Agent 4: Thank you. Give me a moment while I search for healthcare providers in your area.
+
+(Customer and Agent 4 have a brief pause while Agent 4 searches for information)
+
+Agent 4: Sarah, I found a few healthcare providers near your location. There's the Harmony Medical Center on Main Street, and the Wellness Clinic on Oak Avenue. Both of them have good reviews and should be able to help you with your symptoms. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. It would be great to have their contact information handy.
+
+Agent 4: Certainly, here are the contact details. For Harmony Medical Center, their phone number is (555) 123-4567, and for the Wellness Clinic, you can reach them at (555) 987-6543. It's always a good idea to call ahead and check their availability before visiting.
+
+Customer: Thank you so much, Agent 4. I appreciate your assistance.
+
+Agent 4: You're welcome, Sarah. I'm glad I could help. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. I'll give one of the clinics a call and see how they can help me. Thanks again!
+
+Agent 4: You're welcome, Sarah. Take care and I hope you feel better soon. Don't hesitate to reach out if you have any more questions or concerns. Have a great day!
+
+Customer: Thank you, Agent 4. You too. Goodbye!
+
+Agent 4: Goodbye, Sarah. [/INST] Medical Advice or Symptom Assessment </s>

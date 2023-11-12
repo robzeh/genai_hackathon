@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I'm calling to request a copy of my medical records.
+
+Agent: Hello, Sarah. I can definitely help you with that. Before we begin, can you please verify your date of birth and address for security purposes?
+
+Customer: Sure. My date of birth is January 15th, 1990, and my address is 123 Main Street.
+
+Agent: Thank you, Sarah. Can you please specify which medical records you are requesting? Is it for a specific time period or for all your medical history?
+
+Customer: I need copies of all my medical records from the past five years. Is that possible?
+
+Agent: Absolutely, Sarah. I will process your request for the past five years of medical records. Please note that there might be a processing fee involved. Could you provide me with a contact number and email address where we can reach you once the request is complete?
+
+Customer: Sure. My contact number is (555) 123-4567, and my email address is sarahjohnson@email.com.
+
+Agent: Thank you, Sarah. I have noted down your contact information. Now, as part of our process, we will need you to sign a medical records release form. This form will authorize us to release your medical records to you or any other designated person. I can either email you the form or send it via postal mail. Which option would you prefer?
+
+Customer: Email would be more convenient for me. Please send it to the email address I provided earlier.
+
+Agent: Noted, Sarah. I will email you the medical records release form shortly. Once you receive it, please fill it out, sign it, and send it back to us. Once we receive the signed form, we will begin processing your request. Please note that it may take up to 10 business days to complete the request. Is there anything else I can assist you with today?
+
+Customer: No, that's all, Agent 1. Thank you for your help.
+
+Agent: You're welcome, Sarah. If you have any further questions or need any assistance, feel free to call us back. Have a great day!
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent: Goodbye, Sarah. Take care. [/INST] Medical Records Requests </s>

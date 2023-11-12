@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: (Angry) Finally, someone picked up! I've been on hold for ages! I need some information about your hospital.
+
+Agent 1: I apologize for the wait and any inconvenience caused. I'll do my best to assist you. What specific information are you looking for?
+
+Customer: I want to know what services your hospital offers. I've been trying to find that information on your website, but it's so confusing!
+
+Agent 1: I'm sorry to hear that. HealthHarbor provides a wide range of medical services, including emergency care, surgeries, diagnostic tests, maternity services, and specialized treatments for various conditions. We also have departments for cardiology, oncology, orthopedics, and more. Is there something specific you're interested in?
+
+Customer: Well, I need to see a specialist for a certain condition. Can you tell me if you have a specialist for [specific condition]?
+
+Agent 1: I understand your concern. We do have specialists for various conditions, including [specific condition]. However, to provide you with accurate information, I would need to know which specialist you are looking for. May I have your name and contact details, please?
+
+Customer: It's John Smith, and my contact number is 555-1234.
+
+Agent 1: Thank you, Mr. Smith. I will check our records and see if we have a specialist available for you. Please bear with me for a moment.
+
+(Customer is put on hold briefly.)
+
+Agent 1: Thank you for your patience, Mr. Smith. We do have a specialist available for [specific condition]. I can schedule an appointment for you. When would be a convenient time for you to visit?
+
+Customer: Finally, some good news. I'm available next Tuesday at 2:00 PM. Can you make the appointment?
+
+Agent 1: Absolutely, Mr. Smith. I have scheduled your appointment for Tuesday at 2:00 PM with Dr. Johnson, our specialist for [specific condition]. You will receive a confirmation call and email shortly with all the details. Is there anything else I can assist you with?
+
+Customer: No, that's all. Just make sure I actually get that confirmation, unlike the last time I called!
+
+Agent 1: I apologize for any previous inconvenience, Mr. Smith. Rest assured, you will receive the confirmation this time. If you have any further questions or concerns, feel free to reach out to us. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: (Slightly calmer) Alright, thank you. Goodbye.
+
+Agent 1: You're welcome, Mr. Smith. Goodbye and take care. [/INST] General Inquiries </s>

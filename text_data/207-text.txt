@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm calling because I've been experiencing some symptoms lately and I wanted to get some medical advice or have my symptoms assessed.
+
+Agent 3: I'm here to help you with that. May I have your name, please?
+
+Customer: Sure, my name is Emily Johnson.
+
+Agent 3: Thank you, Emily. Can you please describe the symptoms you've been experiencing?
+
+Customer: Well, I've been having a persistent cough for the past week, along with a sore throat and fatigue. I also have a mild fever.
+
+Agent 3: I'm sorry to hear that, Emily. Based on your symptoms, it seems like you may have a respiratory infection. However, I would recommend consulting with a healthcare professional for a proper diagnosis. Would you like me to assist you in finding a nearby healthcare provider?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 3: Of course, Emily. Can you please provide me with your current location or ZIP code?
+
+Customer: I'm in Los Angeles, California. My ZIP code is 90001.
+
+Agent 3: Thank you, Emily. Give me a moment while I search for healthcare providers in your area.
+
+(Short pause)
+
+Agent 3: I have found a few options for you, Emily. There's the Los Angeles Community Hospital, located at 4081 E Olympic Blvd, Los Angeles, CA 90023. They specialize in respiratory infections and have an Urgent Care facility. Another option is St. Vincent Medical Center at 2131 W 3rd St, Los Angeles, CA 90057. They have a walk-in clinic that might suit your needs as well. Would you like me to provide you with their contact details?
+
+Customer: Yes, please. Could you give me the contact details for Los Angeles Community Hospital?
+
+Agent 3: Absolutely, Emily. The contact number for Los Angeles Community Hospital is (323) 267-0477. They are open 24/7, so you can call anytime. Do you have any more questions or concerns?
+
+Customer: No, that should be all. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emily. I hope you feel better soon. If you have any more questions or need further assistance, don't hesitate to call us back. Take care!
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Emily. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

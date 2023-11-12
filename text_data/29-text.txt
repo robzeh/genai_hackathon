@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is John Smith, and I'm calling to request my medical records. Can you help me with that?
+
+Agent 1: Of course, Mr. Smith. I'll be happy to assist you with your medical records request. Can you please provide me with some necessary information, such as your date of birth and any other identifying details?
+
+Customer: Sure, my date of birth is January 15th, 1980. And my social security number is XXX-XX-XXXX.
+
+Agent 1: Thank you, Mr. Smith. I've located your file in our system. Now, could you please specify the exact medical records you would like to request?
+
+Customer: I would like to request a copy of all my medical records from the past five years, including doctor visits, test results, and any hospitalizations.
+
+Agent 1: Understood, Mr. Smith. I will initiate the process to gather your medical records from our database. Please note that this might take some time, and there might be a fee associated with this service. Is that acceptable to you?
+
+Customer: Yes, I understand. As long as I can receive a copy of my medical records, I'm willing to pay any necessary fees.
+
+Agent 1: Great. I will proceed with the request, and our billing department will contact you regarding the fees. Is there a specific format you would like to receive your records in, such as electronic or paper copies?
+
+Customer: Electronic copies would be more convenient for me. Is it possible to receive them via email?
+
+Agent 1: Absolutely, Mr. Smith. We can send your medical records to you securely via email. Could you please provide me with your current email address?
+
+Customer: Sure, my email address is john.smith@email.com.
+
+Agent 1: Thank you, Mr. Smith. I have noted your email address in the request. Is there anything else you would like to add or any specific instructions you have regarding your medical records?
+
+Customer: No, that's all. I appreciate your assistance, Agent 1.
+
+Agent 1: You're welcome, Mr. Smith. Your request for medical records has been noted, and you will be contacted by our billing department regarding the fees. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+Customer: Thank you, Agent 1. I will be waiting for the billing department's call. Have a great day!
+
+Agent 1: You too, Mr. Smith. Take care and have a wonderful day ahead. Goodbye! [/INST] Medical Records Requests </s>

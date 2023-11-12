@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is John Smith. I recently received medical treatment at your hospital, and I need to request my medical records.
+
+Agent 1: Thank you for reaching out, Mr. Smith. I can help you with that. To begin, could you please provide me with your date of birth and the approximate dates of your hospital visit?
+
+Customer: Sure. My date of birth is January 15, 1980, and I was admitted to HealthHarbor from July 10th to July 15th of this year.
+
+Agent 1: Thank you, Mr. Smith. I have located your records in our system. Before we proceed, I need to verify your identity. Could you please confirm your address and the last four digits of your social security number?
+
+Customer: My address is 123 Main Street, and the last four digits of my social security number are 5678.
+
+Agent 1: Thank you for confirming, Mr. Smith. Now, for the medical records request, could you please specify the type of records you need? For example, lab results, discharge summary, or any specific reports?
+
+Customer: I would like a copy of my complete medical file, including any test results, imaging reports, and discharge summary.
+
+Agent 1: Understood, Mr. Smith. I will process your request for the complete medical file. Please note that there may be a fee associated with obtaining the records, and it typically takes around 7-10 business days to process. Is there any specific format you prefer for receiving the records, such as mail or email?
+
+Customer: Email would be convenient for me. Is there an additional charge for that?
+
+Agent 1: There is no additional charge for electronic delivery. Could you please provide me with your email address where we can send the records?
+
+Customer: Sure, it's johnsmith@email.com.
+
+Agent 1: Thank you, Mr. Smith. I have noted your email address. You will receive an email within the next 7-10 business days with instructions on how to securely access and download your medical records. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thank you for your help, Agent 1.
+
+Agent 1: You're welcome, Mr. Smith. If you have any further questions or need any additional assistance, please don't hesitate to reach out. Have a great day!
+
+Customer: You too. Goodbye.
+
+Agent 1: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

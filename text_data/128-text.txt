@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I'm calling because I have been experiencing some concerning symptoms and I'm not sure what to do about it.
+
+Agent 4: I'm sorry to hear that, Sarah. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past few days, and I've also noticed some dizziness and nausea.
+
+Agent 4: I understand your concerns, Sarah. Headaches can be caused by various factors. Have you experienced any recent injuries or accidents?
+
+Customer: No, I haven't had any injuries or accidents. It just started out of nowhere.
+
+Agent 4: I see. Have you been under any unusual stress or changes in your daily routine?
+
+Customer: Not really, everything has been pretty normal lately.
+
+Agent 4: Okay, and have you noticed any specific triggers for your headaches, such as certain foods or activities?
+
+Customer: I haven't noticed any specific triggers. The headache seems to be constant throughout the day.
+
+Agent 4: Alright, Sarah. Based on the symptoms you've described, it would be a good idea to consult with a healthcare professional. They will be able to assess your condition more accurately and provide appropriate advice or treatment. Would you like me to help you find a healthcare provider in your area?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 4: Not a problem, Sarah. Can you please provide me with your ZIP code?
+
+Customer: Sure, it's 12345.
+
+Agent 4: Thank you. Give me a moment to search for healthcare providers near your location.
+
+(Customer and Agent 4 remain on hold for a few minutes.)
+
+Agent 4: Sarah, I have found a few healthcare providers near your area. There is General Hospital, which is only a few miles away from your ZIP code. They have a good reputation and offer a wide range of medical services. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. That would be great.
+
+Agent 4: The contact number for General Hospital is 555-1234. They are open 24/7, so you can call them anytime. Is there anything else I can assist you with, Sarah?
+
+Customer: No, that will be all. Thank you for your help, Agent 4.
+
+Agent 4: You're welcome, Sarah. I hope you feel better soon. If you have any more questions or concerns, don't hesitate to reach out to us again. Take care!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Sarah. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

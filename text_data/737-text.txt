@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, I'm John Smith. I need to make a medical records request.
+
+Agent 1: Hello, Mr. Smith. I'd be happy to help you with that. Could you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure, my date of birth is June 15, 1980. The reason for my request is that I'm changing doctors, and my new doctor requires my medical history.
+
+Agent 1: Thank you for providing that information, Mr. Smith. I understand your need to transfer your medical records. Let me check our system to see how we can assist you with this. Please hold for a moment.
+
+(Customer is put on hold for a minute)
+
+Agent 1: Thank you for waiting, Mr. Smith. We can certainly help you with your medical records transfer. To initiate the process, we'll need you to fill out a medical records release form. Would you like me to email it to you, or would you prefer to pick it up from our hospital?
+
+Customer: Emailing it to me would be more convenient. Could you please send it to johnsmith@email.com?
+
+Agent 1: Absolutely, Mr. Smith. I will send you the form right away. Please check your email within the next few minutes. Once you receive the form, please fill it out completely and return it to us as soon as possible.
+
+Customer: Alright, I'll keep an eye out for the email and fill out the form as soon as I receive it.
+
+Agent 1: Perfect, Mr. Smith. Once we receive the completed form, our team will review it and process your medical records request promptly. Is there anything else I can assist you with today?
+
+Customer: No, that's all I needed. Thank you for your help.
+
+Agent 1: You're welcome, Mr. Smith. If you have any further questions or need any additional assistance in the future, don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, you too. Goodbye.
+
+Agent 1: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

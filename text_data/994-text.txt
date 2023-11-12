@@ -1,0 +1,29 @@
+<s>[INST] Classify the following call transcript:
+
+Call Center Agent: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold for ages! I am so angry right now!
+
+Call Center Agent: I apologize for the wait, sir. I understand you're upset. How can I help you?
+
+Customer: Well, I've been feeling really sick lately, and I need some medical advice. I've been experiencing severe headaches and dizziness. I'm scared something serious might be happening.
+
+Call Center Agent: I'm sorry to hear that you're feeling unwell. I'll do my best to help you. Have you tried any over-the-counter pain relievers for your headaches?
+
+Customer: Yes, I've tried taking ibuprofen, but it doesn't seem to help at all. The headaches just keep getting worse.
+
+Call Center Agent: I see. Since your symptoms are severe, it would be best for you to visit a healthcare professional for a proper evaluation. They will be able to provide you with a more accurate diagnosis and appropriate treatment options.
+
+Customer: Are you kidding me? I've been waiting on hold for so long just to be told that? This is ridiculous! I need some advice now!
+
+Call Center Agent: I apologize for any inconvenience, sir. However, as a call center agent, I am not a healthcare professional, and I cannot diagnose or provide medical advice. It is essential that you seek medical attention from a qualified healthcare provider to ensure your symptoms are properly addressed.
+
+Customer: This is such a waste of time! I thought I could get some help here, but I guess not. I'll just figure it out on my own!
+
+Call Center Agent: I'm sorry if I couldn't assist you as you had hoped, sir. If you change your mind or have any other questions in the future, please don't hesitate to call us back.
+
+Customer: Whatever. Goodbye.
+
+Call Center Agent: Goodbye, sir. I hope you feel better soon. Take care.
+
+[End of call] [/INST] Medical Advice or Symptom Assessment </s>

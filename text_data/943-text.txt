@@ -1,0 +1,49 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Johnson. I need to request some of my medical records from your hospital.
+
+Agent: Hello, Sarah. I'd be happy to assist you with that. Can you please provide me with your date of birth and any other relevant information?
+
+Customer: Sure, my date of birth is October 12, 1985. I was a patient at HealthHarbor from 2010 to 2015, so I would like to request all the records from that period.
+
+Agent: Thank you for providing those details, Sarah. I will pull up your records and process your request. Please bear with me for a moment.
+
+(Customer waits patiently)
+
+Agent: Sarah, I have located your records from 2010 to 2015. Before we proceed, I need to verify your identity for security purposes. Can you please confirm your current address and phone number?
+
+Customer: Of course. My current address is 123 Main Street, Anytown, and my phone number is 555-123-4567.
+
+Agent: Thank you, Sarah. I have verified your information. Now, let's discuss the specific records you need. Could you please provide me with the reason for your request?
+
+Customer: I'm in the process of switching doctors, and I want to ensure that my new healthcare provider has access to my complete medical history.
+
+Agent: That's understandable, Sarah. I will make a note of that. Is there any particular format you would like the records in, such as digital copies or hard copies?
+
+Customer: Digital copies would be more convenient for me, so if you could provide them in a secure electronic format, that would be great.
+
+Agent: Noted. HealthHarbor follows strict security protocols to protect patient information. Your records will be provided in a secure electronic format. Is there any specific email address you would like us to send the records to?
+
+Customer: Yes, please send them to sarah.johnson@email.com.
+
+Agent: Alright, Sarah. I have made a note of your email address. Please note that there might be a processing fee for the request. I will confirm this shortly.
+
+(Customer waits patiently)
+
+Agent: Sarah, I have confirmed that there is no processing fee for medical records requests. You will not be charged for this service.
+
+Customer: That's great to hear, Agent 2. Thank you for checking. Is there an estimated timeframe for when I can expect to receive the records?
+
+Agent: Typically, it takes about 7-10 business days to process and deliver medical records. However, I will expedite your request and try to have them sent to you within 3-5 business days.
+
+Customer: That would be wonderful, Agent 2. I appreciate your assistance and quick turnaround.
+
+Agent: You're welcome, Sarah. Providing efficient service is our priority. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 2. Have a great day!
+
+Agent: You're welcome, Sarah. It was my pleasure assisting you. If you have any further questions or need assistance in the future, don't hesitate to reach out. Have a great day too! Goodbye!
+
+(Customer ends the call) [/INST] Medical Records Requests </s>

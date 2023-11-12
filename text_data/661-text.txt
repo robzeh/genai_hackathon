@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Sarah Johnson. I need to request my medical records. Can you help me with that?
+
+Agent 3: Of course, Sarah. I'd be happy to assist you with your medical records request. Can you please verify your date of birth and address for security purposes?
+
+Customer: Sure. My date of birth is July 15, 1985, and my address is 123 Main Street.
+
+Agent 3: Thank you for providing that information, Sarah. Now, could you please specify which medical records you need? Is it for a specific time period or for all your medical history?
+
+Customer: I actually need all my medical records from the past five years. I'm switching doctors, and they require a complete record of my health history.
+
+Agent 3: I understand. In order to process your request, I will need you to fill out a medical records release form. I can either email it to you, or you can pick it up from our hospital's medical records department. Which option works best for you?
+
+Customer: Can you please email it to me? That would be more convenient for me.
+
+Agent 3: Absolutely, Sarah. I will send the medical records release form to the email address we have on file for you. Please make sure to fill it out accurately and return it to us within 10 business days. Once we receive the completed form, we will begin processing your request.
+
+Customer: Okay, I'll keep an eye out for the email and send it back as soon as possible. How long does it usually take to receive the medical records once the form is submitted?
+
+Agent 3: Our standard processing time is around 10-14 business days from the date we receive the completed form. However, please note that this timeframe may vary depending on the volume of requests we have at the time.
+
+Customer: That's understandable. I'll make sure to submit the form as soon as I can. Is there any fee associated with obtaining my medical records?
+
+Agent 3: Yes, there is a nominal fee for processing medical records requests. The fee covers the cost of retrieving, copying, and mailing your records. The exact amount will depend on the number of pages in your medical records. Would you like me to provide an estimate?
+
+Customer: Yes, please. I would like to know how much it will cost.
+
+Agent 3: Based on an average of 50 pages for the past five years, the estimated fee would be $25. However, please keep in mind that this is just an estimate, and the final amount may vary slightly.
+
+Customer: Alright, that sounds reasonable. I'll be prepared to pay that fee when I submit the form. Is there anything else I need to know or do?
+
+Agent 3: Once you have submitted the form and made the payment, our team will process your request. You will be notified once your medical records are ready for pickup or if you have requested them to be mailed, we will send them to the address you provided on the form. If you have any further questions or need assistance, feel free to reach out to us.
+
+Customer: Thank you, Agent 3. I appreciate your help and the information you provided. I will keep an eye out for the email and submit the form promptly.
+
+Agent 3: You're welcome, Sarah. I'm glad I could assist you today. If you have any other questions or need any further assistance in the future, don't hesitate to call us. Have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye!
+
+Agent 3: Goodbye, Sarah. Take care! [/INST] Medical Records Requests </s>

@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Finally! I've been trying to reach someone from this hospital for ages! I am absolutely furious with your services!
+
+Agent 4: I apologize for the inconvenience, sir. How can I help you today?
+
+Customer: I need some information about your healthcare facility. I want to know what services you offer and if you have any specialists available.
+
+Agent 4: Of course, sir. HealthHarbor is a comprehensive hospital that provides a wide range of medical services. We have departments specializing in cardiology, orthopedics, neurology, oncology, and many more. We also have a fully equipped emergency room and offer various diagnostic procedures.
+
+Customer: Well, that's great to hear, but it doesn't excuse the fact that it took me so long to get through to someone. Your customer service needs serious improvement!
+
+Agent 4: I apologize for the long wait time, sir. We are currently experiencing a high volume of calls, but we are working diligently to address this issue. Is there anything specific you would like to know about our specialists or services?
+
+Customer: Yes, I need to see a cardiologist. Do you have any available? And how long is the waiting period for an appointment?
+
+Agent 4: Yes, we do have cardiologists available. However, the waiting period for an appointment can vary depending on the availability of the specialist and the urgency of your case. May I have your name and contact information, please?
+
+Customer: My name is John Smith, and you better not lose my information like your hospital lost my previous medical records!
+
+Agent 4: I apologize for any inconvenience caused, Mr. Smith. Rest assured, we take patient confidentiality and data security seriously. Your information will be handled with the utmost care. Now, let me check the availability of our cardiologists for you.
+
+(Customer and Agent 4 stay on hold for a few minutes)
+
+Agent 4: Thank you for waiting, Mr. Smith. I have checked our schedule, and we have an available appointment with a cardiologist next week. Would that be convenient for you?
+
+Customer: Finally, some good news! Yes, that works for me. But can you guarantee that there won't be any further delays or issues?
+
+Agent 4: I understand your concern, Mr. Smith. While unforeseen circumstances can sometimes cause delays, we will do our best to ensure a smooth and timely process for your appointment. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Just make sure everything goes smoothly this time. I've had enough of dealing with your hospital's inefficiencies.
+
+Agent 4: I apologize once again for any inconvenience caused, Mr. Smith. We appreciate your feedback, and we will strive to improve our services. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: I hope you mean it. Goodbye. [/INST] Healthcare Facility Information </s>

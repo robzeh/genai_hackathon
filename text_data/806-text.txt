@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. This is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I need some assistance with requesting my medical records.
+
+Agent 4: Hello, Sarah. I can definitely help you with that. I understand you're worried. Can you please provide me with your date of birth and the specific records you need?
+
+Customer: Sure. My date of birth is May 15, 1985. I would like to request my complete medical records from the past five years.
+
+Agent 4: Thank you, Sarah. Let me check your records in our system. I see that you have been a patient at HealthHarbor for the past few years. Just to clarify, you would like a copy of all your medical records from May 2015 to May 2020, correct?
+
+Customer: Yes, that's correct. I recently moved to a new city and need to provide my new healthcare provider with my complete medical history.
+
+Agent 4: I completely understand, Sarah. It's important to have your medical history readily available for your new healthcare provider. Just to let you know, there may be a processing fee for obtaining copies of your medical records. Would that be alright with you?
+
+Customer: Yes, that's fine. I understand that there might be a fee involved. I just want to make sure I have all the necessary information for my new doctor.
+
+Agent 4: I appreciate your understanding, Sarah. Let me go ahead and process your request. Can you please confirm your current address so that we can mail the records to you?
+
+Customer: Of course. My current address is 123 Main Street, Cityville.
+
+Agent 4: Thank you, Sarah. I have updated your address in our system. Now, regarding the payment for the processing fee, we can either take your credit card information over the phone or send you an invoice by mail. Which option would you prefer?
+
+Customer: I would prefer to provide my credit card information over the phone for quicker processing.
+
+Agent 4: Understood, Sarah. Please provide me with your credit card number, expiration date, and the name on the card.
+
+[Customer provides credit card information]
+
+Agent 4: Thank you for providing that information, Sarah. I have processed the payment and your medical records request. You should receive them within 7-10 business days. Is there anything else I can assist you with?
+
+Customer: That's all I needed help with today. Thank you for your assistance, Agent 4. I appreciate your help in resolving this matter.
+
+Agent 4: You're very welcome, Sarah. It was a pleasure assisting you. If you have any further questions or concerns, don't hesitate to give us a call. Have a great day!
+
+Customer: Thank you, Agent 4. You too! Goodbye.
+
+Agent 4: Goodbye, Sarah. Take care! [/INST] Medical Records Requests </s>

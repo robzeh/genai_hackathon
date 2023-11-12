@@ -1,0 +1,49 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold for ages. I need some medical advice, and I'm not happy about having to call in the first place.
+
+Agent 3: I apologize for the wait and any inconvenience caused. I understand you're looking for medical advice. I'm here to help. May I have your name, please?
+
+Customer: It's Samantha Thompson.
+
+Agent 3: Thank you, Samantha. Before we proceed, I want to assure you that we'll do our best to address your concerns. Could you please tell me what symptoms or issues you're experiencing?
+
+Customer: Well, I've been having this persistent headache for the past week. It won't go away, no matter what I do. It's making me really frustrated and worried.
+
+Agent 3: I'm sorry to hear about your headache, Samantha. Headaches can be quite distressing. Have you experienced any other symptoms alongside the headache?
+
+Customer: I've also been feeling nauseous and dizzy at times. It's really affecting my daily life and productivity.
+
+Agent 3: I understand how challenging that can be. While I am not a doctor, based on your symptoms, it's important that you seek medical attention. I can help you find a nearby clinic or recommend a specialist if you'd like.
+
+Customer: Ugh, I was hoping to avoid going to the doctor. Can't you just tell me what's wrong?
+
+Agent 3: I completely understand your frustration, Samantha. However, it's crucial to have a medical professional evaluate your symptoms to provide an accurate diagnosis and appropriate treatment. It's better to be safe than sorry.
+
+Customer: Fine, I guess you're right. Can you help me find a clinic nearby?
+
+Agent 3: Of course, Samantha. May I know your location or zip code?
+
+Customer: I'm in Los Angeles, zip code 90001.
+
+Agent 3: Thank you. I'll search for clinics in your area. Please bear with me for a moment.
+
+[Agent 3 searches for clinics in the customer's area]
+
+Agent 3: I found a few clinics near your location, Samantha. The nearest one is Westside Medical Center on Elm Street. They have good reviews and offer a range of services. Would you like me to provide their contact information?
+
+Customer: Yes, please. And thanks for your help.
+
+Agent 3: You're welcome, Samantha. The contact number for Westside Medical Center is 555-123-4567. They are open Monday to Friday from 8 am to 6 pm. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I appreciate your help, Agent 3.
+
+Agent 3: It was my pleasure assisting you, Samantha. I hope you feel better soon. If you have any more questions or need further assistance, don't hesitate to call us again. Take care!
+
+Customer: Thank you. Goodbye.
+
+[Call ends] [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good morning, thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson, and I'm feeling really scared. I need some information about your healthcare facility.
+
+Agent 1: Hello, Sarah. I'm here to help you. What seems to be the issue? How can I alleviate your concerns?
+
+Customer: Well, I've been experiencing some unusual symptoms lately, and I'm worried it might be something serious. I wanted to know more about the services your hospital provides and if you have any specialists available.
+
+Agent 1: I understand your concern, Sarah. HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We have various departments, including cardiology, neurology, gastroenterology, and more. Our team of specialists is highly trained and experienced to handle different medical conditions.
+
+Customer: That's reassuring to hear. Are there any specific doctors or specialists I can request an appointment with?
+
+Agent 1: Absolutely, Sarah. Our hospital has a roster of talented doctors and specialists. May I know which department you think is most relevant to your symptoms so that I can guide you accordingly?
+
+Customer: I've been having severe headaches and dizziness lately. I think it might be related to my neurological health.
+
+Agent 1: I understand, Sarah. In that case, our neurology department would be the best fit for you. We have renowned neurologists who specialize in diagnosing and treating various neurological conditions. I can schedule an appointment for you if you'd like.
+
+Customer: Yes, please. That would be great. I'm really scared, and it would be a relief to get some professional advice.
+
+Agent 1: I completely understand, Sarah. Let me check the availability of our neurologists. Could you please provide me with your contact details so that I can schedule the appointment and send you the necessary information?
+
+Customer: Sure. My phone number is 555-1234, and my email is sarah.johnson@email.com.
+
+Agent 1: Thank you, Sarah. I have scheduled an appointment for you with Dr. Emily Anderson, one of our top neurologists. You will receive an email shortly with all the details, including the date, time, and location of the appointment. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you so much, Agent 1. You have been really helpful and reassuring. I appreciate your assistance.
+
+Agent 1: You're very welcome, Sarah. I'm glad I could help ease your worries. If you have any further questions or concerns, please don't hesitate to reach out. Take care, and I hope your appointment goes well.
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Sarah. Have a great day. [/INST] Healthcare Facility Information </s>

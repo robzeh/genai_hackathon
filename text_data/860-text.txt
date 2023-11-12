@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: I can't believe I have to call a call center for medical advice! This is ridiculous!
+
+Agent 1: I apologize if you're feeling frustrated, sir. We're here to help. What seems to be the issue?
+
+Customer: Well, I've been experiencing this persistent headache for the past three days, and it's driving me insane! I need some advice on what to do.
+
+Agent 1: I understand how uncomfortable headaches can be. Have you taken any over-the-counter pain medication?
+
+Customer: Yes, I've tried that, but it only provides temporary relief. The headache keeps coming back.
+
+Agent 1: I see. It's possible that your headache may be caused by something more than just a normal headache. Have you experienced any other symptoms along with it?
+
+Customer: No, not really. Just the headache, but it's been really intense and affecting my daily activities.
+
+Agent 1: Alright. In that case, it might be best to consult a healthcare professional. They can assess your symptoms more thoroughly and provide a proper diagnosis. Would you like me to help you find a nearby clinic or schedule an appointment for you?
+
+Customer: I guess that's what I have to do. But it's frustrating that I have to go through all this trouble just for a headache.
+
+Agent 1: I understand your frustration, sir, but it's important to ensure your well-being. We want to make sure you receive the appropriate care. Can I have your location, please?
+
+Customer: I'm located in [Customer's location].
+
+Agent 1: Thank you. Give me a moment to check for nearby clinics. *Agent 1 searches for clinics*
+
+Customer: *sighs* This headache is really getting on my nerves. I hope the clinic can help me figure out what's wrong.
+
+Agent 1: I understand how uncomfortable it can be. I've found a few clinics near your location. I can provide you with their contact information.
+
+Customer: Yes, please. I'll give them a call and schedule an appointment as soon as possible.
+
+Agent 1: Not a problem. Here are the details: [Clinic name], located at [Address], contact number [Phone number]. Is there anything else I can assist you with?
+
+Customer: No, that should be it. I appreciate your help, Agent 1.
+
+Agent 1: You're welcome, sir. I hope you find the assistance you need at the clinic. If you have any further questions or concerns, please don't hesitate to call us back. Take care!
+
+Customer: Thank you. Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

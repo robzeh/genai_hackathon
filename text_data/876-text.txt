@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer (scared): Hi, Agent 2. I'm really scared and I need some help. I'm not feeling well and I'm not sure what to do.
+
+Agent 2: I'm sorry to hear that you're feeling scared. Don't worry, we're here to help you. Can you please tell me what symptoms you're experiencing?
+
+Customer: I've been having a high fever for the past two days, and I feel extremely weak and fatigued. I also have a persistent cough and difficulty breathing.
+
+Agent 2: I understand how concerning those symptoms can be. Given the current situation, it's important to take precautions. Have you traveled recently or been in contact with someone who has tested positive for COVID-19?
+
+Customer: No, I haven't traveled anywhere, and I don't know anyone who has tested positive. But I'm still worried.
+
+Agent 2: I completely understand your concerns. It's always better to be cautious. Given your symptoms, I would recommend seeking medical attention. Have you considered going to the nearest hospital or clinic?
+
+Customer: I'm scared to go to the hospital because I don't want to be exposed to more germs. Is there any alternative?
+
+Agent 2: I understand your concern, but hospitals have strict protocols in place to minimize the risk of exposure. However, if you prefer an alternative, you can consider scheduling a telehealth appointment with one of our doctors. They can assess your symptoms and provide guidance remotely.
+
+Customer: That sounds like a good option. How do I schedule a telehealth appointment?
+
+Agent 2: I can certainly help you with that. Let me just gather some basic information from you. May I have your full name, please?
+
+Customer: My name is Emily Thompson.
+
+Agent 2: Thank you, Emily. Can you please provide me with a contact number and email address where our doctor can reach you?
+
+Customer: Sure, my contact number is 555-1234 and my email address is emily.thompson@email.com.
+
+Agent 2: Thank you, Emily. I will pass on your information to our telehealth department. They will reach out to you shortly to schedule an appointment. In the meantime, make sure to rest, stay hydrated, and monitor your symptoms closely.
+
+Customer: Thank you so much for your help, Agent 2. I really appreciate it.
+
+Agent 2: You're welcome, Emily. I'm glad I could assist you. If you have any other questions or concerns, please don't hesitate to reach out. Take care and get well soon.
+
+Customer: Thank you, Agent 2. Goodbye.
+
+Agent 2: Goodbye, Emily. [/INST] General Inquiries </s>

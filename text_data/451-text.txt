@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Finally! I've been waiting for my lab and test results for over a week now. This is unacceptable!
+
+Agent 2: I apologize for the delay and understand your frustration, sir. Could you please provide me with your name and date of birth so I can locate your records?
+
+Customer: My name is John Smith and my date of birth is January 15, 1980. I expect some answers today!
+
+Agent 2: Thank you, Mr. Smith. Let me pull up your file and check the status of your lab and test results. I understand your urgency, and I'll do my best to assist you.
+
+Customer: You better do more than just your best. I've been worrying sick about these results!
+
+Agent 2: I completely understand, Mr. Smith. I see that your lab and test results were finalized yesterday. However, there seems to have been a delay in sending them out to you. I sincerely apologize for the inconvenience caused.
+
+Customer: Well, it's about time! Why wasn't I informed about the delay? This is absolutely ridiculous!
+
+Agent 2: I apologize for the lack of communication, Mr. Smith. It seems there was an oversight on our part. Rest assured, I'm here to help you now. May I confirm your address to ensure we have the correct one on file?
+
+Customer: It's 123 Main Street, Anytown. And don't tell me there will be another delay in sending the results!
+
+Agent 2: Thank you for confirming, Mr. Smith. I can assure you that your lab and test results will be sent out today via express courier. You should receive them within the next 24 hours.
+
+Customer: Finally some progress. But what about my concerns regarding the delay? This kind of negligence is unacceptable!
+
+Agent 2: I completely understand your frustration, Mr. Smith, and I assure you that we take this matter seriously. I will personally address this issue with our team to ensure it doesn't happen again in the future. Your feedback is vital in helping us improve our services.
+
+Customer: It better not happen again! I've had enough stress over this. I hope you understand the impact it has on a person's well-being.
+
+Agent 2: I completely understand, Mr. Smith. Your well-being is our top priority, and we apologize for any distress caused. Is there anything else I can assist you with today?
+
+Customer: No, that will be all. I just hope you take my feedback seriously and make the necessary improvements.
+
+Agent 2: Absolutely, Mr. Smith. Your feedback is greatly appreciated, and we will take immediate action to address the delay and improve our communication process. Thank you for bringing this to our attention. If you have any further questions or concerns in the future, please don't hesitate to reach out.
+
+Customer: I expect better service next time. Goodbye.
+
+Agent 2: Thank you for your understanding, Mr. Smith. We value your feedback and will strive to provide you with a better experience in the future. Goodbye and take care. [/INST] Lab and Test Results </s>

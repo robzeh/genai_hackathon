@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I'm feeling really worried about some symptoms I've been experiencing lately.
+
+Agent 1: Hi Sarah, I'm here to help. Can you please let me know what symptoms you've been experiencing?
+
+Customer: Well, for the past week, I've been having frequent headaches and feeling extremely fatigued. I also noticed some unexplained weight loss.
+
+Agent 1: I understand your concern, Sarah. Have you noticed any other symptoms like fever, nausea, or joint pain?
+
+Customer: No, I haven't had any fever, nausea, or joint pain. It's mainly the headaches and fatigue that are bothering me.
+
+Agent 1: Alright, I'd like to ask a few more questions to better understand your situation. Have you recently made any significant changes to your diet or lifestyle?
+
+Customer: Not really, my diet and lifestyle have been pretty consistent. I haven't changed anything drastically.
+
+Agent 1: Okay, let's explore a bit further. Have you been under any unusual stress or experiencing any emotional challenges lately?
+
+Customer: Now that you mention it, I have been feeling quite stressed at work. The workload has been overwhelming.
+
+Agent 1: Stress can definitely contribute to headaches and fatigue. It's important to take care of your mental health as well. However, considering the weight loss, I would recommend scheduling an appointment with your primary care physician for a thorough evaluation.
+
+Customer: That's a good idea. I'll make sure to book an appointment soon. Is there anything I can do in the meantime to alleviate the symptoms?
+
+Agent 1: While waiting for your appointment, I suggest getting enough rest, practicing stress management techniques like deep breathing or meditation, and maintaining a well-balanced diet. It's also important to stay hydrated and avoid excessive caffeine intake.
+
+Customer: Thank you for your advice, Agent 1. I will definitely follow your suggestions.
+
+Agent 1: You're welcome, Sarah. I'm glad I could help. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I appreciate your help and guidance.
+
+Agent 1: It was my pleasure assisting you, Sarah. Remember, if you have any further questions or concerns, don't hesitate to reach out to us. Take care and have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye!
+
+Agent 1: Goodbye, Sarah. Take care! [/INST] Medical Advice or Symptom Assessment </s>

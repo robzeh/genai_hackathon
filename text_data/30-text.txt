@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Finally! I've been on hold for ages. This is ridiculous!
+
+Agent 3: I apologize for the long wait, sir. I understand you're feeling frustrated. How can I help you?
+
+Customer: I have a few general inquiries about your hospital. Firstly, what services do you offer?
+
+Agent 3: HealthHarbor is a full-service hospital, providing a wide range of medical services. We have departments for emergency care, surgery, cardiology, pediatrics, and many other specialties.
+
+Customer: Okay, and what are your visiting hours?
+
+Agent 3: Our visiting hours are from 9 am to 8 pm, Monday through Sunday. However, due to the ongoing COVID-19 situation, we have implemented some restrictions. Would you like me to provide you with the current guidelines?
+
+Customer: Yes, I want to know what restrictions are in place. I hope it's not too complicated.
+
+Agent 3: We have limited the number of visitors per patient and require everyone to wear masks and follow social distancing guidelines. Additionally, we conduct temperature checks at the entrance and require visitors to sanitize their hands frequently.
+
+Customer: That's understandable, I suppose. What about parking? I've heard horror stories about hospitals and their parking facilities.
+
+Agent 3: We have a dedicated parking area for patients and visitors. Our parking rates are reasonable, and we offer discounted rates for long-term stays. We also have designated spaces for disabled individuals.
+
+Customer: Alright, that's good to know. Now, what about insurance coverage? Does HealthHarbor accept all insurance plans?
+
+Agent 3: HealthHarbor is proud to accept most major insurance plans. However, it's always a good idea to verify with your insurance provider to ensure coverage. Our billing department can also assist in answering any specific questions you may have.
+
+Customer: Fine. I don't have any other questions. Just make sure you improve your call waiting times. It's frustrating to be put on hold for so long.
+
+Agent 3: I apologize for the inconvenience caused by the long wait. We are constantly working on improving our service, and your feedback is valuable to us. Thank you for bringing this to my attention.
+
+Customer: Well, I hope you actually do something about it. This is unacceptable.
+
+Agent 3: I assure you, we take your concerns seriously. Your feedback will be shared with the appropriate department, and we will strive to provide a better experience in the future.
+
+Customer: Alright, I'll hold you to that. Goodbye.
+
+Agent 3: Thank you for calling HealthHarbor. If you have any further questions, please don't hesitate to reach out. Have a great day! Goodbye. [/INST] General Inquiries </s>

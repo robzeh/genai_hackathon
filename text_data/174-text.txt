@@ -1,0 +1,63 @@
+<s>[INST] Classify the following call transcript:
+
+Call Center Agent: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi, Agent 2. I'm just calling with some general inquiries about the services provided at HealthHarbor.
+
+Call Center Agent: Of course, I'll be happy to help. How can I assist you specifically?
+
+Customer: Well, I recently moved to this area and I'm looking for a new primary care physician. Can you tell me if HealthHarbor has any available doctors?
+
+Call Center Agent: Absolutely! HealthHarbor has a team of experienced primary care physicians. May I have your name, please?
+
+Customer: My name is Sarah Johnson.
+
+Call Center Agent: Thank you, Sarah. Let me check our database for available doctors in your area. Can you please provide me with your zip code?
+
+Customer: Sure, it's 12345.
+
+Call Center Agent: Thank you. Give me a moment to find a doctor near you. 
+
+Customer: Take your time.
+
+Call Center Agent: Great news, Sarah! We have a few primary care physicians located near your zip code. I can provide you with their names and contact information if you'd like.
+
+Customer: Yes, please. That would be helpful.
+
+Call Center Agent: Alright. We have Dr. Emily Thompson, Dr. Daniel Adams, and Dr. Olivia Davis. Which one would you like me to provide you with contact information for?
+
+Customer: Can you give me the contact information for Dr. Emily Thompson?
+
+Call Center Agent: Sure. Dr. Emily Thompson's contact information is 555-123-4567. She is located at HealthHarbor's main facility on Elm Street. Is there anything else I can assist you with?
+
+Customer: Actually, yes. I'm also interested in knowing if HealthHarbor offers any specialized services, like cardiology or orthopedics.
+
+Call Center Agent: Absolutely, Sarah. HealthHarbor offers a wide range of specialized services, including cardiology, orthopedics, pediatrics, and more. Would you like me to provide you with more information on any specific specialty?
+
+Customer: I'm particularly interested in cardiology. Can you tell me more about the cardiology services at HealthHarbor?
+
+Call Center Agent: Certainly. HealthHarbor's cardiology department is staffed with highly skilled cardiologists who specialize in diagnosing and treating heart conditions. They offer a variety of services, including cardiac screenings, stress tests, echocardiograms, and more. If you would like to schedule an appointment or have any specific questions, I can connect you with our cardiology department directly.
+
+Customer: That sounds great. Can you please connect me with the cardiology department?
+
+Call Center Agent: Of course, Sarah. Please hold while I transfer your call to our cardiology department. They will be able to assist you further.
+
+(Customer is put on hold briefly)
+
+Cardiology Department: Thank you for calling HealthHarbor's cardiology department. How may I assist you?
+
+Customer: Hi, I was just speaking with Agent 2 from the call center, and I'm interested in scheduling a cardiac screening.
+
+Cardiology Department: Certainly, we can help you with that. May I have your name and contact information, please?
+
+Customer: My name is Sarah Johnson, and you can reach me at 555-987-6543.
+
+Cardiology Department: Thank you, Sarah. I will schedule you for a cardiac screening with one of our cardiologists. You will receive a confirmation call with the date and time of your appointment.
+
+Customer: Thank you so much for your help.
+
+Cardiology Department: You're welcome, Sarah. If you have any further questions or need assistance, feel free to reach out to us. Have a great day!
+
+Customer: You too. Goodbye.
+
+Cardiology Department: Goodbye, Sarah. [/INST] General Inquiries </s>

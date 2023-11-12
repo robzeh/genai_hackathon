@@ -1,0 +1,51 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi Agent 4, my name is Emily Smith. I need some help with a medical records request.
+
+Agent 4: Hi Emily, I'm here to help. I understand that you're worried about your medical records. Can you please provide me with your date of birth and the specific records you're looking for?
+
+Customer: Yes, my date of birth is January 15, 1980. I need a copy of my recent lab results and any imaging reports from the past year.
+
+Agent 4: Thank you, Emily. I'm sorry to hear that you're feeling worried. Let me check our system for your records. Please bear with me for a moment.
+
+(Customer waits a few seconds)
+
+Agent 4: Emily, I have found your records. I see that you had some lab tests done last month and an MRI scan a few months ago. Is that correct?
+
+Customer: Yes, that's correct. I had some blood work done and also an MRI for my back pain.
+
+Agent 4: Alright, Emily. I can definitely assist you in obtaining copies of those records. We have a standard process for medical record requests. First, we'll need you to fill out a form, which can be sent to you via email or regular mail. Once we receive the completed form, we'll process your request within 5 to 7 business days.
+
+Customer: Oh, that sounds like a long time. Is there any way to expedite the request? I'm really worried about my health.
+
+Agent 4: I understand your concern, Emily. While our standard processing time is 5 to 7 business days, we do have an expedited option available for urgent cases. However, there is an additional fee for this service. Would you like to proceed with the expedited request?
+
+Customer: Yes, I think I would prefer to have my records as soon as possible. Can you please let me know the cost for the expedited service?
+
+Agent 4: Of course, Emily. The cost for the expedited service is $50. This fee covers the additional resources required to prioritize your request. Please keep in mind that this fee is non-refundable, even if we are unable to meet the expedited time frame.
+
+Customer: I understand. I'm willing to pay the fee if it means getting my records sooner. Can I make the payment over the phone?
+
+Agent 4: Yes, absolutely. I can assist you with the payment process. We accept credit card payments. May I have your credit card details, please?
+
+(Customer provides credit card details)
+
+Agent 4: Thank you for providing your credit card details, Emily. I will now process the payment for the expedited service. Once the payment is confirmed, we will prioritize your request and aim to have your records ready within 2 business days.
+
+(Customer waits a few seconds)
+
+Agent 4: Emily, I'm happy to inform you that your payment has been successfully processed. Your request has been marked as expedited, and we will strive to have your records ready for you as soon as possible.
+
+Customer: Thank you so much, Agent 4. I really appreciate your assistance. You've eased my worries.
+
+Agent 4: You're welcome, Emily. It's my pleasure to help. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thank you again for your help.
+
+Agent 4: You're very welcome, Emily. Take care, and don't hesitate to reach out if you have any further concerns. Have a great day!
+
+Customer: You too. Goodbye.
+
+Agent 4: Goodbye! [/INST] Medical Records Requests </s>

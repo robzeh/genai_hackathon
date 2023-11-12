@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I'm feeling really scared right now. I need to request my medical records from your hospital.
+
+Agent 1: I understand how you feel, Sarah. I'm here to help you through this process. Could you please provide me with some information to locate your records?
+
+Customer: Yes, of course. My date of birth is June 10th, 1985, and my social security number is 123-45-6789.
+
+Agent 1: Thank you for providing that information, Sarah. Can you also confirm your current address and phone number?
+
+Customer: My address is 123 Main Street, Anytown, USA, and my phone number is 555-123-4567.
+
+Agent 1: Great, Sarah. Now, could you please specify which medical records you would like to request?
+
+Customer: I need a copy of all my medical records from my recent hospitalization in HealthHarbor. I was admitted on October 15th, 2021, for a surgery.
+
+Agent 1: I'm sorry to hear about your hospitalization, Sarah. Let me check our system to ensure we have your records. Please bear with me for a moment.
+
+(Customer waits)
+
+Agent 1: Sarah, I have located your records. Before we proceed, I want to assure you that your privacy is our utmost priority, and we will handle your request with the utmost care and confidentiality. Is there any specific format you would like your records in, such as electronic or physical copies?
+
+Customer: I would prefer electronic copies, please.
+
+Agent 1: Noted, Sarah. We can definitely provide you with electronic copies. However, we do require a signed authorization form to process your request. I can either email it to you or send it via mail. Which option would you prefer?
+
+Customer: I would prefer to receive it via email. That would be quicker for me.
+
+Agent 1: Understood, Sarah. I will email you the authorization form to the email address we have on file. Please review, sign, and return it to us as soon as possible. Once we receive the signed form, we will process your request within 5-7 business days. Is there anything else I can assist you with?
+
+Customer: No, that will be all, Agent 1. Thank you for your help. I appreciate your assistance during this difficult time.
+
+Agent 1: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or concerns, please don't hesitate to reach out to us. Take care and stay safe.
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Sarah. Have a great day. [/INST] Medical Records Requests </s>

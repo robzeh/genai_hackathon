@@ -1,0 +1,27 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. I'm John Smith. I recently had some lab tests done at your hospital, and I was wondering if the results are ready?
+
+Agent 4: Hello, John. I understand your concern. Let me check that for you. Could you please provide me with your date of birth and a contact number?
+
+Customer: Sure, my date of birth is March 15, 1985, and my contact number is 555-1234.
+
+Agent 4: Thank you, John. Let me check your records. I see that your lab tests were conducted last week. Unfortunately, the results are not ready yet. I apologize for the delay. Our lab technicians are experiencing a backlog, and we are working diligently to process the results as quickly as possible.
+
+Customer: Oh, I see. I was hoping to get the results sooner. Can you give me an estimated time when they will be available?
+
+Agent 4: I understand your concern, John. I apologize for the inconvenience caused. Our lab team is working around the clock to expedite the process. I can assure you that we will notify you as soon as the results are ready. Is there anything else I can assist you with?
+
+Customer: No, that's alright. I just wanted to know the status of my results. I guess I'll have to wait a little longer. Thank you for your help, Agent 4.
+
+Agent 4: You're welcome, John. I understand how important it is to receive your results promptly. I assure you that we are prioritizing this matter. If you have any other questions or concerns, please feel free to reach out to us. We appreciate your patience.
+
+Customer: Alright, I'll keep waiting then. Thank you for your assistance, Agent 4.
+
+Agent 4: You're welcome, John. We appreciate your understanding. Have a great day, and please don't hesitate to contact us if you need any further assistance. Take care!
+
+Customer: Thank you, Agent 4. You too. Goodbye.
+
+Agent 4: Goodbye, John. Have a wonderful day! [/INST] Lab and Test Results </s>

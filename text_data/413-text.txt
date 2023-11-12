@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Jane Miller. I recently had some lab tests done at your hospital, and I'm calling to inquire about the results.
+
+Agent 2: Hello, Jane. I understand you would like to know the results of your lab tests. I'll be happy to help you with that. Can you please provide me with your date of birth and any identification number you may have?
+
+Customer: Sure, my date of birth is January 15, 1985, and I have my patient ID number right here, it's 123456789.
+
+Agent 2: Thank you for providing that information, Jane. Let me check your records. Please bear with me for a moment.
+
+(Customer waits)
+
+Agent 2: Thank you for your patience, Jane. I have reviewed your records, and I can see that your lab results are available. Before we proceed, may I ask if you have any specific concerns or questions regarding your test results?
+
+Customer: No specific concerns, Agent 2. I'm just curious to know the overall results and if there's anything I should be aware of.
+
+Agent 2: I understand. Let me go through your lab results. It seems that all your tests came back within the normal range. Your blood work, cholesterol levels, and other parameters are within the expected values. Is there anything specific you'd like me to explain further?
+
+Customer: That's great to hear, Agent 2. I do have a question about my thyroid test. Could you please provide me with the details of that particular result?
+
+Agent 2: Of course, Jane. Your thyroid test shows that your TSH levels are within the normal range, indicating that your thyroid function is normal. Is there anything else you would like to know?
+
+Customer: No, that's all I needed to know, Agent 2. Thank you for your help.
+
+Agent 2: You're welcome, Jane. I'm glad I could assist you. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you again, Agent 2. Have a great day!
+
+Agent 2: You're welcome, Jane. Have a wonderful day too! If you have any further questions in the future, don't hesitate to reach out to us. Take care!
+
+(Customer hangs up) [/INST] Lab and Test Results </s>

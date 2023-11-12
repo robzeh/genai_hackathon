@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Johnson. I'm feeling really worried about my medical records. I need to request some information, but I'm not sure how to go about it.
+
+Agent 2: Hi, Sarah. I understand that it can be concerning. Don't worry, I'm here to help you with your medical records request. Can you please provide me with your date of birth and the reason for your request?
+
+Customer: Sure, my date of birth is May 15, 1985. The reason for my request is that I'm changing doctors, and my new doctor needs access to my previous medical history.
+
+Agent 2: I see, Sarah. Thank you for sharing that. In order to proceed with your request, I will need you to fill out a medical records request form. You can find this form on our website under the "Patient Resources" section. It includes all the necessary details and authorizations required for us to release your medical records.
+
+Customer: Okay, I'll go ahead and fill out the form. Is there anything else I need to do?
+
+Agent 2: Once you've completed the form, you can either fax it to us or mail it to our address. Please ensure that you provide your full name, contact information, and any specific details regarding the records you require. Additionally, please include the name and address of your new doctor so we can send the records directly to them.
+
+Customer: Alright, I will make sure to provide all the necessary information. How long will it take to process my request?
+
+Agent 2: Generally, it takes around 10 business days to process a medical records request. However, this can vary depending on the volume of requests we receive. Rest assured, we will do our best to process your request as efficiently as possible.
+
+Customer: That's good to know. I have one more question. Will there be any fees associated with obtaining my medical records?
+
+Agent 2: HealthHarbor does charge a fee for medical records requests. The cost is typically based on the number of pages being requested. However, I would advise you to check our website or contact our billing department for the exact fee structure and any payment instructions.
+
+Customer: Okay, I'll make sure to do that. Thank you for all your help, Agent 2. You've been really informative and patient with me.
+
+Agent 2: You're welcome, Sarah. It's my pleasure to assist you. If you have any further questions or need any additional support, please don't hesitate to reach out to us. We're here to help you. Take care and have a great day!
+
+Customer: Thank you again, Agent 2. I appreciate your assistance. Goodbye!
+
+Agent 2: Goodbye, Sarah. Stay safe and take care! [/INST] Medical Records Requests </s>

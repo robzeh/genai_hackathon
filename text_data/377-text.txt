@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Emily Johnson. I need to request my medical records from HealthHarbor. I'm feeling a bit worried about it.
+
+Agent 2: Hi, Emily. I understand your concern. Don't worry, we're here to help you. Could you please provide me with your date of birth and the reason for requesting your medical records?
+
+Customer: Sure. My date of birth is June 12, 1985. I need these records for my upcoming specialist appointment. I want to make sure they have all the necessary information.
+
+Agent 2: I see. Thank you for providing that information, Emily. To process your request, I will need your written consent. Can you confirm your current address for us to send the necessary forms?
+
+Customer: Yes, my address is 123 Main Street, Anytown, USA.
+
+Agent 2: Perfect, Emily. I will mail the consent forms to the address you provided. Once you receive them, please fill them out and send them back to us. Alternatively, you can also fax or email the completed forms to us.
+
+Customer: Okay, I will keep an eye out for the forms. How long does the process usually take?
+
+Agent 2: Typically, it takes about 7-10 business days from the time we receive your completed forms. However, please note that during busy periods, it might take a bit longer. Rest assured, we'll do our best to process your request as quickly as possible.
+
+Customer: That sounds reasonable. I just hope I receive them on time for my specialist appointment. Is there any way to expedite the process?
+
+Agent 2: I understand your urgency, Emily. While we don't have a standard expedited process, I can make a note on your file to prioritize your request. That way, our team will be aware of the urgency and try to process it as soon as possible.
+
+Customer: That would be great, Agent 2. I really appreciate your help. Is there any cost associated with obtaining my medical records?
+
+Agent 2: There might be a fee for processing the request, but it varies depending on your state regulations and the complexity of your records. Once we receive your completed forms, our team will review your request and inform you about any applicable fees.
+
+Customer: Alright, I understand. I'm just hoping it won't be too costly. Is there any way to get an estimate beforehand?
+
+Agent 2: I can certainly check that for you, Emily. Let me pull up your file and see if I can get an estimate of the fees involved. Please bear with me for a moment.
+
+(Customer waits on hold)
+
+Agent 2: Thank you for your patience, Emily. Based on your medical history and the amount of records you're requesting, I can provide you with an estimated cost of $50. Please note that this is just an estimate, and the final cost may vary.
+
+Customer: Okay, that's not too bad. I can manage that. Thank you for checking, Agent 2.
+
+Agent 2: You're welcome, Emily. I'm glad I could assist you. Is there anything else I can help you with?
+
+Customer: No, that was all. I just wanted to ensure everything goes smoothly. Thank you for your time and help, Agent 2.
+
+Agent 2: It was my pleasure, Emily. If you have any further questions or concerns, don't hesitate to reach out to us. Take care, and I hope your specialist appointment goes well. [/INST] Medical Records Requests </s>

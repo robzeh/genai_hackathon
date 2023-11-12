@@ -1,0 +1,55 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I need to request my medical records from your hospital.
+
+Agent 3: Hello, Emily. I understand how important medical records are. I'll be happy to assist you with that. Can you please provide me with some necessary details?
+
+Customer: Sure. What information do you need?
+
+Agent 3: Firstly, I'll need your full name, date of birth, and address. Can you please provide me with those?
+
+Customer: My full name is Emily Johnson, my date of birth is June 15th, 1985, and my address is 123 Main Street.
+
+Agent 3: Thank you for providing that information, Emily. Now, could you please specify the timeframe for the medical records you are requesting?
+
+Customer: I would like to request all of my medical records from the past five years.
+
+Agent 3: Noted. Just to confirm, are you requesting the records for personal use or will they be sent to another healthcare provider?
+
+Customer: They are for personal use.
+
+Agent 3: Understood. Now, Emily, I need to inform you that there might be a fee associated with obtaining your medical records. The cost may vary depending on the number of pages and the format you prefer. Is that okay with you?
+
+Customer: I wasn't aware of any fees. How much would it cost?
+
+Agent 3: The fee for obtaining medical records is typically determined based on the hospital's policy. However, I can check the specific fees for you. Please hold on for a moment while I gather that information.
+
+(Customer waits on hold for a moment)
+
+Agent 3: Thank you for your patience, Emily. The fee for obtaining your medical records will be $25 for records within the past five years. Is that acceptable to you?
+
+Customer: Yes, that's fine. How can I make the payment?
+
+Agent 3: We accept payment through various methods, such as credit or debit card. We can process the payment over the phone. Is that convenient for you?
+
+Customer: Yes, that works for me. I'll provide my credit card details.
+
+Agent 3: Thank you, Emily. I will now securely take your credit card information. Please provide me with the card number, expiration date, and security code.
+
+(Customer provides the credit card details)
+
+Agent 3: Thank you for providing your payment details, Emily. Your payment has been successfully processed. Now, let's move forward with the request. How would you like to receive your medical records?
+
+Customer: Can you please send them to my home address?
+
+Agent 3: Of course, Emily. We will mail the records to the address you have provided. Please allow a few business days for the records to reach you. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emily. If you have any further questions or concerns, feel free to reach out to us. Have a great day!
+
+Customer: Thank you. Goodbye.
+
+Agent 3: Goodbye, Emily. Take care. [/INST] Medical Records Requests </s>

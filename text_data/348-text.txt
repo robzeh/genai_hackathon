@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer (angry): Finally! I've been on hold for ages. I need to request my medical records immediately!
+
+Agent 4: I apologize for the wait, and I understand your urgency. I'll do my best to assist you. May I have your full name please?
+
+Customer: It's John Smith.
+
+Agent 4: Thank you, Mr. Smith. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: My date of birth is January 15, 1980. I need these records because I'm switching doctors, and they require my complete medical history.
+
+Agent 4: I see. I'm sorry for any inconvenience caused. In order to process your request, I'll need you to complete a Medical Records Release Form. This form can be filled out online on our website or mailed to you. Which option would you prefer?
+
+Customer: I don't have time for that! Just send me the form right now through email.
+
+Agent 4: I apologize again, Mr. Smith, but for security reasons, we cannot send sensitive medical information via email. However, I can expedite the process for you. If you have access to a fax machine, I can send the form directly to your doctor's office.
+
+Customer (frustrated): This is ridiculous! I don't have a fax machine. Can't you just email it to me?
+
+Agent 4: I understand your frustration, but our priority is to protect your personal information. Alternatively, you can visit our hospital's Medical Records Department in person and complete the form there.
+
+Customer: Are you kidding me? I'm already switching doctors, and now I have to waste my time visiting your hospital as well? This is unacceptable!
+
+Agent 4: I apologize for any inconvenience caused, Mr. Smith. I understand your frustration, and I assure you that we are doing our best to ensure the security and confidentiality of your medical records. If you'd like, I can connect you with a supervisor who may be able to provide alternative solutions.
+
+Customer (angry): Fine, connect me to your supervisor! This is a complete waste of my time.
+
+Agent 4: I apologize for the inconvenience, Mr. Smith. Please hold the line while I transfer you to a supervisor who will be able to assist you further.
+
+[The call is placed on hold, and the customer waits to be connected to a supervisor.] [/INST] Medical Records Requests </s>

@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Johnson. I've been experiencing some strange symptoms lately and I'm not sure what's going on. I was hoping you could help me figure it out.
+
+Agent 2: Of course, Sarah. I'll do my best to assist you. Can you please describe the symptoms you've been experiencing?
+
+Customer: Well, for the past week, I've been feeling extremely fatigued, even after getting a full night's sleep. I've also been having frequent headaches and some dizziness. I haven't had much of an appetite either.
+
+Agent 2: I understand how concerning that can be, Sarah. Fatigue, headaches, and dizziness can be symptoms of various conditions. Have you noticed any other changes in your health or any other symptoms?
+
+Customer: No, not really. I haven't had any fever or nausea. It's mainly just the fatigue and headaches that are bothering me.
+
+Agent 2: Okay, thank you for that information. Since these symptoms have been persistent for a week, it's important to consider a few possibilities. Have you had any recent changes in your lifestyle or any significant stressors?
+
+Customer: Not really, my lifestyle has been pretty consistent. I haven't had any major changes or stressors lately.
+
+Agent 2: Alright, in that case, it might be a good idea to schedule an appointment with your primary care physician. They will be able to assess your symptoms more thoroughly and provide a proper diagnosis. In the meantime, I can give you some general advice to help manage your symptoms. Would that be helpful?
+
+Customer: Yes, please. I'd appreciate any advice you can offer to alleviate these symptoms.
+
+Agent 2: Firstly, make sure you're getting enough rest and practicing good sleep hygiene. Establish a regular sleep schedule and create a relaxing bedtime routine. Secondly, try to reduce stress through activities like meditation or deep breathing exercises. Lastly, make sure you're maintaining a healthy diet and staying hydrated. These steps can help improve your overall well-being.
+
+Customer: Thank you, Agent 2. I will definitely take your advice and schedule an appointment with my doctor. I appreciate your help.
+
+Agent 2: You're welcome, Sarah. I'm glad I could assist you. Remember, it's always best to consult with a healthcare professional for a proper diagnosis and personalized treatment plan. Is there anything else I can help you with?
+
+Customer: No, that's all for now. Thank you again for your assistance.
+
+Agent 2: It was my pleasure, Sarah. Take care and I hope you feel better soon. Don't hesitate to reach out if you have any further questions or concerns. Have a great day!
+
+Customer: Thank you, Agent 2. Goodbye.
+
+Agent 2: Goodbye, Sarah. [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, this is Sarah Johnson. I'm feeling really scared right now. I need some help with my medical records.
+
+Agent 3: I'm sorry to hear that you're feeling scared, Sarah. Don't worry, we're here to help you. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: My date of birth is October 15th, 1985. I need my medical records because I recently changed doctors and they need my previous medical history.
+
+Agent 3: I understand, Sarah. Changing doctors can be a bit overwhelming, but we'll make sure to assist you with your medical records request. Can you please confirm the name of your previous doctor and the dates of your visits?
+
+Customer: My previous doctor was Dr. Smith, and I visited him from 2010 to 2019.
+
+Agent 3: Thank you for providing that information, Sarah. Let me check our system to see if we have your medical records on file. Please stay on the line for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 3: Thank you for your patience, Sarah. I have found your medical records in our system. However, in order to process your request, we will need you to complete a Medical Records Release form. This form allows us to securely transfer your records to your new doctor. Can I provide you with the form via email?
+
+Customer: Yes, please email me the form. My email address is sarahjohnson@email.com.
+
+Agent 3: Absolutely, Sarah. I will send the Medical Records Release form to your email address immediately. Please check your inbox within the next few minutes. Once you receive it, please fill out the form and send it back to us. Once we receive the completed form, we will process your request as soon as possible.
+
+Customer: Thank you so much, Agent 3. I really appreciate your help. I'm just so scared about starting with a new doctor and not having my medical history readily available.
+
+Agent 3: I completely understand, Sarah. It's natural to feel scared and uncertain when switching doctors, but having your medical records will help your new doctor provide you with the best possible care. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3. I'll keep an eye on my email for the form.
+
+Agent 3: You're welcome, Sarah. If you have any further questions or need any additional assistance, please don't hesitate to reach out to us. Take care and have a great day.
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Sarah. [/INST] Medical Records Requests </s>

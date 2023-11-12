@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. I'm feeling really scared and I need some information about your healthcare facility. I've been having some health issues and I'm not sure where to go for help.
+
+Agent 4: I'm sorry to hear that you're feeling scared. Don't worry, I'm here to help. Can you please tell me your name?
+
+Customer: Sure, my name is Sarah Thompson.
+
+Agent 4: Thank you, Sarah. Can you please let me know what specific information you are looking for about our healthcare facility?
+
+Customer: Well, I would like to know what kind of medical services you offer. I've been experiencing some chest pain and I'm not sure if I should go to the emergency room or if there's another department I should visit.
+
+Agent 4: I understand your concern, Sarah. At HealthHarbor, we offer a wide range of medical services including emergency care, primary care, specialty care, diagnostic imaging, and laboratory services. For chest pain, I would advise you to visit our emergency room immediately to get proper evaluation and treatment.
+
+Customer: Thank you for your guidance. I just wanted to make sure I'm going to the right place. Can you also provide me with the address and contact information for the hospital?
+
+Agent 4: Of course, Sarah. HealthHarbor is located at 123 Main Street, Anytown. Our contact number is 555-123-4567. Our emergency room is open 24/7, so you can visit us anytime if you need immediate medical attention.
+
+Customer: That's good to know. I appreciate your help. Are there any other departments or services I should be aware of?
+
+Agent 4: Absolutely, Sarah. In addition to emergency care, we have departments such as cardiology, orthopedics, gastroenterology, and many more. We also offer services like physical therapy, radiology, and pharmacy. Our goal is to provide comprehensive healthcare to our patients.
+
+Customer: That sounds great. I'm glad to know that HealthHarbor offers such a wide range of services. Is there anything else I should know before heading to the hospital?
+
+Agent 4: Just a couple of things, Sarah. It's always a good idea to bring your insurance card and any relevant medical documents with you. This will help expedite the registration process. Additionally, if you require any assistance or have any questions while at the hospital, our staff will be more than happy to help you.
+
+Customer: Thank you for the reminder. I'll make sure to bring all the necessary documents. I feel much better now knowing what to expect. You've been really helpful, Agent 4.
+
+Agent 4: I'm glad I could assist you, Sarah. Remember, if you have any more questions or concerns in the future, don't hesitate to reach out to us. Take care of yourself and I hope you feel better soon.
+
+Customer: Thank you, Agent 4. I appreciate your support. Have a great day!
+
+Agent 4: You're welcome, Sarah. You have a great day too. Goodbye! [/INST] Healthcare Facility Information </s>

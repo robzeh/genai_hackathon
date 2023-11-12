@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hello, I'm really scared and I'm not feeling well. I need some medical advice.
+
+Agent 4: I'm sorry to hear that you're feeling scared. Don't worry, I'm here to help. Can you please let me know what symptoms you're experiencing?
+
+Customer: Well, I've been having a persistent cough for the past few days, and I've been feeling really tired and weak. I'm also experiencing some chest pain.
+
+Agent 4: I understand your concern. It's important that we address your symptoms. Have you had any fever recently?
+
+Customer: Yes, I have had a low-grade fever on and off.
+
+Agent 4: I see. Based on your symptoms, it's important to consult a healthcare professional as soon as possible. Chest pain can have various causes, and it's crucial to have it evaluated by a doctor. Can I help you find a nearby healthcare provider?
+
+Customer: Yes, please. I'm really worried about this chest pain.
+
+Agent 4: I understand your worry. Let me search for a healthcare provider near your location. Can you please provide me with your zip code?
+
+Customer: Yes, it's 12345.
+
+Agent 4: Thank you. I have found a few clinics near your location. There's HealthCare Clinic on Main Street and Community Hospital on Elm Street. Both are reputable facilities. Which one would you prefer?
+
+Customer: I think I'll go to the Community Hospital. It sounds more familiar to me.
+
+Agent 4: That's a good choice. Community Hospital is known for its excellent healthcare services. I recommend calling them beforehand to schedule an appointment, as it may help reduce your waiting time. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thank you for your help. I feel a little less scared now.
+
+Agent 4: You're welcome! I'm glad I could help alleviate your fear. Remember, it's always better to seek medical advice when you're unsure. Take care and I hope you feel better soon.
+
+Customer: Thank you, I will. Goodbye.
+
+Agent 4: Goodbye and take care. If you have any further questions, don't hesitate to call us back. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

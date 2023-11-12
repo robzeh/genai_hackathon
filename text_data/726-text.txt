@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answered! I've been trying to get my lab and test results for days, and nobody seems to be able to help me. This is absolutely ridiculous!
+
+Agent 1: I apologize for the inconvenience and the wait. I understand your frustration, and I'm here to help. Can you please provide me with your name and date of birth so that I can access your records?
+
+Customer: My name is John Smith, and my date of birth is January 10th, 1980.
+
+Agent 1: Thank you, Mr. Smith. Let me pull up your file and check the status of your lab and test results. Please bear with me for a moment.
+
+(Customer waits impatiently)
+
+Agent 1: I found your records, Mr. Smith. It looks like your lab and test results are available. However, there seems to be a delay in updating them in our system. I sincerely apologize for the inconvenience caused.
+
+Customer: Delay? How can there be a delay? It's been over a week since I had those tests done. I need those results urgently!
+
+Agent 1: I completely understand your urgency, Mr. Smith. I apologize for the delay once again. Let me escalate this issue to our lab department and ensure they prioritize the update of your results. I will personally follow up with them and keep you informed about the progress.
+
+Customer: Well, it's about time someone took this seriously. I need those results to discuss my treatment options with my doctor. This delay is affecting my health!
+
+Agent 1: I apologize for the inconvenience and the impact it has had on your health, Mr. Smith. Rest assured, I will do everything in my power to expedite the process and get your results to you as soon as possible. Is there anything else I can assist you with?
+
+Customer: No, this is the main reason for my call. Just make sure you keep me updated on the progress. I don't want to have to chase after my results anymore.
+
+Agent 1: I completely understand, Mr. Smith. I will personally reach out to you within the next 24 hours with an update on your lab and test results. Is there a preferred contact number or email address where I can reach you?
+
+Customer: You can reach me at 555-123-4567 or johnsmith@email.com. Just make sure you keep your promise and actually update me this time.
+
+Agent 1: I assure you, Mr. Smith, I will personally update you within the next 24 hours. Thank you for providing your contact details. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Just remember to actually update me this time. I'll be waiting for your call.
+
+Agent 1: I understand your concern, Mr. Smith, and I apologize for the previous lack of communication. I will make sure to update you within the next 24 hours. Thank you for reaching out to HealthHarbor, and I hope we can resolve this issue to your satisfaction. Have a great day!
+
+Customer: Thank you. Goodbye. [/INST] Lab and Test Results </s>

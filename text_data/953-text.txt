@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi Agent 2, my name is Sarah Johnson. I'm feeling really worried and I need some assistance with my medical records.
+
+Agent 2: Hi Sarah, I understand that you're worried. Don't worry, I'm here to help. Can you please provide me with your date of birth and the purpose for requesting your medical records?
+
+Customer: Sure, my date of birth is September 12th, 1985. I need my medical records for a second opinion consultation with another doctor.
+
+Agent 2: Thank you for providing that information, Sarah. I understand the importance of getting a second opinion. Let me check if your medical records are readily available in our system. Please hold on for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 2: Sarah, I have checked our system and I can see that we do have your medical records on file. However, in order to proceed with your request, I need you to complete a Medical Records Request Form. This form can be found on our website under the "Patient Resources" section. Once you've completed the form, you can either fax it to us or bring it in person to our hospital.
+
+Customer: Alright, I'll go ahead and download the form from your website. But I'm really worried about the time it will take to process my request. How long does it usually take?
+
+Agent 2: I completely understand your concerns, Sarah. The processing time for medical records requests can vary depending on the volume of requests we receive. However, our standard turnaround time is within 10 business days. We do offer expedited processing for urgent cases, but there may be an additional fee associated with that. Would you like more information on the expedited processing option?
+
+Customer: Yes, please. I would appreciate any information you can provide regarding expedited processing.
+
+Agent 2: Certainly, Sarah. Our expedited processing option ensures that your medical records request is prioritized and processed within 3 business days. However, there is an additional fee of $50 for this service. If you would like to opt for expedited processing, please indicate that on the Medical Records Request Form and include the additional fee with your submission.
+
+Customer: That sounds reasonable. I will definitely opt for expedited processing considering the urgency of my situation. I'll make sure to include the additional fee as well.
+
+Agent 2: Great, Sarah! I'm glad we could find a solution that works for you. Once we receive your completed form and the additional fee, we will process your request as quickly as possible. Is there anything else I can assist you with today?
+
+Customer: No, that's all I needed help with. Thank you so much for your assistance, Agent 2. You've been very helpful and reassuring. I appreciate it.
+
+Agent 2: You're welcome, Sarah! I'm glad I could assist you. If you have any further questions or concerns, please don't hesitate to reach out to us. Take care and I hope everything goes well with your second opinion consultation.
+
+Customer: Thank you, Agent 2. I will definitely reach out if I have any more questions. Have a great day!
+
+Agent 2: You too, Sarah. Take care and have a great day! Goodbye. [/INST] Medical Records Requests </s>

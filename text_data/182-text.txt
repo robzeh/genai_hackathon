@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: (Angry) Finally, someone picked up! I've been on hold for ages. I need some medical advice right away!
+
+Agent 3: I apologize for the wait, sir. I understand you're in need of medical advice. I'll do my best to assist you. Can you please provide me with your name?
+
+Customer: It's John Smith. Look, I've been experiencing severe abdominal pain for the past two days, and I'm really worried. I need to know what's going on!
+
+Agent 3: I'm sorry to hear that, John. I understand your concern. Just to clarify, I am not a doctor, but I can help you assess your symptoms and provide some general advice. Have you consulted a healthcare professional about your abdominal pain?
+
+Customer: No, I didn't want to waste my time and money on a doctor's appointment if it's nothing serious. That's why I called you guys!
+
+Agent 3: I understand, John. However, it's essential to consult a healthcare professional to get an accurate diagnosis. Severe abdominal pain can be caused by various factors, ranging from indigestion to more serious conditions. It's best to have it checked to rule out any underlying issues.
+
+Customer: (Angrily) I don't have time for that! I need answers now! Can't you just give me some advice or tell me what it could be?
+
+Agent 3: I understand your urgency, John, but it's crucial to prioritize your health. I can provide you with some general information, but it's important to remember that I am not a doctor. Severe abdominal pain can be caused by gastritis, kidney stones, gallstones, or even appendicitis. However, only a healthcare professional can accurately diagnose the cause of your pain.
+
+Customer: (Sighs) Fine, tell me more about these conditions then. What are the symptoms?
+
+Agent 3: Gastritis is the inflammation of the stomach lining and can cause abdominal pain, bloating, nausea, and vomiting. Kidney stones can lead to severe back or abdominal pain, blood in the urine, and frequent urination. Gallstones can cause pain in the upper abdomen, often after a meal, accompanied by nausea and vomiting. Appendicitis typically starts with pain around the belly button and moves to the lower right abdomen, along with a loss of appetite and fever.
+
+Customer: (Less angry) Okay, I think I understand. What can I do to relieve the pain while I wait?
+
+Agent 3: I'm glad you're finding this information helpful, John. While waiting for a medical evaluation, you can try over-the-counter antacids for possible gastritis or applying a heating pad to the affected area for some relief. However, it's essential to consult a healthcare professional if the pain persists or worsens.
+
+Customer: Alright, I guess I'll make an appointment then. Thanks for your help, Agent 3.
+
+Agent 3: You're welcome, John. I'm glad I could assist you. Remember, it's always better to prioritize your health and seek professional advice. If you have any further questions or concerns, feel free to reach out to us again. Take care!
+
+Customer: Will do. Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

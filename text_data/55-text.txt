@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hello, Agent 3. My name is Sarah Anderson. I am feeling quite scared and anxious. I need to request my medical records from HealthHarbor.
+
+Agent 3: I understand, Sarah. I'm here to help you. Don't worry, we will take care of your request. Can you please provide me with your date of birth and any other relevant information?
+
+Customer: Thank you, Agent 3. My date of birth is November 15, 1985. I have been a patient at HealthHarbor for the past five years.
+
+Agent 3: Thank you for providing that information, Sarah. Let me assure you that we take patient privacy very seriously. I will need to verify some additional details to ensure the security of your medical records. Can you please confirm your current address and phone number?
+
+Customer: Yes, of course. My current address is 123 Main Street, and my phone number is (555) 123-4567.
+
+Agent 3: Great, thank you for confirming, Sarah. Now, could you please specify the specific medical records you would like to request? It would be helpful if you could provide the approximate dates or any specific departments you visited during your time at HealthHarbor.
+
+Customer: I'm mostly interested in obtaining my records related to my recent surgery. I had a knee replacement surgery on June 25, 2021. I believe that should be the most relevant information.
+
+Agent 3: Understood, Sarah. I will note down your request for the medical records related to your knee replacement surgery. Please bear with me for a moment while I check the process for accessing and providing these records to you.
+
+(Customer waits for a moment)
+
+Agent 3: Thank you for your patience, Sarah. I have checked with our medical records department, and they have informed me that we have a specific form for requesting medical records. I will be happy to assist you with filling out the form and guiding you through the process.
+
+Customer: That would be great, Agent 3. I appreciate your assistance.
+
+Agent 3: Not a problem, Sarah. Before we proceed, I want to inform you that there might be a fee associated with obtaining your medical records. The exact amount will depend on the number of pages and the format you prefer. Is that okay with you?
+
+Customer: Yes, I understand. Please proceed.
+
+Agent 3: Alright, Sarah. Firstly, I will need your consent to release your medical records. Once we have your consent, I will email you the necessary form. You can fill it out and return it to us via email or fax. Does that work for you?
+
+Customer: Yes, that's fine. I prefer email. Please send me the form as soon as possible.
+
+Agent 3: Absolutely, Sarah. I will send it right away. Please check your email within the next few minutes. In the meantime, is there anything else I can assist you with?
+
+Customer: No, that's all for now, Agent 3. Thank you for your help and understanding. I really appreciate it.
+
+Agent 3: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or need any additional assistance, please don't hesitate to reach out to us. We're here to help you. Take care and have a great day!
+
+Customer: Thank you, Agent 3. You've been very helpful. Goodbye!
+
+Agent 3: Goodbye, Sarah. Take care! [/INST] Medical Records Requests </s>

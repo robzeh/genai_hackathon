@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Thompson. I've been feeling a bit under the weather lately, and I was hoping to get some medical advice or have my symptoms assessed.
+
+Agent 4: I'm sorry to hear that you're not feeling well, Sarah. I'll do my best to assist you. Can you please describe your symptoms to me?
+
+Customer: Sure. I've been experiencing a persistent headache for the past few days. It's not too severe, but it's definitely bothering me. I also have a sore throat and a mild cough. I haven't had any fever though.
+
+Agent 4: Thank you for sharing that information, Sarah. Based on your symptoms, it sounds like you might be dealing with a common cold or a mild respiratory infection. Have you taken any over-the-counter medication for your symptoms?
+
+Customer: No, I haven't taken anything yet. I wanted to get some advice before I decide on any medication.
+
+Agent 4: That's understandable. In this case, it's best to focus on managing your symptoms. I suggest getting plenty of rest, staying hydrated, and using saline nasal sprays for your sore throat. If your symptoms worsen or persist beyond a week, it would be advisable to consult a healthcare professional for further evaluation.
+
+Customer: Alright, I'll try those recommendations and see if they help. Is there anything else I should be aware of?
+
+Agent 4: Yes, it's important to practice good hygiene, such as washing your hands frequently and covering your mouth and nose when coughing or sneezing, to prevent the spread of any potential infection. Additionally, if you develop a high fever, severe headache, or difficulty breathing, it's crucial to seek immediate medical attention.
+
+Customer: Thank you for your advice, Agent 4. I appreciate your help.
+
+Agent 4: You're welcome, Sarah. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again for your time.
+
+Agent 4: It was my pleasure, Sarah. I hope you start feeling better soon. Take care and have a great day!
+
+Customer: Thank you, Agent 4. Goodbye!
+
+Agent 4: Goodbye, Sarah. [/INST] Medical Advice or Symptom Assessment </s>

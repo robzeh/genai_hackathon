@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, this is Agent 1 speaking. How can I assist you today?
+
+Customer: Hi, this is John Smith. I have some general inquiries about your hospital.
+
+Agent 1: Hello Mr. Smith, I'm here to help. What specific information are you looking for?
+
+Customer: Well, I wanted to know what medical services your hospital offers. Can you give me an overview?
+
+Agent 1: Absolutely. HealthHarbor is a comprehensive healthcare facility that provides a wide range of medical services. We offer primary care, emergency care, surgery, maternity services, pediatrics, cardiology, oncology, and much more.
+
+Customer: That sounds great. Can you tell me more about your primary care services?
+
+Agent 1: Of course. Our primary care department focuses on preventive care, health screenings, and treatment for common illnesses and chronic conditions. We have a team of experienced doctors and nurses who are dedicated to providing personalized care to our patients.
+
+Customer: That's good to know. What about emergency care? Is your hospital equipped to handle emergencies?
+
+Agent 1: Absolutely, Mr. Smith. Our emergency department is open 24/7 and is fully equipped to handle any medical emergency. We have highly trained doctors and nurses who are experienced in handling critical cases and providing immediate care.
+
+Customer: That's reassuring. I also wanted to inquire about your maternity services. What can expectant mothers expect at HealthHarbor?
+
+Agent 1: Our maternity services include prenatal care, delivery, and postnatal care. We have state-of-the-art labor and delivery suites, along with a team of skilled obstetricians, nurses, and midwives who ensure a safe and comfortable birthing experience for mothers and their babies.
+
+Customer: That's great to hear. I'm glad you offer such comprehensive services. Can you provide me with some information about your cardiology department?
+
+Agent 1: Certainly. Our cardiology department specializes in the diagnosis and treatment of heart-related conditions. We have advanced cardiac imaging technology, cardiac catheterization labs, and a team of experienced cardiologists who provide personalized care to our patients.
+
+Customer: That's impressive. One last question - do you offer any specialized services or treatments?
+
+Agent 1: Absolutely, Mr. Smith. In addition to the services I mentioned earlier, we also offer specialized treatments in areas such as neurology, orthopedics, gastroenterology, and urology. We have a team of highly skilled specialists who provide advanced care for specific medical conditions.
+
+Customer: That's great to know. I appreciate all the information you've provided, Agent 1. It's been very helpful.
+
+Agent 1: You're welcome, Mr. Smith. I'm glad I could assist you. If you have any other questions or need further information, feel free to ask.
+
+Customer: Thank you, Agent 1. I will definitely reach out if I have any more inquiries. Have a great day!
+
+Agent 1: You're welcome, Mr. Smith. Have a great day too! [/INST] General Inquiries </s>

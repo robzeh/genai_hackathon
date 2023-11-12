@@ -1,0 +1,55 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm feeling really worried and I have some general inquiries about your hospital.
+
+Agent 1: I'm sorry to hear that you're feeling worried. Don't worry, I'm here to help. What can I assist you with?
+
+Customer: Well, I'm considering getting some medical tests done, but I'm not sure if your hospital provides the services I need.
+
+Agent 1: We offer a wide range of medical services at HealthHarbor. Could you please let me know which specific tests you are looking for?
+
+Customer: I need to get an MRI scan and some blood work done. Can you confirm if these services are available at your hospital?
+
+Agent 1: Yes, we do provide both MRI scans and blood work at HealthHarbor. You can schedule an appointment for these tests by contacting our appointments department. They will assist you further in booking the tests at a convenient time for you.
+
+Customer: That's a relief to hear. How soon can I get an appointment for these tests?
+
+Agent 1: Our appointments department usually tries to accommodate patients as soon as possible. However, the availability may vary depending on the demand. I can connect you to our appointments department so that they can provide you with the earliest available dates. Would you like me to do that?
+
+Customer: Yes, please. I would appreciate that.
+
+Agent 1: Alright, please hold the line while I transfer your call to the appointments department.
+
+[Call is transferred]
+
+Appointments Department: Thank you for calling HealthHarbor appointments department. My name is Sarah, how can I assist you?
+
+Customer: Hi Sarah, I was just speaking with Agent 1 regarding scheduling an appointment for an MRI scan and blood work. Can you help me with that?
+
+Sarah: Of course, I can assist you with that. May I have your name and contact information, please?
+
+Customer: My name is John Smith, and my contact number is 555-1234.
+
+Sarah: Thank you, Mr. Smith. I will check our availability and find the earliest possible appointment for you. Can you please hold the line while I check?
+
+Customer: Sure, take your time.
+
+[Short hold]
+
+Sarah: Thank you for your patience, Mr. Smith. I have found an available slot for you next week on Monday at 10:00 AM. Would that work for you?
+
+Customer: Yes, that works for me. Please go ahead and schedule the appointment.
+
+Sarah: Great! I have successfully scheduled your appointment for an MRI scan and blood work on Monday, next week at 10:00 AM. You will receive a confirmation email with all the details shortly. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Sarah.
+
+Sarah: You're welcome, Mr. Smith. If you have any further questions or need any additional assistance, feel free to reach out to us. Take care!
+
+Customer: Thank you, goodbye.
+
+Sarah: Goodbye, Mr. Smith. Have a great day!
+
+[Call ends] [/INST] General Inquiries </s>

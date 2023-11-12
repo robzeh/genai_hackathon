@@ -1,0 +1,29 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Finally! I've been trying to get my medical records for weeks now, and I'm really angry at this point. I need them urgently for my new doctor.
+
+Agent 4: I apologize for the inconvenience, sir. I understand your frustration. We are here to help you. May I have your name and date of birth, please?
+
+Customer: My name is John Smith and my date of birth is January 15th, 1980.
+
+Agent 4: Thank you, Mr. Smith. Let me check our system for your medical records. Can you please provide me with the reason you need these records?
+
+Customer: I'm switching doctors and my new doctor requires all my previous medical records to properly continue my treatment.
+
+Agent 4: I see. That's an important request. I'm sorry for the delay you've experienced. It seems that we need to update our system to better serve our patients. I'll make sure to address this issue with our management. In the meantime, let me check the status of your records.
+
+Customer: Thank you. I hope you understand how frustrating this has been for me.
+
+Agent 4: I completely understand, Mr. Smith. Your satisfaction is important to us. It seems that your records are ready, but we need your consent to release them to your new doctor. Could you please provide us with the contact information for your new doctor?
+
+Customer: Sure, the name of my new doctor is Dr. Emily Johnson, and her clinic is located at 123 Main Street.
+
+Agent 4: Thank you for providing the information, Mr. Smith. I will now initiate the process of sending your medical records to Dr. Johnson's clinic. This should be completed within 48 hours. Is there anything else I can assist you with today?
+
+Customer: No, that will be all. I appreciate your help in resolving this matter. I hope I won't encounter such delays in the future.
+
+Agent 4: I completely understand your concern, Mr. Smith. We will take your feedback into consideration to improve our processes. Thank you for bringing this to our attention. If you have any further questions or need assistance in the future, please don't hesitate to contact us. Have a great day!
+
+Customer: Thank you. Goodbye. [/INST] Medical Records Requests </s>

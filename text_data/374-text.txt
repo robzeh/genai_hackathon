@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi Agent 4, I'm John Smith. I have some general inquiries about the services offered at HealthHarbor.
+
+Agent 4: Hello John, I'm here to help. What specific information are you looking for?
+
+Customer: Well, I wanted to know if HealthHarbor offers specialized treatments for chronic conditions like diabetes.
+
+Agent 4: Absolutely, John. HealthHarbor provides a wide range of medical services, including specialized treatments for chronic conditions. Our hospital has a dedicated diabetes care center with expert physicians and advanced treatment options.
+
+Customer: That's great to hear! Another question I had was regarding the availability of emergency services. Are there 24/7 emergency services at HealthHarbor?
+
+Agent 4: Yes, John. HealthHarbor has a fully functional emergency department that operates 24/7. We have a team of skilled doctors and nurses who are always ready to provide immediate care in case of emergencies.
+
+Customer: That's reassuring to know. I also wanted to inquire about the availability of pediatric care at HealthHarbor. Do you have a specialized department for children?
+
+Agent 4: Absolutely, John. HealthHarbor has a dedicated pediatric department, offering comprehensive healthcare services for children of all ages. Our team of pediatricians is experienced in providing specialized care for infants, children, and adolescents.
+
+Customer: That's great to hear. Another query I have is regarding insurance coverage. Does HealthHarbor accept all major insurance providers?
+
+Agent 4: HealthHarbor works with most major insurance providers, John. However, I would recommend contacting your insurance company directly to confirm coverage. They can provide accurate information regarding the specific plans and coverage at our hospital.
+
+Customer: Alright, I'll do that. Thank you for the suggestion. Lastly, I wanted to know if HealthHarbor offers any wellness programs or preventive care services.
+
+Agent 4: Yes, John. HealthHarbor believes in promoting overall wellness and preventive care. We have various wellness programs and services such as health screenings, vaccinations, nutrition counseling, and fitness programs aimed at improving and maintaining good health.
+
+Customer: That's fantastic! Thank you for answering all my inquiries, Agent 4. I appreciate your assistance.
+
+Agent 4: You're welcome, John. I'm glad I could help. If you have any more questions in the future or need any further assistance, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 4. You too. Goodbye!
+
+Agent 4: Goodbye, John. Take care! [/INST] General Inquiries </s>

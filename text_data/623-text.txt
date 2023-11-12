@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good afternoon, thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answers! I've been trying to get my lab and test results for days, and nobody seems to care!
+
+Agent 1: I apologize for the inconvenience and any frustration this may have caused you. I understand your concern, and I'm here to help. May I have your name, please?
+
+Customer: My name is Samantha Johnson.
+
+Agent 1: Thank you, Samantha. I'm sorry to hear about the delay in receiving your results. To better assist you, could you please provide me with your date of birth and the date you took the tests?
+
+Customer: My date of birth is May 10th, 1985, and I took the tests on July 15th, 2021.
+
+Agent 1: Thank you for providing that information, Samantha. Let me check the status of your lab and test results. Please bear with me for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 1: Samantha, I appreciate your patience. I have reviewed your file, and it appears that your results are available. However, due to a technical issue, they were not uploaded to our patient portal. I sincerely apologize for this oversight.
+
+Customer: Are you kidding me? I've been worried sick, and now you're telling me it was just a technical issue? This is unacceptable!
+
+Agent 1: I completely understand your frustration, Samantha, and I apologize for the anxiety this has caused you. Rest assured, I will personally ensure that you receive your results immediately. May I have your email address, please?
+
+Customer: It's sam.johnson@email.com.
+
+Agent 1: Thank you, Samantha. I will send your lab and test results directly to your email address. You should receive them within the next few minutes. Is there anything else I can assist you with?
+
+Customer: No, I just want to get my results and move on. This experience has been a nightmare.
+
+Agent 1: I apologize once again for the inconvenience, Samantha. I understand your frustration, and I assure you that we take this matter seriously. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor, and I hope you have a good day.
+
+Customer: Yeah, whatever. Goodbye.
+
+Agent 1: Goodbye, Samantha. Take care. [/INST] Lab and Test Results </s>

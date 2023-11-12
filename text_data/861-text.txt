@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold for ages. I need some information about your healthcare facility.
+
+Agent 1: I apologize for the wait and any inconvenience caused. I'm here to help you. What specific information are you looking for?
+
+Customer: Well, first of all, I want to know what medical services HealthHarbor offers.
+
+Agent 1: HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We have departments for cardiology, orthopedics, neurology, pediatrics, and many more. We also have specialized units for emergency care, surgery, and intensive care.
+
+Customer: Okay, but what about mental health services? Do you have psychiatrists or psychologists?
+
+Agent 1: Yes, we do have mental health services available at HealthHarbor. We have a team of psychiatrists and psychologists who specialize in various mental health conditions. They provide therapy, counseling, and medication management to patients in need.
+
+Customer: That's good to know. Now, what are the visiting hours for patients? Can I visit someone anytime?
+
+Agent 1: Visiting hours at HealthHarbor vary depending on the department and the patient's condition. Generally, visiting hours are from 10 am to 8 pm, but it's always best to check with the specific department or the patient's healthcare provider for any restrictions or changes.
+
+Customer: Alright, but what if I have an emergency outside of visiting hours? Is there someone available to help?
+
+Agent 1: Absolutely. HealthHarbor has a 24/7 emergency department that is always ready to assist patients in need of immediate medical attention. You can come in at any time, and our dedicated team of healthcare professionals will be there to provide the necessary care.
+
+Customer: That's a relief. Now, let's talk about insurance. Do you accept all insurance providers?
+
+Agent 1: HealthHarbor works with most major insurance providers, but it's always recommended to check with your insurance company to ensure that we are in-network. We also have financial counselors available who can help you understand your insurance coverage and assist with any billing or payment concerns.
+
+Customer: Alright, I'll keep that in mind. One last thing, how can I make an appointment with a specific doctor?
+
+Agent 1: To make an appointment with a specific doctor at HealthHarbor, you can call our appointment scheduling line. Our representatives will assist you in finding a convenient date and time for your appointment with the doctor of your choice. Alternatively, you can also visit our website and use our online appointment booking system.
+
+Customer: Okay, thank you for your help. I guess that's all the information I needed.
+
+Agent 1: You're welcome! I'm glad I could assist you. If you have any more questions in the future or need further assistance, don't hesitate to reach out to us again. Have a great day!
+
+Customer: Thanks, you too. Goodbye!
+
+Agent 1: Goodbye and take care! [/INST] Healthcare Facility Information </s>

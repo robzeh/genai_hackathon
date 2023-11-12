@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Sarah Johnson. I've been experiencing some unusual symptoms lately and I was hoping to get some medical advice or an assessment.
+
+Agent 3: Hello Sarah, I'm sorry to hear that you're not feeling well. I'll do my best to help you. Could you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent cough, occasional shortness of breath, and some chest discomfort. It's been going on for about a week now.
+
+Agent 3: I understand, Sarah. Those symptoms can be concerning. Have you taken your temperature recently? Any fever?
+
+Customer: Yes, I have been monitoring my temperature, but I haven't had a fever. It's been normal throughout.
+
+Agent 3: That's good to know. Based on your symptoms, it's possible that you may be experiencing respiratory issues. However, I'm not a doctor, and it's important to consult with a healthcare professional for a proper diagnosis. Have you considered scheduling an appointment with your primary care physician?
+
+Customer: Yes, I have an appointment scheduled for next week, but I wanted to get some initial advice or assessment to ease my concerns.
+
+Agent 3: I understand, Sarah. It's great that you already have an appointment scheduled. In the meantime, I can provide some general advice. It's important to rest, drink plenty of fluids, and avoid any triggers that worsen your symptoms. Are you experiencing any other symptoms besides the ones you mentioned?
+
+Customer: No, those are the main symptoms I've been experiencing lately.
+
+Agent 3: Alright, Sarah. It's good to hear that you don't have any additional symptoms. It's always best to consult with a healthcare professional for a thorough assessment. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3. I appreciate your time and advice.
+
+Agent 3: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or concerns, don't hesitate to reach out. I hope you feel better soon, and take care!
+
+Customer: Thank you, Agent 3. Have a great day! Goodbye.
+
+Agent 3: You too, Sarah. Goodbye and take care. [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Hi, I'm John Smith. I need to request my medical records. Can you help me with that?
+
+Agent 3: Of course, Mr. Smith. I'd be happy to assist you with your medical records request. Can you please provide me with your date of birth and the name of the primary healthcare provider you were seeing?
+
+Customer: My date of birth is March 12, 1980, and my primary healthcare provider is Dr. Emily Johnson.
+
+Agent 3: Thank you for providing that information, Mr. Smith. Let me pull up your records. Can you please verify your address for me?
+
+Customer: Sure, it's 123 Main Street, Anytown, USA.
+
+Agent 3: Thank you. I see that you have an active account with us. Before we proceed, I need to inform you that there may be a fee associated with obtaining your medical records. Would you like me to provide you with the details?
+
+Customer: Yes, please. I wasn't aware there might be a fee.
+
+Agent 3: The fee for medical records retrieval is $25 for the first 10 pages, and $0.50 per additional page. We will send you an invoice for the total amount once we have processed your request. Is that acceptable to you?
+
+Customer: Yes, that's fine. Please go ahead and proceed with my request.
+
+Agent 3: Great. I will now generate a request for your medical records from Dr. Emily Johnson's office. Please note that it may take up to 10 business days to process your request. Is there a specific reason you need your medical records?
+
+Customer: I'm switching healthcare providers, and my new doctor requires my complete medical history.
+
+Agent 3: I understand. We will do our best to expedite the process for you. Is there a preferred method for receiving your medical records? We can either mail them to your address or provide them electronically through a secure portal.
+
+Customer: I would prefer to receive them electronically, if possible.
+
+Agent 3: Noted, Mr. Smith. We will make sure to send your medical records through our secure portal. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thank you for your help.
+
+Agent 3: You're welcome, Mr. Smith. If you have any further questions or need any additional assistance, please don't hesitate to reach out. Have a great day!
+
+Customer: Thank you. Goodbye.
+
+Agent 3: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

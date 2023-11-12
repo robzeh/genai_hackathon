@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi Agent 2, my name is Sarah Thompson. I'm calling because I'm looking for some information about your healthcare facility, HealthHarbor.
+
+Agent 2: Hello Sarah, I'm glad you reached out to us. I'll be happy to help you with any information you need. What specific details are you looking for?
+
+Customer: Well, I recently moved to this area and I'm in need of a reliable healthcare facility. I would like to know what medical services HealthHarbor offers.
+
+Agent 2: Absolutely, Sarah. HealthHarbor is a full-service hospital that provides a wide range of medical services. We offer general medical care, emergency services, surgical procedures, maternity care, pediatrics, and specialized treatments in various fields such as cardiology, neurology, and orthopedics.
+
+Customer: That sounds great! How about the availability of doctors and specialists at HealthHarbor? Are they readily accessible?
+
+Agent 2: Yes, Sarah. We have a dedicated team of doctors and specialists who are available for both scheduled appointments and emergency situations. Our goal is to ensure that patients receive timely and quality care whenever they need it.
+
+Customer: That's reassuring to hear. I'm also interested in the facilities and amenities at HealthHarbor. Could you provide some information on that?
+
+Agent 2: Of course, Sarah. HealthHarbor is equipped with state-of-the-art facilities and modern amenities to enhance the comfort and well-being of our patients. We have private rooms, advanced diagnostic equipment, a pharmacy, cafeteria, and ample parking facilities for visitors.
+
+Customer: That's impressive. I'm glad to hear that HealthHarbor prioritizes patient comfort. Now, I have a question about insurance coverage. Does HealthHarbor accept all major insurance providers?
+
+Agent 2: Yes, Sarah. HealthHarbor works with a wide range of insurance providers. We accept most major insurance plans, but I would recommend checking with your specific insurance provider to ensure coverage.
+
+Customer: Alright, I'll make sure to do that. One final question, Agent 2. How can I make an appointment at HealthHarbor?
+
+Agent 2: Making an appointment is simple, Sarah. You can call our appointment line directly, and our friendly staff will assist you in scheduling a convenient time for your visit. Additionally, you can also schedule appointments through our online portal, which is accessible through our website.
+
+Customer: That's convenient. Thank you for providing all the information I needed, Agent 2. I appreciate your assistance.
+
+Agent 2: You're welcome, Sarah. I'm glad I could help. If you have any more questions or need further assistance in the future, feel free to give us a call. Have a great day!
+
+Customer: Thank you, Agent 2. You too. Goodbye!
+
+Agent 2: Goodbye, Sarah. Take care! [/INST] Healthcare Facility Information </s>

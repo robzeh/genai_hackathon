@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Samantha Johnson. I'm feeling really worried about my health and I was hoping you could help me with some general inquiries.
+
+Agent 3: Of course, Samantha. I understand your concern. We're here to help. What specific inquiries do you have?
+
+Customer: Well, I've been experiencing some chest pain lately, and it's been making me really anxious. I wanted to know if HealthHarbor has any cardiology specialists available?
+
+Agent 3: I'm sorry to hear that you're experiencing chest pain, Samantha. We do have cardiology specialists at HealthHarbor. They specialize in diagnosing and treating heart-related conditions. Would you like me to schedule an appointment for you?
+
+Customer: Yes, please. I would appreciate that. Can you also tell me if HealthHarbor accepts my insurance? I have Blue Cross Blue Shield.
+
+Agent 3: Absolutely, Samantha. HealthHarbor accepts most major insurance plans, including Blue Cross Blue Shield. We can verify your coverage and provide you with more information during the appointment scheduling process.
+
+Customer: That's a relief. Thank you for clarifying that. I also wanted to know if HealthHarbor offers any telemedicine services. With the ongoing pandemic, I'm trying to avoid visiting hospitals unless absolutely necessary.
+
+Agent 3: I completely understand, Samantha. HealthHarbor does offer telemedicine services. This allows you to have virtual appointments with our doctors from the convenience of your home. Would you like me to schedule a telemedicine appointment for you?
+
+Customer: Yes, that would be great. Thank you for accommodating my preferences. I also have some concerns about my mental health. Does HealthHarbor have any psychiatrists or psychologists on staff?
+
+Agent 3: Absolutely, Samantha. HealthHarbor has a team of psychiatrists and psychologists who specialize in mental health. They can help you with any concerns you may have. I can schedule an appointment for you with one of our mental health professionals as well.
+
+Customer: That would be wonderful. I feel relieved knowing that HealthHarbor can address both my physical and mental health concerns. Thank you for your assistance, Agent 3.
+
+Agent 3: You're welcome, Samantha. It's our pleasure to help you. Is there anything else you would like to inquire about or any other questions I can assist you with?
+
+Customer: No, that covers all my concerns for now. Thank you for your time and patience, Agent 3.
+
+Agent 3: You're very welcome, Samantha. I'm glad I could assist you. If you have any further questions or need any more help, don't hesitate to reach out to us again. Take care, and I hope you feel better soon.
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Samantha. Have a great day. [/INST] General Inquiries </s>

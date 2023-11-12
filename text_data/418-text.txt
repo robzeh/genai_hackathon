@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I have a few general inquiries about the services offered at HealthHarbor.
+
+Agent 4: Hello, Emily. I'm here to help. What specific information are you looking for?
+
+Customer: I was wondering if HealthHarbor provides specialized care for chronic illnesses like diabetes?
+
+Agent 4: Yes, Emily. HealthHarbor offers specialized care for various chronic illnesses, including diabetes. We have a dedicated team of doctors and nurses who are experienced in managing such conditions.
+
+Customer: That's great to hear. Can you tell me more about the diabetes management program at HealthHarbor?
+
+Agent 4: Certainly, Emily. Our diabetes management program focuses on providing comprehensive care to individuals with diabetes. We offer regular check-ups, personalized treatment plans, dietary guidance, and ongoing support to help patients manage their condition effectively.
+
+Customer: That sounds really helpful. Are there any additional costs associated with the program?
+
+Agent 4: Our diabetes management program is covered by most insurance plans, Emily. However, I would recommend reaching out to your insurance provider to confirm the coverage details. They can provide you with more specific information regarding any potential out-of-pocket expenses.
+
+Customer: Okay, I'll make sure to check with my insurance provider. Moving on, does HealthHarbor have a 24/7 emergency department?
+
+Agent 4: Yes, Emily. HealthHarbor has a fully-equipped emergency department that operates 24 hours a day, 7 days a week. Our team of skilled doctors and nurses are always ready to provide immediate medical attention in case of emergencies.
+
+Customer: That's reassuring to know. One last question, do you offer any preventive healthcare services?
+
+Agent 4: Absolutely, Emily. HealthHarbor places a strong emphasis on preventive healthcare. We offer various screenings, vaccinations, and wellness programs to help individuals maintain optimal health and prevent potential illnesses.
+
+Customer: That's impressive. Thank you for answering all my questions, Agent 4. You've been very helpful.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. If you have any more questions in the future, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 4. You too. Goodbye!
+
+Agent 4: Goodbye, Emily. Take care! [/INST] General Inquiries </s>

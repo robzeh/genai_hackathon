@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold forever. I need some medical advice, and I need it now!
+
+Agent 2: I apologize for the wait, sir. I understand you're feeling frustrated. Rest assured, I'm here to help you. What seems to be the problem?
+
+Customer: I've been experiencing severe abdominal pain for the past couple of days. It's unbearable!
+
+Agent 2: I'm sorry to hear that you're in pain. Can you please tell me more about the symptoms you're experiencing?
+
+Customer: It feels like a constant stabbing pain in my lower abdomen. I also have nausea and vomiting. I'm really worried that something serious is going on.
+
+Agent 2: I understand your concerns, sir. It's important for me to let you know that I'm not a doctor, but I can certainly help assess your symptoms. Have you experienced any recent trauma or injury to your abdomen?
+
+Customer: No, I haven't had any injuries. The pain just started out of nowhere.
+
+Agent 2: Alright, thank you for clarifying. It's possible that your symptoms could be related to a number of different conditions. However, given the severity of your pain, I strongly recommend seeking immediate medical attention. It's important to have a healthcare professional evaluate your condition in person.
+
+Customer: But I don't have time to go to the hospital! Is there anything I can do at home to relieve the pain?
+
+Agent 2: I understand your urgency, sir, but abdominal pain can sometimes be a sign of a serious underlying condition. It's crucial to have a medical professional assess your situation. However, in the meantime, you can try applying a heating pad to your abdomen or taking over-the-counter pain medication as directed. These measures might provide temporary relief.
+
+Customer: Alright, I'll try that. But what if it doesn't go away?
+
+Agent 2: If your symptoms persist or worsen, it's crucial to seek immediate medical attention. You can also keep a log of your symptoms, including the intensity and frequency, to provide more accurate information to your healthcare provider.
+
+Customer: Fine, I'll go to the hospital. But I'm not happy about it!
+
+Agent 2: I understand that you're frustrated, sir, but your health and well-being are our top priority. It's essential to have a professional evaluate your condition thoroughly. Is there anything else I can assist you with?
+
+Customer: No, that's all. I guess I'll go to the hospital now. Thanks for your help, even though I'm not happy about it.
+
+Agent 2: You're welcome, sir. I apologize for any inconvenience caused. I hope you'll feel better soon, and please take care of yourself. If you have any further questions or concerns, don't hesitate to reach out to us again. Have a great day!
+
+Customer: Yeah, whatever. Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is John Smith and I have a few general inquiries about HealthHarbor.
+
+Agent 4: Of course, John. I'm here to help. What can I assist you with?
+
+Customer: Well, I wanted to know what kind of medical services does HealthHarbor offer?
+
+Agent 4: HealthHarbor provides a wide range of medical services. We have departments for cardiology, orthopedics, neurology, gastroenterology, and many more. We offer diagnostic tests, surgeries, and specialized treatments for various conditions.
+
+Customer: That sounds comprehensive. How can I book an appointment at HealthHarbor?
+
+Agent 4: You can book an appointment by calling our appointment hotline or by visiting our website. Our friendly staff will assist you in finding a suitable time slot with the doctor of your choice.
+
+Customer: Great. Do you accept insurance?
+
+Agent 4: Yes, HealthHarbor accepts most major insurance plans. However, it's always best to check with your insurance provider to ensure coverage. We also offer self-pay options for those without insurance.
+
+Customer: That's good to know. What are the visiting hours at HealthHarbor?
+
+Agent 4: Our visiting hours are from 9 am to 8 pm, Monday to Friday, and from 10 am to 6 pm on weekends. We understand that emergencies can happen outside these hours, so our emergency department operates 24/7.
+
+Customer: That's convenient. Can I request my medical records from HealthHarbor?
+
+Agent 4: Absolutely, John. You have the right to access your medical records. You can request them by filling out a form at our medical records department, and they will provide you with a copy within a reasonable timeframe.
+
+Customer: Thank you for the information. How can I reach out to HealthHarbor with any further questions or concerns?
+
+Agent 4: You can always reach us by calling our main helpline or by sending an email to our customer support team. We strive to provide prompt assistance and address any concerns you may have.
+
+Customer: I appreciate your help, Agent 4. You've been very informative.
+
+Agent 4: You're welcome, John. It was my pleasure to assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again.
+
+Agent 4: You're welcome, John. Have a great day and take care!
+
+Customer: You too. Goodbye!
+
+Agent 4: Goodbye! [/INST] General Inquiries </s>

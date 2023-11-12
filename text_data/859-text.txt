@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I have a few general inquiries about your hospital.
+
+Agent 3: Hello, Emily. I'm here to help. What specific information are you looking for?
+
+Customer: Well, first of all, I would like to know the range of medical services your hospital provides.
+
+Agent 3: HealthHarbor is a full-service hospital that offers a wide range of medical services. We provide emergency care, surgery, maternity care, pediatrics, radiology, laboratory services, and much more. Is there anything specific you would like to know about?
+
+Customer: That's good to know. I'm also curious about the specialties your hospital has.
+
+Agent 3: We have a team of highly skilled specialists in various fields, including cardiology, neurology, orthopedics, gastroenterology, and oncology, just to name a few. Our specialists are dedicated to providing the highest level of care to our patients.
+
+Customer: That's impressive. Now, I would like to know if HealthHarbor accepts my insurance. I have coverage with BlueCross.
+
+Agent 3: We work with a wide range of insurance providers, including BlueCross. To confirm if your specific plan is accepted, I would need some more details. Could you please provide me with your insurance policy number?
+
+Customer: Sure, let me grab my insurance card. It's 123456789.
+
+Agent 3: Thank you, Emily. Let me check that for you. [Pause] Yes, I can confirm that HealthHarbor accepts your BlueCross insurance. You should be covered for any medical services you might need.
+
+Customer: That's great to hear. I appreciate you checking that for me. Now, I have one more question. Does HealthHarbor have any additional programs or services for patients?
+
+Agent 3: Absolutely, Emily. We offer a variety of additional programs and services to enhance the patient experience. These include support groups, rehabilitation services, wellness programs, and patient education classes. We strive to provide comprehensive care to our patients beyond their medical needs.
+
+Customer: That's wonderful. I'm really impressed with all the services HealthHarbor provides. Thank you for answering all my questions, Agent 3.
+
+Agent 3: You're welcome, Emily. It was my pleasure assisting you today. If you have any more inquiries in the future or if there's anything else I can help you with, please don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 3. You've been very helpful. Have a great day too! Goodbye.
+
+Agent 3: Goodbye, Emily. Take care! [/INST] General Inquiries </s>

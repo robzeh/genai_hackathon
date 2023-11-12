@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Emily Johnson. I have some general inquiries about your hospital.
+
+Agent 1: Hello, Emily. I'm here to help. What would you like to know?
+
+Customer: I wanted to inquire about the medical services offered at HealthHarbor. Can you provide me with some information?
+
+Agent 1: Absolutely, Emily. HealthHarbor is a full-service hospital that offers a wide range of medical services. We have departments for cardiology, oncology, neurology, orthopedics, and much more. Our goal is to provide comprehensive care to patients in need.
+
+Customer: That sounds impressive. Are there any specialized treatments or procedures your hospital is known for?
+
+Agent 1: Yes, Emily. HealthHarbor is known for its expertise in minimally invasive surgeries, such as laparoscopic procedures and robotic surgeries. We also have advanced diagnostic imaging services, including MRI, CT scans, and ultrasound.
+
+Customer: That's great to know. How about emergency services? Is HealthHarbor equipped to handle critical situations?
+
+Agent 1: Absolutely, Emily. HealthHarbor has a fully-equipped emergency department that operates 24/7. Our team of highly skilled doctors and nurses are trained to handle all types of emergencies, ensuring that patients receive timely and efficient care.
+
+Customer: That's reassuring. I also wanted to inquire about the availability of specialists at HealthHarbor. Are there specific days or hours when they are available?
+
+Agent 1: Our specialists have varying schedules, Emily. Some may have specific days or hours dedicated to their specialties, while others are available on a daily basis. It's best to schedule an appointment with the specialist of your choice, and our team will provide you with the available time slots.
+
+Customer: Alright, I'll keep that in mind. I have one more question regarding insurance coverage. Does HealthHarbor accept all major insurance plans?
+
+Agent 1: HealthHarbor works with a wide range of insurance providers, Emily. However, it's always best to check with your insurance company to confirm coverage. Our billing department can also assist you in verifying your insurance coverage and any out-of-pocket expenses.
+
+Customer: That's helpful. Thank you for the information. Is there anything else I should know about HealthHarbor?
+
+Agent 1: HealthHarbor is committed to providing high-quality healthcare services to our patients, Emily. We have a patient-centered approach and strive to deliver compassionate care in a comfortable and supportive environment. If you have any further questions or need assistance in the future, please don't hesitate to reach out.
+
+Customer: Thank you, Agent 1. I appreciate your help and the information provided. I feel much more informed now.
+
+Agent 1: You're welcome, Emily. I'm glad I could assist you. If you have any more questions or concerns, feel free to contact us anytime. Have a great day!
+
+Customer: Thank you. You too. Goodbye!
+
+Agent 1: Goodbye, Emily. Take care! [/INST] General Inquiries </s>

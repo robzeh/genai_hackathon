@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer (scared): Hi, my name is Emily Johnson. I've been feeling really sick lately, and I'm not sure what's wrong. I'm really scared and don't know what to do.
+
+Agent 2: I understand how you feel, Emily. Let's see how I can help you. Can you please tell me what symptoms you're experiencing?
+
+Customer: I've been having a persistent headache, fever, and body aches for the past few days. I also feel extremely tired and have been coughing a lot. I'm worried it might be something serious.
+
+Agent 2: I'm not a doctor, but I can certainly help guide you. It's important to remember that I can't diagnose you over the phone, but I can provide some general advice. Have you traveled recently or come into contact with anyone who was sick?
+
+Customer: No, I haven't traveled recently, but I did attend a family gathering last week where a few people were coughing. I'm not sure if that's related though.
+
+Agent 2: It's possible that you may have been exposed to a respiratory virus. Given your symptoms, it would be best to consult a healthcare professional for a proper evaluation. They can determine the cause of your symptoms and provide appropriate treatment. I can help you find the nearest healthcare facility if you'd like.
+
+Customer: That would be helpful, thank you. I'm just really scared that it might be something serious like COVID-19.
+
+Agent 2: I understand your concern, Emily. It's important not to panic, but it's also crucial to take your health seriously. COVID-19 symptoms can be similar to other respiratory illnesses, so it's essential to get evaluated. Let me find the closest healthcare facility for you.
+
+Customer: Thank you so much. I really appreciate your help.
+
+Agent 2: Of course, Emily. I'm here to assist you. I found a nearby hospital called HealthCare Haven. It's located at 123 Main Street. They have a dedicated COVID-19 testing center where you can get evaluated.
+
+Customer: That's great. Can you provide me with their contact number?
+
+Agent 2: Absolutely. Their contact number is 555-1234. I recommend calling them before visiting to ensure they can accommodate you and provide any specific instructions.
+
+Customer: Thank you, Agent 2. I'll give them a call right away.
+
+Agent 2: You're welcome, Emily. I hope you feel better soon. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help and guidance.
+
+Agent 2: It was my pleasure assisting you, Emily. Don't hesitate to call us back if you have any further questions or concerns. Take care and stay safe!
+
+Customer: Thank you, Agent 2. Goodbye.
+
+Agent 2: Goodbye, Emily. Take care. [/INST] Medical Advice or Symptom Assessment </s>

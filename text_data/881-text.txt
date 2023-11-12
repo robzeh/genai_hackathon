@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I've been experiencing some unusual symptoms lately and I was hoping to get some medical advice or maybe an assessment.
+
+Agent 4: Of course, Emily. I'm here to help. Can you please describe the symptoms you've been experiencing?
+
+Customer: Well, for the past week, I've been having a persistent headache, along with occasional dizziness and fatigue. I also noticed that my vision has been slightly blurry at times.
+
+Agent 4: I understand your concern, Emily. Have you experienced these symptoms before, or is this something new?
+
+Customer: This is quite new to me. I rarely get headaches, and the dizziness and fatigue are definitely unusual. I'm not sure what could be causing it.
+
+Agent 4: I'm not a doctor, but based on your symptoms, it might be a good idea to consult with a healthcare professional. They can perform a thorough evaluation to determine the cause of your symptoms. Would you like me to help you find a healthcare provider near you?
+
+Customer: Yes, that would be great. I'm located in the downtown area. Can you recommend any specific clinics or doctors?
+
+Agent 4: Certainly, Emily. We have several reputable clinics in the downtown area. One option is City Medical Center, located on Main Street. They have a team of experienced doctors who can provide medical advice and assessments. Another option is Downtown Health Clinic on Elm Street, which specializes in various healthcare services. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. I'll take the contact information for both clinics. It would be good to have options.
+
+Agent 4: Absolutely. For City Medical Center, their phone number is (555) 123-4567. As for Downtown Health Clinic, you can reach them at (555) 987-6543. Is there anything else I can assist you with, Emily?
+
+Customer: No, that's all for now. Thank you for your help, Agent 4. I'll reach out to these clinics and schedule an appointment.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. If you have any more questions or need further assistance, don't hesitate to call us back. Take care and I hope you feel better soon.
+
+Customer: Thank you, Agent 4. Have a great day!
+
+Agent 4: You too, Emily. Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

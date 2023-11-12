@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Mark Johnson. I recently had some lab tests done at your hospital, and I was wondering if the results are ready.
+
+Agent 1: Hello, Mr. Johnson. I'd be happy to help you with that. Can you please provide me with your date of birth and the date you had the tests done?
+
+Customer: Sure. My date of birth is January 15, 1980, and I had the tests done on October 5, 2022.
+
+Agent 1: Thank you for that information, Mr. Johnson. Let me check our system for your lab results. Please bear with me for a moment.
+
+(Customer waits for a few moments)
+
+Agent 1: I apologize for the wait, Mr. Johnson. It seems that your lab results are not yet available in our system. Sometimes, it can take a few days for the results to be processed and uploaded. Is there any specific test you are concerned about?
+
+Customer: Well, I had a comprehensive blood test and a urine analysis done. My doctor mentioned that they were important to monitor my overall health, so I was eager to see the results.
+
+Agent 1: I understand your concern, Mr. Johnson. It's crucial to have this information for your well-being. Since the results are not available yet, I can escalate this issue to our lab department. They will investigate the delay and ensure your results are processed as soon as possible. May I have your contact information so that they can reach out to you?
+
+Customer: Yes, of course. My phone number is 555-1234, and my email address is mark.johnson@email.com.
+
+Agent 1: Thank you for providing your contact details, Mr. Johnson. I will pass them along to our lab department. They will prioritize your case and reach out to you with an update as soon as they have any information. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I appreciate your help, Agent 1. I hope to receive the results soon.
+
+Agent 1: You're welcome, Mr. Johnson. I understand how important this is to you, and I assure you that our lab department will work diligently to resolve this matter. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor, and I wish you a speedy resolution to this issue.
+
+Customer: Thank you, Agent 1. Have a great day.
+
+Agent 1: You too, Mr. Johnson. Take care. Goodbye. [/INST] Lab and Test Results </s>

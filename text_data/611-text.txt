@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I'm feeling a bit worried about my recent health issues and I was hoping you could help me with some general inquiries.
+
+Agent 3: Of course, Emily. I'm here to help. Can you please tell me a bit more about your health concerns?
+
+Customer: Well, I've been experiencing some persistent headaches and fatigue lately. I'm not sure if it's something serious or just stress-related.
+
+Agent 3: I understand how concerning that can be, Emily. Have you consulted with a healthcare professional about these symptoms?
+
+Customer: No, not yet. I thought I'd start by reaching out to you guys for some general information before making an appointment.
+
+Agent 3: I appreciate your proactive approach, Emily. While I cannot provide a diagnosis, I can certainly give you some general information. Persistent headaches and fatigue can be caused by various factors, including stress, lack of sleep, or even certain medical conditions. It would be best to consult with a healthcare professional for a thorough evaluation.
+
+Customer: I see. Is there a specific department at HealthHarbor that I should contact for these symptoms?
+
+Agent 3: Absolutely, Emily. Our hospital offers a wide range of medical services. For your symptoms, I would recommend reaching out to our neurology department. They specialize in diagnosing and treating conditions related to the nervous system, which includes headaches. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. That would be helpful.
+
+Agent 3: Sure, Emily. The neurology department at HealthHarbor can be reached at (555) 123-4567. They will be able to schedule an appointment for you and provide further guidance. Is there anything else I can assist you with?
+
+Customer: Actually, yes. I was wondering if HealthHarbor offers any wellness programs or support groups for stress management?
+
+Agent 3: Absolutely, Emily. We prioritize holistic care at HealthHarbor and offer various wellness programs and support groups. Our behavioral health department specializes in mental health and stress management. They can provide you with the necessary resources and support. Would you like their contact information as well?
+
+Customer: Yes, please. That would be great.
+
+Agent 3: Sure, Emily. The behavioral health department can be reached at (555) 987-6543. They will be more than happy to assist you with stress management programs and support groups. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you so much for your assistance, Agent 3. I really appreciate it.
+
+Agent 3: You're very welcome, Emily. I'm glad I could help. Remember, it's always important to prioritize your health and seek professional advice. If you have any more questions in the future, don't hesitate to reach out to us. Take care!
+
+Customer: Thank you, Agent 3. Have a great day!
+
+Agent 3: You too, Emily. Goodbye! [/INST] General Inquiries </s>

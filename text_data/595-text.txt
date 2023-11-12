@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Alice Johnson. I recently had some lab tests done at your hospital, and I was wondering if the results are ready.
+
+Agent 4: Hello, Ms. Johnson. I'll be happy to assist you with that. May I have your date of birth and the name of the doctor who ordered the tests?
+
+Customer: Sure, my date of birth is June 15, 1985, and my doctor's name is Dr. Smith.
+
+Agent 4: Thank you, Ms. Johnson. Let me check the system for your lab results. Please bear with me for a moment.
+
+[Pause]
+
+Agent 4: I apologize for the wait, Ms. Johnson. It seems that your lab results are not yet available in our system. It typically takes a few days for the results to be processed. I can check if there's any additional information or provide an estimated time for when the results will be ready. Which would you prefer?
+
+Customer: I'm a bit concerned as it has been over a week since I had the tests done. Could you please check if there's any update or if the results are delayed?
+
+Agent 4: Of course, Ms. Johnson. I understand your concern. Let me check with the lab department for any updates on your results. Please stay on the line.
+
+[Pause]
+
+Agent 4: Thank you for your patience, Ms. Johnson. I have just spoken with the lab department, and they informed me that there was a delay in processing your results due to high volume. They assured me that your results will be ready within the next two days. I apologize for any inconvenience caused.
+
+Customer: Thank you for checking, Agent 4. I appreciate the update. I'm relieved to know that it's just a delay and not any issue with my results. I'll wait for the results as you mentioned.
+
+Agent 4: You're welcome, Ms. Johnson. I completely understand your concern, and I'm glad I could provide you with some reassurance. Is there anything else I can assist you with today?
+
+Customer: No, that was all. Thank you for your help, Agent 4.
+
+Agent 4: It was my pleasure assisting you, Ms. Johnson. If you have any further questions or need any assistance in the future, please don't hesitate to reach out. Have a great day!
+
+Customer: You too. Goodbye!
+
+Agent 4: Goodbye, Ms. Johnson. Take care! [/INST] Lab and Test Results </s>

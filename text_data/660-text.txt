@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answers! I've been trying to get my lab and test results for weeks now, and no one seems to be able to help me. This is ridiculous!
+
+Agent 1: I apologize for the inconvenience, ma'am. I understand your frustration. Can you please provide me with your name and date of birth so I can access your records?
+
+Customer: My name is Sarah Johnson, and my date of birth is January 15th, 1985.
+
+Agent 1: Thank you, Sarah. Let me check your records. I see here that your lab and test results were received last week. I apologize for the delay in notifying you. 
+
+Customer: Well, it's about time! What do the results say? Are they normal?
+
+Agent 1: I'm sorry, but as a call center agent, I don't have direct access to the specific details of your lab results. However, I can connect you with the appropriate department who can provide you with the information you need. Would that be acceptable?
+
+Customer: Fine, just transfer me already!
+
+Agent 1: I understand your frustration, Sarah. Please hold for a moment while I connect you with the lab department.
+
+[Agent 1 transfers the call to the lab department]
+
+Lab Department Agent: Thank you for calling HealthHarbor's lab department. My name is Lisa. How can I assist you today, Sarah?
+
+Customer: Finally, someone who can help me! I've been waiting for my lab results, and nobody seems to know anything about them.
+
+Lab Department Agent: I apologize for the inconvenience, Sarah. Let me look up your records. Can you please confirm your date of birth for verification?
+
+Customer: January 15th, 1985.
+
+Lab Department Agent: Thank you, Sarah. I see here that your lab results were received last week. Let me go through them and provide you with the information.
+
+Customer: Please, just tell me if everything is okay.
+
+Lab Department Agent: I understand your concern, Sarah. After reviewing your results, I can confirm that everything appears to be within normal range. However, I would recommend discussing the results in detail with your primary care physician to ensure a thorough understanding.
+
+Customer: Thank you for finally giving me the information I needed. I appreciate it.
+
+Lab Department Agent: You're welcome, Sarah. I apologize again for any inconvenience caused. Is there anything else I can assist you with?
+
+Customer: No, that's all. I just needed to know the results. Thank you for your help.
+
+Lab Department Agent: You're welcome, Sarah. If you have any further questions or concerns, feel free to reach out to us. Have a great day!
+
+Customer: You too. Goodbye.
+
+Lab Department Agent: Goodbye, Sarah. Take care. [/INST] Lab and Test Results </s>

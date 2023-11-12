@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I have been experiencing some discomfort lately and I'm not sure if I should be concerned.
+
+Agent 4: Hi Emily, it's nice to meet you. I'm here to help. Can you please explain the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past few days, and I've also noticed some dizziness and occasional nausea.
+
+Agent 4: I'm sorry to hear that, Emily. Headaches can be quite bothersome. Have you experienced any other symptoms along with these?
+
+Customer: No, not really. Just the headache, dizziness, and nausea. I haven't had any fever or other noticeable symptoms.
+
+Agent 4: Alright, thank you for clarifying. Based on your symptoms, it's possible that you may be experiencing a migraine. However, I'm not a doctor, and it's important to consult with a healthcare professional for a proper diagnosis. Have you considered scheduling an appointment with your primary care physician?
+
+Customer: I haven't made an appointment yet. I wanted to get some advice before deciding if it's necessary.
+
+Agent 4: I understand. It's always a good idea to seek medical advice when experiencing persistent symptoms. Headaches can have various causes, such as tension, dehydration, or even underlying medical conditions. It would be best to consult with a healthcare professional who can evaluate your symptoms in detail.
+
+Customer: That makes sense. I'll go ahead and schedule an appointment with my doctor to get a proper evaluation. Thank you for your help, Agent 4.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that was all. Thank you again for your guidance.
+
+Agent 4: It was my pleasure, Emily. If you have any more questions or concerns in the future, don't hesitate to reach out. Take care and have a great day!
+
+Customer: Thank you, Agent 4. You too. Goodbye.
+
+Agent 4: Goodbye, Emily. [/INST] Medical Advice or Symptom Assessment </s>

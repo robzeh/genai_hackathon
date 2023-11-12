@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi Agent 2, my name is Sarah Johnson. I've been feeling a bit under the weather lately and thought I should seek some medical advice.
+
+Agent: I'm sorry to hear that, Sarah. Can you please tell me a little more about your symptoms? 
+
+Customer: Sure. I've been experiencing a persistent headache for the past few days, along with a stuffy nose and a mild cough. I also feel a bit tired and achy.
+
+Agent: I understand. Have you taken any medication for your symptoms?
+
+Customer: Yes, I've been taking over-the-counter pain relievers for my headache, but it only provides temporary relief.
+
+Agent: Okay, Sarah. Based on your symptoms, it seems like you might be dealing with a common cold or a sinus infection. However, I am not a doctor. It would be best for you to visit a healthcare professional for a proper diagnosis. They can provide you with the appropriate treatment.
+
+Customer: I see. I was hoping to avoid going to the doctor's office if possible. Is there anything else I can do to alleviate my symptoms?
+
+Agent: Of course, Sarah. While I can't provide a diagnosis, I can suggest some home remedies that might help. You can try drinking plenty of fluids to stay hydrated and get plenty of rest. A warm compress or steam inhalation may also help relieve congestion. Over-the-counter saline nasal sprays might provide some relief for your stuffy nose. However, it's important to keep in mind that these remedies may only provide temporary relief and visiting a healthcare professional is still recommended.
+
+Customer: Thank you for the suggestions, Agent 2. I will definitely try those home remedies. If my symptoms worsen or persist, I will make sure to seek medical attention.
+
+Agent: That sounds like a good plan, Sarah. It's always better to be safe when it comes to your health. Is there anything else I can assist you with today?
+
+Customer: No, thank you. You've been very helpful, Agent 2. I appreciate your time and advice.
+
+Agent: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or concerns, don't hesitate to give us a call. Take care and I hope you feel better soon!
+
+Customer: Thank you, Agent 2. I will. Goodbye!
+
+Agent: Goodbye, Sarah. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. I'm calling because I've been experiencing some concerning symptoms lately and I was hoping to get some medical advice or have my symptoms assessed.
+
+Agent 2: I'm sorry to hear that you're not feeling well. I'll do my best to help you out. Can you please tell me your name?
+
+Customer: Sure, my name is Emily Johnson.
+
+Agent 2: Thank you, Emily. May I have your date of birth, please?
+
+Customer: Yes, it's February 15th, 1985.
+
+Agent 2: Great, thank you for providing that information. Now, could you please describe the symptoms that you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past week, along with occasional dizziness and fatigue. I also noticed that my vision has been blurry at times.
+
+Agent 2: I understand how concerning those symptoms can be. Have you experienced any other symptoms such as nausea, vomiting, or fever?
+
+Customer: No, I haven't had any of those symptoms, just the ones I mentioned earlier.
+
+Agent 2: Okay, thank you for clarifying. Based on the symptoms you've described, I would recommend seeking medical attention from a healthcare professional. Headaches, dizziness, fatigue, and blurry vision can have various causes, and it's important to have a proper evaluation.
+
+Customer: Alright, I appreciate your advice. I was just hoping to get an idea of what might be going on before making an appointment.
+
+Agent 2: I completely understand. However, it's always best to consult with a medical professional who can assess your symptoms in person and provide an accurate diagnosis. They may also want to run some tests to rule out any underlying conditions.
+
+Customer: You're right. I guess I was just hoping for a quick answer. I'll make an appointment with my doctor as soon as possible.
+
+Agent 2: That's a wise decision, Emily. It's better to be safe and get the proper medical attention. Is there anything else I can assist you with today?
+
+Customer: No, that was all. Thank you for your help, Agent 2.
+
+Agent 2: You're welcome, Emily. I'm glad I could assist you. If you have any further questions or concerns, please don't hesitate to give us a call. Take care and I hope you feel better soon!
+
+Customer: Thank you, Agent 2. Goodbye.
+
+Agent 2: Goodbye, Emily. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

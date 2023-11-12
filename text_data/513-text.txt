@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm really worried about some symptoms I've been experiencing lately. I was hoping you could help me out.
+
+Agent 3: Of course, I'm here to help. Can you please start by telling me your name?
+
+Customer: My name is Sarah Thompson.
+
+Agent 3: Thank you, Sarah. Now, can you please describe the symptoms you've been experiencing?
+
+Customer: Well, I've been having persistent headaches and dizziness for the past week. It's starting to affect my daily routine, and I'm getting really concerned.
+
+Agent 3: I understand how concerning that can be, Sarah. Have you noticed any other symptoms accompanying the headaches and dizziness?
+
+Customer: Yes, I've also been feeling fatigued and have had trouble concentrating. Sometimes, I even feel nauseous.
+
+Agent 3: I'm not a doctor, but based on your symptoms, it would be best to consult with a medical professional. However, I can offer some general advice. Have you been getting enough rest and sleep lately?
+
+Customer: I've been trying, but even when I sleep well, the headaches and dizziness persist.
+
+Agent 3: I see. It's good that you've been prioritizing rest. Are you staying hydrated and maintaining a balanced diet?
+
+Customer: Yes, I've been drinking plenty of water and eating healthy meals.
+
+Agent 3: That's great to hear. Sometimes, certain triggers like stress or lack of sleep can contribute to headaches and dizziness. Have you been under any significant stress lately?
+
+Customer: Honestly, I have been dealing with some work-related stress, but I'm not sure if that's the main cause of my symptoms.
+
+Agent 3: Stress can certainly have an impact on our overall well-being. However, since you've been experiencing these symptoms for a week now, it's crucial to consult with a healthcare professional. They will be able to assess your situation more accurately and provide appropriate medical advice.
+
+Customer: You're right, Agent 3. I'll make an appointment with my doctor as soon as possible. I just needed some reassurance before taking that step.
+
+Agent 3: I completely understand, Sarah. It's always better to be safe and seek professional medical advice. Is there anything else I can assist you with?
+
+Customer: No, that's all I needed. Thank you for your help and understanding, Agent 3.
+
+Agent 3: You're welcome, Sarah. I'm glad I could assist you. If you have any more questions or concerns in the future, don't hesitate to reach out. Take care and I hope you feel better soon!
+
+Customer: Thank you, Agent 3. I appreciate your assistance. Goodbye.
+
+Agent 3: Goodbye, Sarah. Take care. [/INST] Medical Advice or Symptom Assessment </s>

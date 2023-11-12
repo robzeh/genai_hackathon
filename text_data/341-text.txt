@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Finally! I've been on hold for ages! I need some medical advice right away!
+
+Agent 3: I apologize for the wait, sir. I understand you're in a hurry. I'll do my best to help you. May I have your name, please?
+
+Customer: It's John Smith.
+
+Agent 3: Thank you, Mr. Smith. How can I assist you today?
+
+Customer: I've been experiencing severe chest pain for the past hour, and I'm really worried. I need to know if it's something serious.
+
+Agent 3: I'm sorry to hear that, Mr. Smith. Chest pain can be a serious symptom, and it's important to address it promptly. Have you called emergency services or visited the nearest hospital?
+
+Customer: No, I wanted to get some advice before rushing anywhere. Can you tell me what could be causing this pain?
+
+Agent 3: I understand your concern, Mr. Smith. However, as a call center agent, I am not a medical professional and cannot diagnose your condition. Chest pain can have various causes, some of which may require immediate medical attention. It would be best to consult with a healthcare professional who can assess your symptoms in person.
+
+Customer: This is ridiculous! Why can't you just give me some basic advice?
+
+Agent 3: I apologize if this is frustrating for you, Mr. Smith. Providing a proper assessment without a thorough examination can be risky and potentially misleading. It's important to consider all the potential causes and ensure you receive the appropriate care. Can I help you find the nearest hospital or healthcare provider?
+
+Customer: Fine, whatever. Just tell me where to go!
+
+Agent 3: I can certainly assist you with that. May I have your zip code, please?
+
+Customer: It's 12345.
+
+Agent 3: Thank you, Mr. Smith. I have found the nearest hospital to your location. It's St. Mary's Hospital, located at 123 Main Street. They have a 24/7 emergency department, and I highly recommend you visit them as soon as possible for a proper evaluation. Would you like me to provide you with their contact information?
+
+Customer: Yes, I guess that would be helpful.
+
+Agent 3: Certainly. The contact number for St. Mary's Hospital is 555-1234. Is there anything else I can assist you with, Mr. Smith?
+
+Customer: No, that's all. I'll call them now. Thanks for your help.
+
+Agent 3: You're welcome, Mr. Smith. I hope everything turns out well for you. If you have any further questions or concerns, don't hesitate to call us back. Take care!
+
+Customer: Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

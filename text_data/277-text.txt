@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, I'm calling to gather some information about your healthcare facility.
+
+Agent 3: Of course, I'll be happy to help. Can you please provide me with your name?
+
+Customer: Yes, my name is Emily Johnson.
+
+Agent 3: Thank you, Emily. How can I assist you today? What specific information are you looking for?
+
+Customer: I would like to know more about the medical services offered at HealthHarbor.
+
+Agent 3: Absolutely, we offer a wide range of medical services at our hospital. We provide emergency care, surgical procedures, maternity services, pediatric care, and various specialist consultations. Our goal is to provide comprehensive care to our patients.
+
+Customer: That sounds great. Can you tell me more about your emergency care services?
+
+Agent 3: Certainly, our emergency care department is open 24/7 and equipped to handle all types of medical emergencies. We have a team of highly skilled doctors and nurses who are trained to provide immediate medical attention. Our emergency department is equipped with state-of-the-art equipment to ensure prompt and efficient care.
+
+Customer: That's good to know. What about your surgical procedures? Do you offer a wide range of surgeries?
+
+Agent 3: Yes, we have a dedicated team of surgeons who specialize in various surgical procedures. We offer both elective and emergency surgeries, including orthopedic surgeries, cardiovascular surgeries, neurosurgeries, and many others. Our surgeons are experienced and use advanced techniques to ensure successful outcomes.
+
+Customer: That's reassuring to hear. I'm also interested in maternity services. Can you provide some details about that?
+
+Agent 3: Certainly, Emily. Our maternity services include prenatal care, delivery, and postnatal care. We have a team of obstetricians, gynecologists, and neonatologists who provide personalized care to expectant mothers and their newborns. Our maternity ward is equipped with modern amenities to ensure comfort and safety during childbirth.
+
+Customer: That's great to know. What about pediatric care? Do you have specialized doctors for children?
+
+Agent 3: Absolutely, we have a dedicated pediatric department with experienced pediatricians who provide comprehensive care for children of all ages. Our pediatricians are trained to diagnose and treat various childhood illnesses and conditions. We also have a child-friendly environment to make the young patients feel comfortable during their visit.
+
+Customer: That's excellent. I'm glad to hear that you have specialists available. However, I'm curious about the availability of specialist consultations. Do you have a wide range of specialists?
+
+Agent 3: Yes, we have a network of specialists who cover a wide range of medical specialties. This includes cardiologists, neurologists, oncologists, dermatologists, and many others. Our specialists work closely with primary care physicians to provide specialized care and consultations to our patients.
+
+Customer: That's impressive. I think HealthHarbor has a comprehensive range of medical services. Is there anything else I should know?
+
+Agent 3: Thank you for your kind words, Emily. We strive to provide the best possible care to our patients. If you have any specific questions or if there's anything else you'd like to know, please feel free to ask.
+
+Customer: Actually, I think you've answered all my questions. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emily. I'm glad I could assist you. If you have any further inquiries in the future, don't hesitate to reach out. Have a great day!
+
+Customer: You too. Goodbye.
+
+Agent 3: Goodbye, Emily. Take care! [/INST] Healthcare Facility Information </s>

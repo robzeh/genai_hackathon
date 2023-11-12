@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emma Thompson. I'm feeling really worried and need some help with a medical records request.
+
+Agent 3: Hi, Emma. I'm here to help. I understand that medical records are important. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure, my date of birth is January 15th, 1985. I need the records for my recent surgery that I had at HealthHarbor.
+
+Agent 3: Thank you for providing the necessary information, Emma. I'm sorry to hear about your surgery. Let me check your records. Please hold on for a moment.
+
+(Customer waits patiently)
+
+Agent 3: Emma, I have found your medical records. Could you please confirm the specific details of your surgery? This will help me ensure that I provide you with the correct information.
+
+Customer: Of course. I had a laparoscopic appendectomy on June 10th, 2021. I was admitted to HealthHarbor on June 9th and discharged on June 11th.
+
+Agent 3: Thank you for confirming, Emma. I see that you had the surgery performed by Dr. Smith. Is there anything specific you are looking for in your medical records?
+
+Customer: I would like a copy of the surgical report and any lab results from before and after the surgery. I also need the discharge summary and any post-operative instructions.
+
+Agent 3: I understand your request, Emma. I will make a note of all the documents you need. Please provide me with your preferred method of receiving these records - whether you would like them mailed, emailed, or if you prefer to pick them up in person.
+
+Customer: I would prefer to receive them via email, please.
+
+Agent 3: Noted, Emma. Could you please provide me with your email address? This will ensure that we send the records to the correct recipient.
+
+Customer: Sure, my email address is emmathompson@email.com.
+
+Agent 3: Thank you, Emma. I have updated your contact information. We will send the requested medical records to the provided email address within 48 hours. Is there anything else I can assist you with?
+
+Customer: No, that should be all, Agent 3. Thank you for your help. I appreciate your assistance in this matter.
+
+Agent 3: You're welcome, Emma. I'm glad I could assist you today. If you have any further questions or concerns, please don't hesitate to reach out to us. Take care and have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye!
+
+Agent 3: Goodbye, Emma. [/INST] Medical Records Requests </s>

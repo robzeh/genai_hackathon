@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: Hello, Agent 1. My name is John Smith and I need to request some of my medical records from your hospital.
+
+Agent 1: Hi, John Smith. I'm happy to help you with that. Can you please provide me with your date of birth and the approximate dates of the medical records you are requesting?
+
+Customer: Sure, my date of birth is January 10, 1980. I'm looking for records from my hospital visits between January 2015 and July 2016.
+
+Agent 1: Thank you for the information. Let me check our system to see if we have the records you're requesting. Please hold on for a moment.
+
+(Customer on hold for a couple of minutes)
+
+Agent 1: Thank you for waiting, John. I have checked our records, and I'm pleased to inform you that we do have the medical records you're looking for. However, we require a signed authorization form from you to release them. 
+
+Customer: That's great to hear. How can I obtain and submit the authorization form?
+
+Agent 1: We can send you the authorization form via email or regular mail. Which option would you prefer?
+
+Customer: Email would be more convenient for me. Could you please send it to johnsmith@email.com?
+
+Agent 1: Absolutely, John. I will send the authorization form to you right away. Please check your inbox within the next few minutes. Once you receive it, please fill out the form completely, sign it, and return it to us using the provided instructions.
+
+Customer: Sounds good. I'll keep an eye out for the email and make sure to submit the form as soon as possible. Is there a specific email address I should send it to?
+
+Agent 1: Yes, please send the completed and signed authorization form to medicalrecords@healthharbor.com. Once we receive the form, our team will process your request and provide you with the requested medical records within 5-7 business days.
+
+Customer: Alright, I got it. I'll make sure to send it to the correct email address. Just to confirm, will there be any fees associated with obtaining these records?
+
+Agent 1: There might be a nominal fee for the retrieval and processing of the records. However, it varies depending on the type and volume of the records requested. You will be notified of any fees before we proceed with the request.
+
+Customer: Okay, I understand. I appreciate your help, Agent 1. Is there anything else I need to know?
+
+Agent 1: You're welcome, John. If you have any further questions or need assistance with anything else, please don't hesitate to contact us. We're here to help. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: Thank you, Agent 1. I will keep that in mind. Have a great day too! Goodbye.
+
+Agent 1: Goodbye, John. Take care! [/INST] Medical Records Requests </s>

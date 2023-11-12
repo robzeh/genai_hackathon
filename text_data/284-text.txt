@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi Agent 2, my name is Jane Smith. I've been experiencing some symptoms lately and I was hoping to get some medical advice or symptom assessment.
+
+Agent 2: Of course, Jane. I'll do my best to assist you. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. Lately, I've been feeling extremely fatigued, even after a full night's sleep. I've also noticed that my appetite has decreased and I've been losing weight unintentionally. Additionally, I've been experiencing frequent headaches and dizziness.
+
+Agent 2: I'm sorry to hear that, Jane. These symptoms can be concerning. Have you noticed any other changes in your health recently?
+
+Customer: No, not really. I haven't had any major illnesses or injuries lately. This fatigue and weight loss have been going on for a few weeks now and it's starting to worry me.
+
+Agent 2: I understand your concern, Jane. Based on the symptoms you've described, it would be best for you to consult with a healthcare professional. They will be able to assess your symptoms more accurately and provide you with appropriate guidance. Would you like me to help you find a healthcare provider near your location?
+
+Customer: Yes, that would be helpful. I'm located in Los Angeles, California.
+
+Agent 2: Great, let me check our database for healthcare providers in Los Angeles. I have a list of general practitioners and specialists in your area. Would you prefer to see a general practitioner first or do you have a specific specialist in mind?
+
+Customer: I think starting with a general practitioner would be a good idea. They can help me determine if I need to see a specialist for further evaluation.
+
+Agent 2: That sounds like a sensible approach, Jane. I have found a few general practitioners in your area. There's Dr. Emily Johnson at Harbor Medical Center, Dr. Michael Thompson at Coastal Family Clinic, and Dr. Sarah Davis at Westside Healthcare. Do any of these options sound convenient for you?
+
+Customer: Dr. Emily Johnson at Harbor Medical Center sounds good. Can you provide me with their contact information?
+
+Agent 2: Certainly, Jane. Dr. Emily Johnson's office at Harbor Medical Center can be reached at (555) 123-4567. I recommend calling them to schedule an appointment and discuss your symptoms further. Is there anything else I can assist you with?
+
+Customer: Thank you, Agent 2. I appreciate your help. This information is very helpful. No, that's all for now. I'll contact Dr. Johnson's office and take it from there.
+
+Agent 2: You're welcome, Jane. I'm glad I could assist you. If you have any more questions or need further assistance, don't hesitate to reach out. Take care and I hope you feel better soon.
+
+Customer: Thank you, Agent 2. I will definitely reach out if I need any further assistance. Have a great day!
+
+Agent 2: You too, Jane. Take care and have a great day as well. Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

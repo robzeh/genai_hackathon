@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is John Smith. I'm feeling a bit worried and I need some help with my medical records.
+
+Agent 1: Hi John, I'm here to help. I understand it can be concerning. What specific assistance do you need with your medical records?
+
+Customer: I recently moved to a new city and need to transfer my medical records to a new doctor. I'm not sure how to go about it and what information is needed.
+
+Agent 1: I can definitely assist you with that. First, I'll need some basic information from you. Could you please provide your date of birth and the name of the previous healthcare provider?
+
+Customer: Sure, my date of birth is January 10th, 1985, and my previous healthcare provider was Greenfield Hospital.
+
+Agent 1: Thank you, John. Now, to transfer your medical records, you will need to complete a medical records request form. I can assist you with the process and provide you with the necessary paperwork.
+
+Customer: That would be great. I appreciate your help. How can I obtain the form?
+
+Agent 1: You can either visit our website and download the form or I can email it to you right away. Which option would you prefer?
+
+Customer: It would be easier for me if you could email it to me. My email address is johnsmith@email.com.
+
+Agent 1: Noted, John. I will send you the form right away. Please check your inbox in a few minutes.
+
+Customer: Thank you, Agent 1. I'll keep an eye on my email.
+
+Agent 1: You're welcome, John. Once you receive the form, please fill it out completely and accurately. Make sure to include any specific medical records or documents you require. Once you've completed the form, you can either mail it back to us or fax it to the number provided on the form.
+
+Customer: Alright, I'll make sure to fill it out correctly. How long does the process usually take?
+
+Agent 1: The processing time can vary depending on the volume of requests we receive, but typically it takes about 7-10 business days. We strive to process them as quickly as possible.
+
+Customer: That's good to know. I hope it won't take too long. I have an upcoming appointment with my new doctor.
+
+Agent 1: I understand your concern, John. Rest assured, we'll do our best to expedite the process for you. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Agent 1. I appreciate your assistance and understanding.
+
+Agent 1: You're welcome, John. It's my pleasure to assist you. If you have any further questions or need any additional support, don't hesitate to reach out to us. Take care and have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye.
+
+Agent 1: Goodbye, John. Take care. [/INST] Medical Records Requests </s>

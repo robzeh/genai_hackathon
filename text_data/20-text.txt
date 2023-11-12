@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi Agent 2, my name is John Smith. I've been experiencing some symptoms lately and I was hoping to get some medical advice or have my symptoms assessed.
+
+Agent 2: Hi John, I'm here to help. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past week, along with occasional dizziness. I've also noticed some blurred vision at times.
+
+Agent 2: I'm sorry to hear that, John. Headaches and dizziness can be concerning. Have you experienced any other symptoms or changes in your health recently?
+
+Customer: No, apart from these symptoms, everything else seems normal. I've been feeling a bit tired lately, but I'm not sure if that's related.
+
+Agent 2: Fatigue can sometimes be associated with headaches and dizziness. It's good to know that everything else seems normal. Have you taken any medication or tried any remedies to relieve these symptoms?
+
+Customer: I've taken over-the-counter painkillers for the headaches, but they only provide temporary relief. I haven't tried anything else yet.
+
+Agent 2: I understand. It's important to address the root cause of your symptoms rather than just treating them. Based on your description, I would recommend scheduling an appointment with a healthcare professional for a proper evaluation. They can assess your symptoms in detail and provide appropriate medical advice.
+
+Customer: That sounds like a good idea. Can you recommend any specific type of healthcare professional I should see?
+
+Agent 2: It would be best to see a primary care physician initially. They can evaluate your symptoms and determine if any further specialist referrals are necessary. Would you like me to help you find a primary care physician near your location?
+
+Customer: Yes, that would be helpful. I live in the downtown area. 
+
+Agent 2: Alright, let me check our database for primary care physicians in your area. Can you please provide me with your zip code?
+
+Customer: My zip code is 12345.
+
+Agent 2: Thank you, John. I have found a few primary care physicians near your location. I can provide you with their contact information so you can schedule an appointment at your convenience.
+
+Customer: That would be great, thank you.
+
+Agent 2: Alright, here are the contact details for three primary care physicians in your area: Dr. Emily Johnson at (555) 123-4567, Dr. Michael Davis at (555) 987-6543, and Dr. Sarah Thompson at (555) 789-0123. Please let me know if there's anything else I can assist you with.
+
+Customer: Thank you for your help, Agent 2. I will contact one of these physicians to schedule an appointment. 
+
+Agent 2: You're welcome, John. I'm glad I could assist you. If you have any further questions or need any more assistance, don't hesitate to reach out. Take care and I hope you feel better soon.
+
+Customer: Thank you, Agent 2. I appreciate your help. Goodbye.
+
+Agent 2: Goodbye, John. Have a great day. [/INST] Medical Advice or Symptom Assessment </s>

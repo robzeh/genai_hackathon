@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Johnson. I'm a bit worried and I need to request my medical records.
+
+Agent 2: I understand your concern, Sarah. Don't worry, we're here to help. Could you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure, my date of birth is June 15, 1985. The reason for my request is that I recently changed doctors and they need my complete medical history.
+
+Agent 2: Thank you for providing that information, Sarah. I'm sorry to hear about your worries, but we'll make sure to assist you in obtaining your medical records. To proceed, I will need your consent to access and release your records to your new doctor. Is that alright with you?
+
+Customer: Yes, of course. I give my consent for HealthHarbor to release my medical records to my new doctor.
+
+Agent 2: Thank you for your consent, Sarah. Now, let me explain the process. We have a standard medical records request form that needs to be filled out. Would you like me to email it to you or would you prefer to receive it by mail?
+
+Customer: Email would be more convenient, please.
+
+Agent 2: Great, I will send the form to the email address we have on file for you. Once you receive it, please fill it out completely and sign it. You can then either scan and email it back to us or send it by mail. Our contact information will be provided on the form.
+
+Customer: Alright, I'll keep an eye out for the email. Is there any specific information I need to include in the request form?
+
+Agent 2: The form will ask for your personal details, contact information, the dates or timeframes for the medical records you're requesting, and the name and contact information of your new doctor. It's essential to be as accurate as possible to ensure a smooth process.
+
+Customer: Okay, got it. I'll make sure to fill out all the required information correctly. How long does it usually take to process the request and have the records sent?
+
+Agent 2: Processing times can vary, Sarah, but we strive to process requests as quickly as possible. It usually takes around 10 business days from the time we receive the completed form to have the records sent to your new doctor. However, please keep in mind that this timeframe can be subject to change, especially during peak periods.
+
+Customer: Alright, I understand. I'll allow for some extra time, just in case. Is there any fee associated with this request?
+
+Agent 2: There may be a fee for this service, Sarah. However, it depends on the complexity and volume of your medical records. Once we receive your completed form, our records department will review it and inform you of any applicable fees. They will provide you with the payment options as well.
+
+Customer: I see. I hope the fees won't be too high. I appreciate your help, Agent 2. This process seems a bit overwhelming, but you've been very informative.
+
+Agent 2: I completely understand, Sarah. It can be overwhelming, but we're here to guide you through the process. If you have any further questions or concerns, please don't hesitate to reach out to us. We're always happy to assist you.
+
+Customer: Thank you, Agent 2. You've been very helpful and reassuring. I'll keep an eye out for the email and complete the form as soon as possible.
+
+Agent 2: You're welcome, Sarah. I'm glad I could assist you. Remember, if you need any further assistance, feel free to reach out to us. Take care and good luck with your new doctor. [/INST] Medical Records Requests </s>

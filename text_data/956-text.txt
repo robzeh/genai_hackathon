@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally! I've been on hold for ages. I need some medical advice right away!
+
+Agent 1: I apologize for the wait. I understand you're in need of medical advice. I'll do my best to assist you. May I have your name please?
+
+Customer: My name is Emily Thompson.
+
+Agent 1: Thank you, Emily. How can I help you today? What seems to be the problem?
+
+Customer: I've been experiencing severe headaches for the past few days, and it's really starting to worry me. I don't know what's causing them.
+
+Agent 1: I'm sorry to hear that, Emily. Headaches can be quite distressing. Can you please provide me with some more details about your symptoms? Are there any particular triggers or patterns you've noticed?
+
+Customer: No, I can't identify any specific triggers. They just come on suddenly and last for hours. I've tried over-the-counter painkillers, but they don't seem to help much.
+
+Agent 1: I understand that must be frustrating. Have you experienced any other symptoms along with the headaches, such as nausea or sensitivity to light?
+
+Customer: Yes, I do feel nauseous at times, and bright lights do bother me when I have a headache.
+
+Agent 1: I see. Based on your symptoms, it's possible that you may be experiencing migraines. However, I'm not a doctor, so it's important for you to seek medical advice from a healthcare professional. They will be able to provide a proper diagnosis and recommend appropriate treatment.
+
+Customer: Well, that's just great! I was hoping to get some answers from you, but now I have to go see a doctor. This is such a waste of time!
+
+Agent 1: I completely understand your frustration, Emily. However, it's important to remember that only a qualified medical professional can provide an accurate diagnosis and appropriate treatment plan. They have the necessary expertise to address your concerns effectively.
+
+Customer: I guess you're right, but it's just so inconvenient. Is there anything else I can do to alleviate the pain in the meantime?
+
+Agent 1: I can understand your desire for immediate relief. While waiting for your appointment, you can try managing your symptoms by practicing relaxation techniques, such as deep breathing exercises or applying a cold compress to your forehead. Additionally, avoiding known triggers, such as certain foods or stressful situations, may help reduce the frequency or intensity of your headaches.
+
+Customer: Alright, I'll give those suggestions a try. I appreciate your advice, Agent 1. I'm sorry for being so angry earlier.
+
+Agent 1: No need to apologize, Emily. I understand that dealing with health concerns can be overwhelming. I'm glad I could provide some guidance. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 1. I'll follow up with a doctor soon.
+
+Agent 1: You're most welcome, Emily. I'm glad I could assist you. Remember, our team is here to support you whenever you need. Take care and feel better soon!
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Emily. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

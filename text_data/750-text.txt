@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, this is Sarah Johnson. I'm really scared right now, and I need some help with my medical records.
+
+Agent 2: Hi Sarah, I'm here to help you. I understand you're feeling scared, but don't worry, we'll get through this together. Can you please provide me with your date of birth and any other relevant information so I can assist you better?
+
+Customer: Thank you, Agent 2. My date of birth is June 15, 1985. I've been a patient at HealthHarbor for the past five years, and I need to request a copy of my medical records.
+
+Agent 2: I'm sorry to hear that you're feeling scared, Sarah. It's important to have access to your medical records, and we can certainly help you with that. Just to verify, could you please provide me with your address and contact number for our records?
+
+Customer: Sure, my address is 123 Oak Street, and my contact number is 555-1234.
+
+Agent 2: Thank you for providing that information, Sarah. Now, let's talk about the specific medical records you need. Could you please let me know the date range or any specific documents you're looking for?
+
+Customer: I would like to request all my medical records from January 2016 to present. I'm scared because I recently had some health issues, and I want to consult with another specialist for a second opinion.
+
+Agent 2: I understand your concerns, Sarah. It's important to make informed decisions about your health, and having your medical records can certainly help with that. Let me check our system to ensure we have the necessary documents. Please hold for a moment.
+
+(Customer waits on hold for a few minutes)
+
+Agent 2: Thank you for holding, Sarah. I have confirmed that we have your medical records from January 2016 till present. To request a copy, we need you to fill out a medical records release form. Would you like me to email it to you, or would you prefer receiving it by mail?
+
+Customer: I'm scared to wait for the mail, so could you please email it to me? My email address is sarah.johnson@email.com.
+
+Agent 2: Of course, Sarah. I understand your concerns, and I'll send the form to your email immediately. Please check your inbox in the next few minutes. Once you receive it, please fill it out, sign it, and send it back to us. We'll process your request as soon as we receive the completed form.
+
+Customer: Thank you so much, Agent 2. I really appreciate your help. I'm scared about my health, but knowing that I can get a second opinion gives me some relief.
+
+Agent 2: You're welcome, Sarah. I'm glad I could assist you. I understand that the uncertainty can be scary, but remember that you're taking the right steps to ensure your well-being. If you have any further questions or need any additional support, please don't hesitate to reach out to us.
+
+Customer: I will, thank you. You've been really helpful, and I feel a bit more at ease now. Have a great day, Agent 2.
+
+Agent 2: You're very welcome, Sarah. I'm glad I could provide some reassurance. Take care of yourself, and remember that HealthHarbor is here for you. Have a great day too, and don't hesitate to call us if you need anything else. [/INST] Medical Records Requests </s>

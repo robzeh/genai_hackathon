@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone answered! I've been waiting on hold for ages. Your service is terrible!
+
+Agent 2: I apologize for the wait and any inconvenience caused. I understand you're frustrated, and I'm here to help. How can I make things right for you?
+
+Customer: Well, I need some information about your hospital. I want to know what services you provide and if you have any specialists available.
+
+Agent 2: Absolutely, I'd be happy to provide you with that information. HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We have departments specializing in cardiology, oncology, orthopedics, neurology, and many others. We also have a team of highly skilled specialists available to provide the best possible care to our patients.
+
+Customer: That's all fine, but I need to know if you have any available appointments with a cardiologist. My uncle just had a heart attack, and we need to see someone urgently.
+
+Agent 2: I'm sorry to hear about your uncle's condition. Let me check our system for available appointments with a cardiologist. Can I have your uncle's name and date of birth, please?
+
+Customer: His name is John Smith, and his date of birth is January 15, 1955.
+
+Agent 2: Thank you for providing that information. I have found a few available slots for tomorrow afternoon. Would that work for you?
+
+Customer: Tomorrow afternoon? That's too late! This is an emergency! Can't you do anything to help us?
+
+Agent 2: I understand your urgency, and I apologize for any inconvenience caused. Let me connect you with our emergency department. They will be able to assist you immediately. Please hold the line while I transfer your call.
+
+(Customer is put on hold)
+
+Agent 2: (After a brief hold) Thank you for your patience. I have connected you with our emergency department. They will be able to assist you further. Is there anything else I can assist you with?
+
+Customer: No, that's all. I just hope they can help my uncle in time.
+
+Agent 2: I understand your concern, and our emergency department will do their best to provide the necessary care. If you have any other questions or need further assistance, don't hesitate to call us back. Take care, and I hope everything turns out well for your uncle.
+
+Customer: Thank you, I appreciate your help.
+
+Agent 2: You're welcome. Have a good day. Goodbye.
+
+(Customer hangs up) [/INST] Healthcare Facility Information </s>

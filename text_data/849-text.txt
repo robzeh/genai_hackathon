@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: (angry tone) Finally, someone answered! I've been trying to get through to your hospital for days now. I need to request my medical records immediately.
+
+Agent 3: I apologize for the wait and any inconvenience caused. I understand your urgency. May I have your name and date of birth please?
+
+Customer: My name is Emily Johnson, and my date of birth is March 15, 1985.
+
+Agent 3: Thank you, Ms. Johnson. I'm sorry to hear about your frustration. I'll do my best to help you with your medical records request. Can you please specify the reason for your request?
+
+Customer: I need the records for my upcoming appointment with a specialist. They require my complete medical history, and I don't have access to it.
+
+Agent 3: I see. I can definitely assist you with that. Just to confirm, are you requesting your complete medical records or specific documents?
+
+Customer: I need my complete medical records. I want everything from my previous visits, test results, and any other relevant information.
+
+Agent 3: Understood, Ms. Johnson. In order to process your request, I'll need you to fill out a medical records release form. This form authorizes us to release your records to you or any designated recipient.
+
+Customer: Are you kidding me? Why do I have to go through all this paperwork? I just want my own records!
+
+Agent 3: I apologize for the inconvenience, but it's a necessary step to ensure your privacy and protect your medical information. Once we have the completed form, we'll be able to process your request promptly.
+
+Customer: Fine, send me the form then. But make sure it's easy to understand and not overly complicated.
+
+Agent 3: Certainly, Ms. Johnson. I'll email the form to the address we have on file for you. If there are any changes to your contact information, please let me know.
+
+Customer: Alright, I'll keep an eye out for the email. How long will it take to receive my records once I submit the form?
+
+Agent 3: Once we receive your completed form, it typically takes up to 10 business days to process your request. However, if your upcoming appointment is sooner, I can request an expedited processing for you.
+
+Customer: Yes, please expedite it. My appointment is in a week, and I can't afford any delays.
+
+Agent 3: Noted, Ms. Johnson. I'll make a note of the urgency and ensure your request is expedited. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. I just hope this process goes smoothly and I get my records in time.
+
+Agent 3: I understand your concern, Ms. Johnson. Rest assured, we'll do everything we can to ensure a smooth process. If you have any further questions or need any assistance, please don't hesitate to reach out to us.
+
+Customer: Thank you, Agent 3. I appreciate your help. [/INST] Medical Records Requests </s>

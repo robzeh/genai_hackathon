@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Emily Johnson. I've been feeling really worried about some symptoms I've been experiencing lately. I'm not sure what's going on, and I was hoping you could help me.
+
+Agent 2: Of course, Emily. I'm here to help. Can you please tell me a bit more about the symptoms you're experiencing?
+
+Customer: Well, I've been having these persistent headaches for the past week. They're not unbearable, but they're definitely worrying me. I also noticed that I've been feeling quite fatigued lately, even after a good night's sleep. And sometimes, I feel a bit nauseous too.
+
+Agent 2: I understand your concern, Emily. Headaches, fatigue, and nausea can be caused by various factors. Have you experienced any other symptoms or changes in your health recently?
+
+Customer: No, not really. I've been generally healthy, and I haven't had any major changes in my lifestyle or routine.
+
+Agent 2: Alright, Emily. Based on your symptoms, it's difficult to pinpoint the exact cause without further evaluation. However, it may be helpful for you to consult with a healthcare professional. They will be able to provide a more accurate assessment and offer appropriate medical advice. Would you like me to help you find a suitable healthcare provider in your area?
+
+Customer: Yes, please. That would be great.
+
+Agent 2: Alright, I'll need your location to provide you with the nearest healthcare providers. Can you please provide me with your zip code?
+
+Customer: Sure, it's 12345.
+
+Agent 2: Thank you, Emily. Give me a moment to find the nearest healthcare providers in your area.
+
+(Customer waits for a few moments)
+
+Agent 2: I found a few options for you, Emily. There are two primary care clinics near your location – Dr. Smith's Clinic and HealthCare Plus. Both have good ratings and offer a wide range of medical services. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. I'll reach out to them for an appointment.
+
+Agent 2: Absolutely. Dr. Smith's Clinic can be reached at (555) 123-4567, and HealthCare Plus can be reached at (555) 987-6543. Please let me know if there's anything else I can assist you with.
+
+Customer: Thank you so much, Agent 2. I really appreciate your help. I'll contact one of these clinics right away.
+
+Agent 2: You're welcome, Emily. I'm glad I could assist you. If you have any more questions or concerns in the future, don't hesitate to reach out. Take care and feel better soon!
+
+Customer: Thank you, Agent 2. Have a great day!
+
+Agent 2: You too, Emily. Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

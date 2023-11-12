@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. I have a few general inquiries about HealthHarbor.
+
+Agent 4: Of course, I'm here to help. What would you like to know?
+
+Customer: Firstly, I wanted to inquire about the services provided at HealthHarbor. Can you give me an overview?
+
+Agent 4: Certainly! HealthHarbor is a comprehensive healthcare facility offering a wide range of medical services. We provide primary care, specialized treatments, surgeries, diagnostic tests, and emergency care. Our aim is to cater to all aspects of our patients' healthcare needs.
+
+Customer: That sounds great. Do you have any specific departments or specialties within the hospital?
+
+Agent 4: Yes, we have various departments to cater to different medical needs. Some of the specialties we offer include cardiology, orthopedics, neurology, oncology, pediatrics, and obstetrics and gynecology. Each department is staffed with skilled healthcare professionals who are dedicated to providing top-quality care.
+
+Customer: That's reassuring to hear. I also wanted to know about the availability of appointments. Are they easy to schedule?
+
+Agent 4: We strive to provide convenient appointment scheduling for our patients. You can either call our helpline or visit our website to book an appointment. We have a team dedicated to managing our appointment system efficiently, ensuring that you find a suitable time slot.
+
+Customer: That's good to know. Is HealthHarbor affiliated with any insurance providers?
+
+Agent 4: Yes, we work with several insurance providers. We accept most major health insurance plans, and we also offer self-pay options for those without insurance. It's always a good idea to check with your insurance provider to confirm coverage before scheduling any services.
+
+Customer: Okay, I'll make sure to do that. I have one more question. Are there any preventive care services offered at HealthHarbor?
+
+Agent 4: Absolutely! We believe in the importance of preventive care, and we offer a range of services to help our patients maintain their health. This includes regular check-ups, vaccinations, screenings, and health education programs. Our goal is to help you stay healthy and catch any potential issues early on.
+
+Customer: That's great to hear. Thank you for answering all my questions, Agent 4. I feel more informed now.
+
+Agent 4: You're welcome! I'm glad I could assist you. If you have any more questions in the future or need any further assistance, don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 4. You too! Goodbye.
+
+Agent 4: Goodbye and take care! [/INST] General Inquiries </s>

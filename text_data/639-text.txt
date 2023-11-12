@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I've been experiencing some concerning symptoms lately and I was hoping to get some medical advice or assessment.
+
+Agent 3: Hi, Emily. I'm sorry to hear that you're not feeling well. I'll do my best to help you out. Can you please tell me more about your symptoms?
+
+Customer: Sure. Lately, I've been having persistent headaches, dizziness, and occasional blurred vision. It's been going on for the past week and I'm getting worried.
+
+Agent 3: I understand your concern, Emily. Headaches, dizziness, and blurred vision can be symptoms of various underlying conditions. Have you experienced any other symptoms or changes in your health recently?
+
+Customer: No, not really. Other than these symptoms, I feel generally fine. I haven't had any major health issues in the past.
+
+Agent 3: Okay, thank you for that information. Given your symptoms, it would be best to consult with a healthcare professional for a proper assessment. These symptoms could be related to various causes such as migraines, high blood pressure, or even underlying eye problems. Would you like me to help you find a nearby healthcare provider?
+
+Customer: Yes, that would be great. I'm not sure where to start, so any guidance would be appreciated.
+
+Agent 3: Of course, Emily. Can you please provide me with your zip code? This will help me find healthcare providers in your area.
+
+Customer: My zip code is 12345.
+
+Agent 3: Thank you. I'll search for healthcare providers in your area. Please bear with me for a moment.
+
+(Customer waits for a short while)
+
+Agent 3: I have found a few options for you, Emily. There are two primary care clinics and a specialized neurology center near your location. Would you like me to provide you with their contact details?
+
+Customer: Yes, please. I would like to have the contact details so I can schedule an appointment.
+
+Agent 3: Sure. The first option is Healthy Life Clinic, located at 123 Main Street. Their contact number is (555) 123-4567. The second option is Wellness Family Practice, located at 456 Elm Avenue. You can reach them at (555) 987-6543. Finally, there's the Advanced Neurology Center, situated at 789 Oak Drive, and their contact number is (555) 789-0123.
+
+Customer: Thank you so much, Agent 3. I really appreciate your help. I'll reach out to one of these clinics to schedule an appointment as soon as possible.
+
+Agent 3: You're welcome, Emily. I'm glad I could assist you. It's important to address your symptoms promptly. Is there anything else I can help you with?
+
+Customer: No, that's all for now. Thanks again for your assistance. Have a great day!
+
+Agent 3: You're welcome, Emily. Take care and have a wonderful day as well. Feel better soon!
+
+(Customer and Agent 3 end the call) [/INST] Medical Advice or Symptom Assessment </s>

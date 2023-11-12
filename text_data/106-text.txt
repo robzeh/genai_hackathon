@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Thompson. I'm feeling quite worried about my health, and I was hoping you could help me with some general inquiries.
+
+Agent 2: Of course, Sarah. I'm here to help. What seems to be troubling you?
+
+Customer: Well, I've been experiencing persistent headaches lately, and I'm not sure if I should be concerned about it. Can you provide me with some information on what might be causing them?
+
+Agent 2: I understand your concern, Sarah. Headaches can be caused by various factors like stress, dehydration, or even certain medical conditions. However, I'm not a doctor, but I can certainly assist you in finding the right resources. Have you consulted a healthcare professional about your headaches?
+
+Customer: No, not yet. I thought I would start by gathering some initial information before deciding whether I need to see a doctor or not.
+
+Agent 2: That's a sensible approach, Sarah. In such cases, it's always best to consult a healthcare professional who can assess your symptoms and provide appropriate guidance. Would you like me to help you find a healthcare provider near your location?
+
+Customer: Yes, that would be great. I live in the downtown area of the city.
+
+Agent 2: Alright, Sarah. May I have your zip code, please?
+
+Customer: Sure, it's 12345.
+
+Agent 2: Thank you, Sarah. Based on your location, I have found a few healthcare providers near you. There's City Medical Center, Downtown Clinic, and Harbor Health Center. These are all reputable facilities that offer a wide range of medical services. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. It would be helpful to have their phone numbers and addresses.
+
+Agent 2: Certainly, Sarah. City Medical Center is located at 123 Main Street. Their phone number is 555-1234. Downtown Clinic is at 456 Elm Street, and you can reach them at 555-5678. Lastly, Harbor Health Center is situated at 789 Oak Street, and their contact number is 555-9012.
+
+Customer: Thank you so much for this information, Agent 2. I'll make sure to contact one of these healthcare providers to schedule an appointment.
+
+Agent 2: You're welcome, Sarah. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that was all for now. I really appreciate your help and guidance. It's comforting to know that there are professionals like you available to answer my questions.
+
+Agent 2: I'm here to help, Sarah. Don't hesitate to reach out if you have any further inquiries or if there's anything else we can assist you with. Take care of yourself, and I hope your health concerns are addressed soon.
+
+Customer: Thank you, Agent 2. I will. Have a great day!
+
+Agent 2: You too, Sarah. Goodbye and take care. [/INST] General Inquiries </s>

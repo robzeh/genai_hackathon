@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm really scared and I need some information about your healthcare facility.
+
+Agent 3: I'm sorry to hear that you're feeling scared. Don't worry, I'm here to help. Can you please let me know what specific information you're looking for?
+
+Customer: Well, I'm new to this area and I've been having some health issues lately. I need to know what services HealthHarbor offers and if you have specialists available.
+
+Agent 3: Of course, I understand your concerns. HealthHarbor is a full-service hospital that offers a wide range of medical services. We have specialists in various fields such as cardiology, oncology, orthopedics, and more. Whatever health issue you're experiencing, we have experts who can help.
+
+Customer: That's a relief to know. I've been having some chest pain lately, and I'm worried it might be something serious. Do you have a cardiology department?
+
+Agent 3: Yes, we do have a cardiology department. Our cardiologists are experienced in diagnosing and treating various heart conditions. If you're experiencing chest pain, it's important to get it checked out. I can assist you in scheduling an appointment with one of our cardiologists. May I have your name, please?
+
+Customer: My name is Sarah Johnson.
+
+Agent 3: Thank you, Sarah. I will book an appointment for you with one of our cardiologists as soon as possible. Is there anything else I can assist you with?
+
+Customer: Actually, yes. I'm also concerned about the cost of medical treatment. Do you accept insurance?
+
+Agent 3: Yes, HealthHarbor accepts most major insurance plans. We can check your insurance coverage and provide you with an estimate of any out-of-pocket expenses. Just provide me with your insurance details, and I'll make sure to verify your coverage.
+
+Customer: That would be great. I have Blue Cross Blue Shield insurance.
+
+Agent 3: Thank you, Sarah. I will verify your insurance coverage with Blue Cross Blue Shield and get back to you with the details. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you so much for your assistance, Agent 3.
+
+Agent 3: You're welcome, Sarah. I'm glad I could help. If you have any more questions or concerns, don't hesitate to reach out to us. Take care and feel better soon!
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Sarah. Have a great day! [/INST] Healthcare Facility Information </s>

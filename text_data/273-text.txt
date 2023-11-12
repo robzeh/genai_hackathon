@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Johnson. I've been having some concerning symptoms lately and I was hoping to get some medical advice or assessment.
+
+Agent 3: Hi Sarah, nice to meet you. I'm here to help. Can you please describe the symptoms you've been experiencing?
+
+Customer: Yes, sure. For the past week, I've been feeling extremely fatigued and have had a persistent headache. I also noticed that my appetite has decreased and I've been feeling a bit nauseous.
+
+Agent 3: I'm sorry to hear that, Sarah. Fatigue, headaches, loss of appetite, and nausea can be symptoms of various conditions. Have you noticed any other symptoms or changes in your body?
+
+Customer: Not really, just those mentioned symptoms. I haven't had a fever or any unusual pain anywhere else in my body.
+
+Agent 3: Okay, thank you for providing that information. Based on your symptoms, it's important to consider multiple possibilities. However, I'm not a doctor, so I can't provide a definitive diagnosis. I would recommend you consult with a healthcare professional for a proper evaluation. They will be able to assess your symptoms and provide appropriate medical advice.
+
+Customer: I understand, but I wanted to check if there's anything I could do in the meantime to alleviate these symptoms or if it's something serious.
+
+Agent 3: I completely understand your concerns, Sarah. While waiting for a professional evaluation, you can try some self-care measures. Make sure you're getting enough rest, maintaining a balanced diet, and staying hydrated. It might also help to avoid stressful situations and practice relaxation techniques. If the symptoms worsen or become unbearable, I strongly urge you to seek medical attention promptly.
+
+Customer: Alright, I will do that. Thank you for your advice. Is there anything else I should be aware of or any warning signs that I should watch out for?
+
+Agent 3: You're welcome, Sarah. I'm glad I could assist you. Warning signs vary depending on the underlying cause of your symptoms. However, if you experience sudden and severe pain, difficulty breathing, chest pain, or any other alarming symptoms, it's crucial to seek immediate medical attention. Trust your instincts and don't hesitate to reach out for help.
+
+Customer: Thank you for letting me know. I appreciate your help and guidance, Agent 3.
+
+Agent 3: You're welcome, Sarah. It was my pleasure assisting you. Remember, your health is important, and it's always better to be safe than sorry. If you have any further questions or concerns, don't hesitate to call us again. Take care, and I hope you feel better soon!
+
+Customer: Thank you, Agent 3. I will take your advice and reach out to a healthcare professional. Have a great day!
+
+Agent 3: You're welcome, Sarah. I'm glad I could help. Have a great day too, and take care! Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

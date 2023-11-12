@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. I'm calling because I've been experiencing some unusual symptoms and I'm not sure what to do about it.
+
+Agent 1: I'm sorry to hear that. Can you please tell me more about the symptoms you've been experiencing?
+
+Customer: Yes, of course. I've been having a persistent headache for the past two days, along with some dizziness and nausea. I'm not sure if it's something serious or just a minor issue.
+
+Agent 1: I understand your concern. Headaches can have various causes. Have you experienced any recent trauma or injury to your head?
+
+Customer: No, I haven't had any accidents or injuries lately. The headache just started out of the blue.
+
+Agent 1: Okay. Have you noticed any specific triggers for the headache? For example, exposure to bright lights or certain foods?
+
+Customer: Not really. The headache seems to be constant throughout the day, regardless of my activities or surroundings.
+
+Agent 1: I see. In situations like this, it's always best to consult with a healthcare professional. They will be able to provide you with a more accurate assessment of your symptoms. Would you like us to help you find a healthcare provider near your location?
+
+Customer: Yes, that would be helpful. I'm not familiar with any doctors in my area.
+
+Agent 1: Not a problem. Can you please provide me with your zip code so that I can search for healthcare providers nearby?
+
+Customer: Sure, my zip code is 12345.
+
+Agent 1: Thank you. I'm searching for healthcare providers in your area now. While I do that, I also recommend keeping a record of your symptoms, including their severity and any changes you notice. This information will be valuable during your consultation with the healthcare provider.
+
+Customer: That's a good idea. I will start keeping a record of my symptoms. Hopefully, the healthcare provider will be able to figure out what's causing them.
+
+Agent 1: I'm sure they will. I have found a few healthcare providers in your area. There's Dr. Smith at Health Clinic A, Dr. Johnson at Medical Center B, and Dr. Davis at Family Hospital C. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. Can you give me the contact information for Dr. Smith at Health Clinic A?
+
+Agent 1: Certainly. Dr. Smith's contact information is as follows: Health Clinic A, 123 Main Street, Anytown, 12345. Their phone number is (555) 123-4567. I recommend calling them to schedule an appointment as soon as possible. Is there anything else I can assist you with?
+
+Customer: No, that should be all. Thank you for your help, Agent 1. I appreciate your assistance in finding a healthcare provider for me.
+
+Agent 1: You're welcome! I'm glad I could help. I hope you feel better soon. If you have any other questions or concerns, don't hesitate to reach out to us. Take care!
+
+Customer: Thank you, Agent 1. Have a great day!
+
+Agent 1: You too. Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

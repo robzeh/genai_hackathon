@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi Agent 2, my name is Emma Thompson. I have some general inquiries about the services provided at HealthHarbor.
+
+Agent 2: Hi Emma, I'll be happy to help you with your inquiries. What would you like to know?
+
+Customer: Well, I wanted to know about the different medical services offered at HealthHarbor. Can you give me an overview?
+
+Agent 2: Of course, Emma. HealthHarbor offers a wide range of medical services including primary care, specialized clinics, emergency care, surgical procedures, diagnostic tests, and rehabilitation services. We have a team of highly skilled doctors, nurses, and technicians to provide comprehensive care to our patients.
+
+Customer: That sounds great. Can you tell me more about your specialized clinics? What kind of specialties do you offer?
+
+Agent 2: Absolutely, Emma. Our specialized clinics cover various medical specialties such as cardiology, orthopedics, neurology, gastroenterology, and many more. Each clinic is staffed with experienced specialists who provide advanced treatments and personalized care for specific health conditions.
+
+Customer: That's impressive. What about emergency care? Are you equipped to handle all kinds of emergencies?
+
+Agent 2: Yes, Emma. Our emergency department is fully equipped to handle all types of emergencies, from minor injuries to life-threatening situations. We have a team of skilled emergency medicine physicians and trained nurses available 24/7 to provide immediate care and stabilize patients before further treatment.
+
+Customer: That's reassuring to hear. I also wanted to inquire about the surgical procedures offered at HealthHarbor. Can you tell me more about that?
+
+Agent 2: Certainly, Emma. We offer a wide range of surgical procedures, including minimally invasive surgeries, orthopedic surgeries, general surgeries, and various other specialties. Our state-of-the-art operation theaters are equipped with advanced technology to ensure safe and successful surgeries.
+
+Customer: That's good to know. What about diagnostic tests? Do you have advanced imaging and lab facilities?
+
+Agent 2: Yes, Emma. We have advanced imaging facilities such as X-ray, CT scan, MRI, and ultrasound, which help in diagnosing various conditions. Additionally, we have a well-equipped laboratory for conducting blood tests, urine tests, and other necessary diagnostic procedures.
+
+Customer: That's comprehensive. Lastly, I wanted to ask about rehabilitation services. Do you provide physical therapy and rehabilitation?
+
+Agent 2: Absolutely, Emma. We have a dedicated rehabilitation department that offers a range of services including physical therapy, occupational therapy, speech therapy, and more. Our rehabilitation specialists work closely with patients to help them regain strength, improve mobility, and enhance overall functionality.
+
+Customer: That's great to hear. Thank you for providing all the information, Agent 2. I appreciate your help.
+
+Agent 2: You're welcome, Emma. I'm glad I could assist you. If you have any more questions or need further assistance, feel free to reach out to us anytime. Have a great day!
+
+Customer: Thank you, Agent 2. You too. Goodbye!
+
+Agent 2: Goodbye, Emma. Take care! [/INST] General Inquiries </s>

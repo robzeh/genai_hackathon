@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emma Smith. I recently had some lab and test results done at your hospital, and I'm feeling quite worried about them.
+
+Agent 3: I understand, Emma. I'm here to help. Can you please provide me with some more details about the lab and test results you received?
+
+Customer: Sure. I had a blood test done last week, and my doctor informed me that there were some abnormalities in the results. She mentioned something about my liver enzymes being elevated.
+
+Agent 3: I see, Emma. I can imagine how concerning that must be for you. Let me check your records to get a better understanding of the situation. Could you please provide me with your date of birth?
+
+Customer: Yes, it's January 15, 1985.
+
+Agent 3: Thank you, Emma. I have pulled up your medical records. I can see that your liver function tests indeed showed elevated levels. However, I'm not a medical professional, and I cannot interpret these results. I would recommend scheduling an appointment with your primary care physician or a specialist who can provide you with a detailed explanation and guide you through further steps.
+
+Customer: I understand, but it's just that I'm feeling really worried right now. Is there anything you can do to help ease my concerns?
+
+Agent 3: I completely understand your worry, Emma. While I cannot provide medical advice, I can certainly assist you with scheduling an appointment or connecting you with a healthcare professional who can answer your questions. Would you like me to do that for you?
+
+Customer: Yes, please. I would appreciate any help you can provide.
+
+Agent 3: Of course, Emma. I will connect you with our scheduling department, and they will assist you in booking an appointment with a suitable healthcare provider. Please stay on the line while I transfer your call.
+
+[Customer is put on hold for a few moments]
+
+Agent 3: Emma, thank you for patiently waiting. I have successfully transferred your call to our scheduling department. They will assist you further in booking an appointment. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emma. I understand that waiting for test results can be stressful, but our team will do their best to assist you further. If you have any more questions or concerns in the future, please don't hesitate to reach out. Take care, and have a good day.
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Emma. [/INST] Lab and Test Results </s>

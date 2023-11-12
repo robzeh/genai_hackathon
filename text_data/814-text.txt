@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. I'm calling with some general inquiries about your hospital, HealthHarbor.
+
+Agent 2: Of course, I'd be happy to help. What specific information are you looking for?
+
+Customer: Well, first off, I wanted to know what kind of medical services HealthHarbor offers.
+
+Agent 2: HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We provide primary care, emergency care, surgery, diagnostic imaging, laboratory services, and much more. Is there any particular service you are interested in?
+
+Customer: No, I was just curious about the range of services you provide. That sounds really comprehensive.
+
+Agent 2: Yes, we strive to ensure that our patients have access to a wide range of medical services under one roof. Is there anything else you would like to know?
+
+Customer: Yes, I also wanted to know if HealthHarbor accepts insurance plans.
+
+Agent 2: Absolutely, HealthHarbor accepts most major insurance plans. We work with both private insurance companies and government programs. However, I would recommend contacting your insurance provider to confirm if HealthHarbor is in-network for your specific plan to ensure coverage.
+
+Customer: That's good to know. Thank you for the suggestion. I'll make sure to check with my insurance provider.
+
+Agent 2: You're welcome. It's always a good idea to verify your coverage beforehand to avoid any surprises. Is there anything else I can assist you with?
+
+Customer: Actually, I have one more question. Does HealthHarbor have any specialized clinics or departments?
+
+Agent 2: Yes, we have several specialized clinics and departments to cater to specific medical needs. We have departments for cardiology, orthopedics, oncology, pediatrics, and more. Each department has highly skilled and experienced physicians and staff dedicated to delivering specialized care.
+
+Customer: That's great to hear. It's reassuring to know that HealthHarbor has specialized care available. Thank you for answering all my questions, Agent 2.
+
+Agent 2: You're welcome, it was my pleasure assisting you. Is there anything else I can help you with?
+
+Customer: No, that's all for now. Thank you again for your help.
+
+Agent 2: You're welcome. If you have any further questions or need assistance in the future, don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, you too. Goodbye.
+
+Agent 2: Goodbye, take care! [/INST] General Inquiries </s>

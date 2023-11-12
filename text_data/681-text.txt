@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, this is Sarah Johnson. I need to request my medical records, but I'm feeling really scared about it.
+
+Agent 1: Hello Sarah, I understand that it can be a bit overwhelming to request your medical records. Don't worry, I'm here to help you through the process. Can you please provide your date of birth and any other relevant information so that I can locate your records?
+
+Customer: Yes, my date of birth is May 15, 1985. I was treated at your hospital for a surgery last year.
+
+Agent 1: Thank you for providing that information, Sarah. I'm sorry to hear that you're feeling scared. I assure you that we'll handle your request with utmost care and confidentiality. Could you please let me know the reason for requesting your medical records?
+
+Customer: Well, I recently changed doctors, and they have requested my previous medical records for continuity of care. I'm just scared because I want to ensure that all the necessary information is transferred accurately.
+
+Agent 1: I completely understand your concern, Sarah. Rest assured, we have a strict process in place to ensure the accuracy and privacy of your records. Let me go ahead and initiate the request for you. Can you please confirm your contact information so that we can reach out to you if there are any questions or updates regarding your request?
+
+Customer: Yes, my phone number is 555-1234 and my email address is sarahjohnson@email.com.
+
+Agent 1: Thank you, Sarah. I have noted down your contact information. Now, let's discuss the specifics of your medical records request. Do you need your complete medical history or just specific documents?
+
+Customer: I think I would like to request my complete medical history, just to be thorough.
+
+Agent 1: Perfect, Sarah. I'll make sure to include all the necessary documents in your request. Just to confirm, would you like us to send the records directly to your new doctor's office, or would you prefer to pick them up in person?
+
+Customer: I would prefer if you could send them directly to my new doctor's office. It would be more convenient for me.
+
+Agent 1: Noted, Sarah. I will arrange for the records to be sent to your new doctor's office. Please keep in mind that it may take a few business days for the transfer to be completed. Is there anything else I can assist you with today?
+
+Customer: Actually, I have one more question. Will I be charged for this service?
+
+Agent 1: That's a great question, Sarah. There may be a nominal fee associated with processing your medical records request. However, I recommend checking with your new doctor's office, as they may cover the cost as part of their services. They can also guide you on any potential insurance coverage. Would you like me to provide you with the contact information for your new doctor's office?
+
+Customer: Yes, please. That would be helpful.
+
+Agent 1: Sure, Sarah. Your new doctor's office is called Greenleaf Medical Associates. Their phone number is 555-5678. They will be able to assist you further with any questions regarding insurance coverage or fees.
+
+Customer: Thank you so much for your help, Agent 1. I really appreciate your patience and reassurance throughout this process.
+
+Agent 1: You're welcome, Sarah. It was my pleasure assisting you. If you have any further questions or concerns, please don't hesitate to reach out to us. We're here to support you. Take care!
+
+Customer: Thank you, Agent 1. Take care as well. Goodbye.
+
+Agent 1: Goodbye, Sarah. Have a great day! [/INST] Medical Records Requests </s>

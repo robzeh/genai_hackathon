@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good morning, thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer (Angry): Finally, someone answers! I've been trying to get my lab and test results for days now, and no one seems to care!
+
+Agent 1: I apologize for the inconvenience, sir. I understand your frustration. Could you please provide me with your name and date of birth so I can access your records?
+
+Customer: My name is John Smith, and my date of birth is January 15th, 1975.
+
+Agent 1: Thank you, Mr. Smith. Let me pull up your records. I see that you recently had some lab tests done. Is that correct?
+
+Customer: Yes, it's been over a week now, and I haven't heard anything about my results. This is unacceptable!
+
+Agent 1: I apologize for the delay, Mr. Smith. Let me check the status of your lab results. Please bear with me for a moment.
+
+(Customer is put on hold for a few minutes)
+
+Agent 1: Thank you for your patience, Mr. Smith. I have reviewed your file, and I can see that your lab results are available. However, it seems there was a miscommunication, and we failed to inform you about them. I sincerely apologize for this oversight.
+
+Customer (Angry): You expect me to believe that? Why wasn't I informed? I've been worried sick!
+
+Agent 1: I completely understand your concern, Mr. Smith. It was an unfortunate mistake on our part, and I apologize for any distress it may have caused you. Rest assured, your lab results are now available, and I can provide you with the details.
+
+Customer: Fine, just give me the results already!
+
+Agent 1: According to the lab report, your blood work came back within normal ranges. Your cholesterol levels are healthy, and there are no signs of any major concerns.
+
+Customer (Slightly calmer): Oh, really? That's a relief to hear. But why wasn't I informed about it earlier?
+
+Agent 1: I apologize once again for the lack of communication, Mr. Smith. It was an oversight on our part, and we deeply regret any distress it may have caused you. We'll make sure to address this issue internally to prevent any future occurrences.
+
+Customer: Well, I hope you do. This kind of negligence is unacceptable. Is there anything else I need to know about my results?
+
+Agent 1: No, Mr. Smith, your lab results came back clear. However, I would like to remind you to schedule regular check-ups with your primary care physician to ensure your overall health and well-being.
+
+Customer: I'll keep that in mind. Thank you for finally providing me with the information I needed.
+
+Agent 1: You're welcome, Mr. Smith. Once again, I apologize for the inconvenience. If you have any further questions or concerns, please don't hesitate to reach out to us. We value your feedback and will use it to improve our services.
+
+Customer: I certainly hope so. Goodbye.
+
+Agent 1: Goodbye, Mr. Smith. Have a great day ahead. [/INST] Lab and Test Results </s>

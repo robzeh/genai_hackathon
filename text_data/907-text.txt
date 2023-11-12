@@ -1,0 +1,27 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Oh, finally! I've been trying to get my lab and test results for weeks now, and nobody seems to be able to help me. I am furious!
+
+Agent 2: I'm sorry to hear that you're feeling angry, and I apologize for the inconvenience. I understand how important it is to receive your results promptly. May I have your name and patient ID, please?
+
+Customer: My name is Jessica Adams, and my patient ID is 123456789.
+
+Agent 2: Thank you, Jessica. I'm sorry you've had trouble obtaining your results. Let me check our system for your records.
+
+(Customer waits impatiently)
+
+Agent 2: I apologize for the delay, but it seems that your lab and test results are not available in our system yet. Sometimes, it takes longer for certain tests to be processed. Have you been informed about any potential delays?
+
+Customer: No one has told me anything! This is absolutely ridiculous. I need these results for my follow-up appointment next week, and now I have nothing.
+
+Agent 2: I completely understand your frustration, Jessica. I'm going to escalate this issue to our lab department immediately. They will contact you as soon as your results become available. Can I have a contact number where they can reach you?
+
+Customer: Fine, my number is 555-1234.
+
+Agent 2: Thank you for providing your contact number, Jessica. I assure you that our lab department will prioritize your case and reach out to you as soon as they have an update regarding your results. Is there anything else I can assist you with?
+
+Customer: No, I just really hope someone actually contacts me this time. This whole experience has been a nightmare.
+
+Agent 2: I understand your concerns, Jessica. I will do everything I can to ensure that you receive the attention you deserve. Once again, I apologize for the inconvenience caused, and I appreciate your patience. If you have any further questions or need assistance in the future, please don't hesitate to reach out to us. [/INST] Lab and Test Results </s>

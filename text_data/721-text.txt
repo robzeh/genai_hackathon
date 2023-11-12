@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Rachel Smith. I'm feeling really worried about some symptoms I've been experiencing lately.
+
+Agent 1: I'm sorry to hear that, Rachel. I'm here to help. Can you please describe the symptoms you've been having?
+
+Customer: Well, for the past week, I've been having a persistent headache, along with occasional dizziness and nausea. I also noticed my vision has been blurry at times.
+
+Agent 1: I understand your concern, Rachel. Headaches can be quite distressing. Have you experienced any recent injuries or accidents that might have caused these symptoms?
+
+Customer: No, I haven't had any injuries or accidents recently. These symptoms just started out of the blue.
+
+Agent 1: Okay, I see. It's important to take any new symptoms seriously. Based on what you've described, I would recommend scheduling an appointment with your primary care physician as soon as possible. They will be able to assess your symptoms more thoroughly and provide appropriate medical advice.
+
+Customer: I was hoping to get some initial advice before making an appointment. Is there anything I can do in the meantime to alleviate my symptoms?
+
+Agent 1: I completely understand, Rachel. While I'm not a medical professional, I can suggest some general measures that might help. First, make sure you're staying hydrated and getting enough rest. Avoid any triggers that worsen your symptoms, such as bright lights or loud noises. Over-the-counter pain relievers like acetaminophen or ibuprofen may provide temporary relief, but I strongly advise consulting with a doctor before taking any medication.
+
+Customer: Thank you for the advice, Agent 1. I'll try those measures while I wait for my appointment. Is there anything else I should be aware of or watch out for?
+
+Agent 1: You're welcome, Rachel. I'm glad I could help. In addition to the symptoms you've mentioned, it's important to monitor if you experience any sudden changes, like severe or persistent headaches, difficulty speaking or understanding speech, weakness, or numbness in any part of your body. If any of these symptoms worsen or become more frequent, it's crucial to seek immediate medical attention.
+
+Customer: I appreciate the information, Agent 1. I'll definitely keep an eye out for those warning signs. Is there anything else I should know?
+
+Agent 1: Aside from what we've discussed, it's important to maintain open communication with your healthcare provider. Be sure to inform them of any changes or developments in your symptoms, as well as any concerns or questions you may have. They are the best resource to assist you in diagnosing and managing your condition.
+
+Customer: That's great advice, Agent 1. I will definitely keep my doctor updated. Thank you so much for your help and reassurance.
+
+Agent 1: You're very welcome, Rachel. I'm glad I could assist you. Remember, it's always better to be proactive about your health. If you have any further questions or need any additional assistance, don't hesitate to reach out to us again.
+
+Customer: I will, Agent 1. Thank you again for your time and guidance. Goodbye.
+
+Agent 1: You're welcome, Rachel. Take care of yourself and have a great day. Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

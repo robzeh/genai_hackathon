@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm really scared and anxious right now. I recently had some lab tests done at HealthHarbor, and I haven't received my results yet. Can you please help me?
+
+Agent 1: I'm sorry to hear that you're feeling scared, but don't worry, I'm here to help you. I understand how important it is to get your lab results. May I have your name, please?
+
+Customer: Yes, my name is Emily Johnson.
+
+Agent 1: Thank you, Emily. Let me pull up your records. Could you please verify your date of birth for me?
+
+Customer: Sure, it's May 15th, 1985.
+
+Agent 1: Thank you for confirming that, Emily. I see here that your lab results were sent to the lab for processing. Sometimes, it can take a little longer to receive the results, especially if there's a high volume of tests being conducted. However, I'll do my best to assist you in getting them as soon as possible. 
+
+Customer: Okay, but it's been a week already, and I'm really worried about what the results might show.
+
+Agent 1: I understand your concern, Emily. Let me check if there are any updates on your lab results. Can you please hold on for a moment?
+
+Customer: Yes, of course. I'll hold.
+
+Agent 1: Thank you for waiting, Emily. I apologize for the delay. It seems that your lab results are still pending. However, I'll send an urgent message to the lab to prioritize your test results. 
+
+Customer: Thank you, Agent 1. I appreciate your help. Is there any way to expedite the process?
+
+Agent 1: I completely understand your situation, Emily. Let me check if we can expedite your test results. Please bear with me for a moment.
+
+Customer: Okay, I'll wait. Please try your best.
+
+Agent 1: Thank you for your patience, Emily. I've just spoken with the lab supervisor, and they have assured me that they will prioritize your test results. They have also mentioned that you'll receive a call from the lab directly once the results are ready. 
+
+Customer: Oh, thank you so much, Agent 1. I really appreciate your efforts. I'm just really anxious to know what the results are.
+
+Agent 1: I completely understand, Emily. Is there anything else I can assist you with today?
+
+Customer: No, that's all. I just hope to get my results soon. Thank you for your help, Agent 1.
+
+Agent 1: You're welcome, Emily. I understand how important this is for you. If you have any further questions or concerns, please don't hesitate to reach out to us. Take care, and I hope you receive your results soon.
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Emily. Have a great day. [/INST] Lab and Test Results </s>

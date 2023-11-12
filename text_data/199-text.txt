@@ -1,0 +1,29 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: I am extremely frustrated with your hospital! I recently had some lab tests done and I haven't received my results yet. It's been over a week!
+
+Agent 4: I'm sorry to hear that you're feeling frustrated, sir. I understand how important it is to receive your test results promptly. May I have your name and date of birth, please?
+
+Customer: My name is John Smith, and my date of birth is January 15, 1980.
+
+Agent 4: Thank you, Mr. Smith. Let me check the system for your lab results. I apologize for any inconvenience caused.
+
+(Customer waits for a moment)
+
+Agent 4: I see here that your lab results were indeed received, but there seems to have been a delay in processing them. I apologize for the inconvenience. Let me escalate this issue to our lab department right away.
+
+Customer: This is unacceptable! I need those results urgently. I've been worried sick for days!
+
+Agent 4: I completely understand your concern, Mr. Smith. I assure you that I will do everything in my power to expedite this process for you. I will contact the lab department immediately and request them to prioritize your results. Could you please provide me with your contact number so that I can update you once I have more information?
+
+Customer: Fine, my contact number is 555-1234.
+
+Agent 4: Thank you, Mr. Smith. I will reach out to you as soon as I have an update on your lab results. Is there anything else I can assist you with today?
+
+Customer: No, this is the only issue I have at the moment. I just hope this gets resolved quickly.
+
+Agent 4: I completely understand your frustration, Mr. Smith, and I apologize for any inconvenience caused. Rest assured, we will work diligently to resolve this matter as soon as possible. Thank you for your patience, and have a great day!
+
+(Customer and Agent 4 end the call) [/INST] Lab and Test Results </s>

@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Johnson. I've been experiencing some unusual symptoms lately and I'm not sure if I should be concerned.
+
+Agent 1: Hello, Sarah. I'm here to help. Can you please describe the symptoms you've been experiencing?
+
+Customer: Well, for the past week, I've been having frequent headaches, fatigue, and occasional nausea. I've never had these symptoms before, so I'm a bit worried.
+
+Agent 1: I understand your concern, Sarah. Have you noticed any patterns or triggers for these symptoms?
+
+Customer: Not really. The headaches seem to come and go throughout the day, and I haven't noticed anything specific that triggers them. The fatigue is constant, and the nausea usually occurs in the morning.
+
+Agent 1: Okay, thank you for sharing that information. Based on your symptoms, it's important to consider several possibilities. However, I'm not a medical professional, so it would be best to consult with a healthcare provider. They can assess your symptoms more accurately and provide appropriate advice. Would you like me to help you find a healthcare provider near you?
+
+Customer: Yes, that would be helpful. I'm not familiar with any doctors in my area.
+
+Agent 1: Not a problem, Sarah. May I know your current location, please?
+
+Customer: I'm located in Los Angeles, California.
+
+Agent 1: Great! I have access to our database of healthcare providers in Los Angeles. Give me a moment to find a suitable doctor for you.
+
+(Customer is put on hold for a few minutes)
+
+Agent 1: Sarah, thank you for waiting. I found a few options for you. I have Dr. Emily Anderson, Dr. Michael Roberts, and Dr. Jennifer Lee. They all have positive patient reviews and are accepting new patients. Which one would you prefer?
+
+Customer: I'll go with Dr. Emily Anderson. Can you schedule an appointment for me?
+
+Agent 1: Absolutely, Sarah. I will contact Dr. Anderson's office to check their availability. Could you please provide me with your contact information?
+
+(Customer provides contact information)
+
+Agent 1: Thank you, Sarah. I will reach out to Dr. Anderson's office and get back to you within the next hour with the available appointment options. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Agent 1.
+
+Agent 1: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or concerns, please don't hesitate to call us back. Have a great day!
+
+(Customer hangs up) [/INST] Medical Advice or Symptom Assessment </s>

@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer (Angry): Finally! It took forever to get through to someone! I've been feeling really sick and I need some medical advice.
+
+Agent 1: I apologize for the wait. I understand that you're not feeling well. Could you please tell me what symptoms you're experiencing?
+
+Customer (Angry): I've been having a high fever, severe headache, and body aches. I'm worried it might be something serious.
+
+Agent 1: I'm sorry to hear that you're feeling that way. Based on your symptoms, it's possible that you may have the flu or a viral infection. However, I'm not a doctor, so I would recommend consulting with a healthcare professional for a proper diagnosis. They will be able to give you the best advice and treatment options.
+
+Customer (Angry): What? I called here for medical advice, and now you're telling me to see a doctor? That's ridiculous!
+
+Agent 1: I understand your frustration, but as a call center agent, I'm not qualified to provide a diagnosis or medical advice. We can certainly help in guiding you, but for specific medical concerns, it's always best to consult a healthcare professional who can assess your symptoms in person.
+
+Customer (Angry): This is unacceptable! I expected more from a healthcare company. Can't you at least recommend some home remedies or over-the-counter medication?
+
+Agent 1: I apologize if I've let you down. I can certainly provide some general suggestions to help alleviate your symptoms. For fever, you can try taking over-the-counter fever reducers like acetaminophen or ibuprofen. It's important to rest and stay hydrated. If your symptoms worsen or persist, it's crucial to seek medical attention.
+
+Customer (Angry): Well, I guess that's better than nothing. I'll try those remedies. But I still think you should be able to do more.
+
+Agent 1: I understand your frustration, and I appreciate your feedback. We constantly strive to improve our services and meet our customers' expectations. Is there anything else I can assist you with today?
+
+Customer (Angry): No, I guess not. I'll just have to figure it out on my own. Thanks for your "help."
+
+Agent 1: I'm sorry if I couldn't meet your expectations today. If you have any further questions or concerns in the future, please don't hesitate to reach out to us. Take care and I hope you feel better soon.
+
+Customer (Angry): Whatever. Goodbye.
+
+Agent 1: Goodbye, and have a nice day. [/INST] Medical Advice or Symptom Assessment </s>

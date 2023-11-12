@@ -1,0 +1,27 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Good morning, thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Thompson. I'm feeling really scared and I need some medical advice.
+
+Agent 3: I'm here to help you, Sarah. What seems to be the problem? Can you tell me about your symptoms?
+
+Customer: Well, I've been having a persistent cough for the past few days, and it's been getting worse. I also have a high fever and I feel extremely fatigued. I'm really worried it could be something serious.
+
+Agent 3: I understand your concerns, Sarah. Based on your symptoms, it's important to take them seriously. I'm not a doctor, but I can try to provide some general guidance. Have you traveled recently or come into contact with anyone who has been sick?
+
+Customer: No, I haven't traveled anywhere and I don't know anyone who's been sick.
+
+Agent 3: Okay, it's good to rule out any potential exposure. Given your symptoms, it's possible that you may have a respiratory infection. However, I strongly recommend you consult with a healthcare professional to get a proper diagnosis and appropriate treatment. They will be able to assess your condition more accurately.
+
+Customer: I'm just really scared. With everything that's been happening lately, I'm worried it could be COVID-19.
+
+Agent 3: I completely understand your concern, Sarah. COVID-19 is a serious issue, and it's important to take precautions. However, it's also important to remember that there are many other respiratory illnesses that can cause similar symptoms. To be sure, it's best to consult with a healthcare professional who can evaluate your symptoms and order any necessary tests.
+
+Customer: You're right. I should call my doctor and get an appointment. Thank you for your advice, Agent 3.
+
+Agent 3: You're welcome, Sarah. I'm glad I could help. Remember, it's always better to err on the side of caution when it comes to your health. If you have any other questions or concerns, feel free to reach out to us again. Take care and I hope you feel better soon.
+
+Customer: Thank you, Agent 3. I appreciate your assistance. Goodbye.
+
+Agent 3: Goodbye, Sarah. Take care and stay safe. [/INST] Medical Advice or Symptom Assessment </s>

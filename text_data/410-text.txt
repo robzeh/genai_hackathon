@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is John Smith. I'm calling to request my medical records from your hospital.
+
+Agent 1: Thank you for reaching out, Mr. Smith. I'm happy to assist you with that. Can you please provide me with your date of birth and the dates of the records you are requesting?
+
+Customer: Sure, my date of birth is June 15, 1985. I would like to request records from January 1, 2018, to December 31, 2019.
+
+Agent 1: Thank you for providing the details, Mr. Smith. To ensure accuracy, could you also verify your address and contact number?
+
+Customer: Yes, my address is 123 Main Street, Anytown, and my contact number is 555-1234.
+
+Agent 1: Great, thank you for confirming that information. Now, I need to inform you that there may be a fee associated with obtaining your medical records. Have you been informed about this?
+
+Customer: No, I wasn't aware of any fees. Can you please let me know how much it will cost?
+
+Agent 1: Certainly, the fee for medical record requests at HealthHarbor is $25 for the first 20 pages, and an additional $0.50 per page thereafter. Please note that this fee is subject to change based on the size and complexity of your records.
+
+Customer: Okay, that sounds reasonable. How can I make the payment?
+
+Agent 1: We accept payment via credit card over the phone. Once we have processed your request and determined the total number of pages, we will provide you with the exact amount and assist you with the payment.
+
+Customer: Alright, that works for me. How long will it take for me to receive the records?
+
+Agent 1: Our standard processing time is within 10 business days. However, it may vary depending on the volume of requests we have at the moment. Rest assured, we will do our best to get your records to you as soon as possible.
+
+Customer: That's understandable. Is there any way to expedite the process if I need the records urgently?
+
+Agent 1: Yes, we do offer expedited processing for an additional fee of $50. This will prioritize your request and you can expect to receive your records within 3 business days.
+
+Customer: I see. I think I'll opt for the standard processing time to avoid the extra cost. Is there anything else I need to know or do?
+
+Agent 1: No, Mr. Smith. Once we have received your payment, we will begin processing your request. You will be notified when the records are ready for pick-up or if they need to be sent by mail. If you have any further questions or concerns, please don't hesitate to reach out to us.
+
+Customer: Thank you, Agent 1. I appreciate your assistance.
+
+Agent 1: You're welcome, Mr. Smith. It was my pleasure assisting you today. If you have any other healthcare-related questions in the future, feel free to contact HealthHarbor. Have a great day!
+
+Customer: You too. Goodbye.
+
+Agent 1: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

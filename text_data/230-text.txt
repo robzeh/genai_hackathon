@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm calling to get some information about the services provided at HealthHarbor.
+
+Agent 3: Of course, I'd be happy to help. Can I have your name, please?
+
+Customer: Yes, my name is John Smith.
+
+Agent 3: Thank you, John. How can I assist you today?
+
+Customer: I'm interested in learning about the medical services offered at HealthHarbor. Could you provide me with an overview?
+
+Agent 3: Certainly, John. HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We have departments specializing in cardiology, orthopedics, neurology, pediatrics, and more. We also have an emergency department, a laboratory, and diagnostic imaging services.
+
+Customer: That sounds impressive. Do you provide any surgical services as well?
+
+Agent 3: Yes, we do. HealthHarbor has state-of-the-art operating rooms where we perform various surgical procedures. Our surgical team is highly skilled and experienced in a wide range of specialties.
+
+Customer: That's great to know. How about primary care services? Do you have general practitioners available?
+
+Agent 3: Absolutely, John. We have a team of primary care physicians who offer comprehensive healthcare services for individuals of all ages. They provide routine check-ups, preventive care, and can help manage chronic conditions.
+
+Customer: Excellent. Can you tell me more about the emergency department?
+
+Agent 3: Our emergency department is open 24/7 and is equipped to handle a wide range of medical emergencies. We have dedicated emergency physicians, nurses, and support staff who prioritize patient care. Our goal is to provide prompt and efficient emergency medical services to those in need.
+
+Customer: That's reassuring to hear. What about specialized services like physical therapy or rehabilitation?
+
+Agent 3: HealthHarbor has a dedicated rehabilitation department that offers various therapies, including physical therapy, occupational therapy, and speech therapy. Our team of therapists works closely with patients to help them regain their strength, mobility, and independence.
+
+Customer: That's fantastic. How about insurance coverage? Does HealthHarbor accept all insurance providers?
+
+Agent 3: We work with most major insurance providers, but it's always best to check with your specific insurance company to ensure coverage. Our billing department can assist you in verifying your insurance coverage and provide any necessary information.
+
+Customer: Alright, I'll make sure to do that. One last question, are there any additional services or amenities that HealthHarbor offers?
+
+Agent 3: Yes, John. In addition to our medical services, we have a pharmacy conveniently located within the hospital. We also have a cafeteria, a gift shop, and ample parking for visitors. Our goal is to provide a comfortable and convenient experience for our patients and their loved ones.
+
+Customer: That's great to hear. Thank you for all the information, Agent 3. You've been very helpful.
+
+Agent 3: You're welcome, John. I'm glad I could assist you. If you have any further questions or need any additional information, please don't hesitate to reach out to us. We're here to help.
+
+Customer: I appreciate that. Thank you again, and have a great day.
+
+Agent 3: You're welcome, John. You have a great day too. Take care! [/INST] Healthcare Facility Information </s>

@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. I'm really scared right now. I recently had some lab and test done, and I haven't received the results yet. I'm worried about what they might show.
+
+Agent 2: I understand your concern, and I'm here to help. May I have your name and date of birth, please, so I can look up your records?
+
+Customer: Yes, my name is Sarah Johnson and my date of birth is March 15, 1985.
+
+Agent 2: Thank you, Sarah. Let me check your file. I see that your lab and test results came in yesterday. I apologize for the delay in contacting you. 
+
+Customer: Oh, thank you for checking. Can you please tell me what the results show?
+
+Agent 2: I'm sorry, but as a call center agent, I don't have access to the specific results. However, I can connect you with your primary care physician who will be able to discuss them with you in detail. Would you like me to schedule an appointment for you?
+
+Customer: Yes, please! I need to know what's going on. I'm really scared about this.
+
+Agent 2: I understand, Sarah. Let me check the availability of your primary care physician. Can you hold for a moment?
+
+Customer: Of course, I'll wait. Please hurry.
+
+Agent 2: Thank you for holding, Sarah. I have scheduled an appointment for you with Dr. Smith. The earliest available slot is tomorrow at 2:00 PM. Does that work for you?
+
+Customer: Yes, that works for me. Thank you for scheduling it so quickly.
+
+Agent 2: You're welcome, Sarah. I understand this is a difficult time for you, and we want to ensure you receive the necessary care. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Agent 2.
+
+Agent 2: You're welcome, Sarah. Remember, if you have any questions or concerns before your appointment, don't hesitate to reach out to us. Take care and try to stay positive. Goodbye.
+
+Customer: Thank you, Agent 2. Goodbye. [/INST] Lab and Test Results </s>

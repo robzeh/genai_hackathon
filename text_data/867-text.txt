@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2, how can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold for ages. I need to request my medical records, and I am not happy about it.
+
+Agent 2: I'm sorry to hear that you've been waiting for so long. I understand that you're angry, and I apologize for any inconvenience caused. I'll do my best to help you with your medical records request. May I have your name please?
+
+Customer: It's John Smith. I can't believe I have to go through all of this just to get my own medical records. This is ridiculous!
+
+Agent 2: I understand your frustration, Mr. Smith. Requesting medical records can sometimes be a lengthy process, but we are here to assist you. Could you please provide me with your date of birth and address for verification purposes?
+
+Customer: Fine, it's June 15th, 1980, and my address is 123 Main Street.
+
+Agent 2: Thank you for providing that information, Mr. Smith. Now, could you let me know what specific medical records you are looking to obtain?
+
+Customer: I need a copy of all my records from the past five years. I'm switching doctors, and they require all my medical history.
+
+Agent 2: I understand. In order to process your request, I will need you to complete a medical records release form. Can I email it to you, or would you prefer a physical copy sent to your address?
+
+Customer: Just email it to me. I don't want to wait for a physical copy.
+
+Agent 2: Noted. I will send the form to the email address we have on file for you. Please double-check your email address to ensure it's accurate.
+
+Customer: It's johnsmith@email.com. Make sure you send it right away.
+
+Agent 2: I will send it as soon as we hang up, Mr. Smith. Once you receive the form, please fill it out and send it back to us. Once we receive the completed form, we will process your request within 10 business days.
+
+Customer: 10 business days?! Are you kidding me? I need those records sooner than that!
+
+Agent 2: I apologize for any inconvenience, Mr. Smith. Our standard processing time is 10 business days, but I understand your urgency. Let me check if we can expedite your request. Please hold for a moment.
+
+(Customer is put on hold for a few minutes)
+
+Agent 2: Thank you for holding, Mr. Smith. I have spoken with our medical records department, and I'm pleased to inform you that they will prioritize your request. You should receive your records within 5 business days instead.
+
+Customer: Well, it's about time! I appreciate you expediting my request. I hope this doesn't happen again in the future.
+
+Agent 2: I understand your frustration, Mr. Smith, and I apologize for the inconvenience caused. We strive to provide excellent service, and we appreciate your feedback. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Just make sure my records arrive on time.
+
+Agent 2: Absolutely, Mr. Smith. I'll make a note to ensure your records are delivered promptly. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: Goodbye. [/INST] Medical Records Requests </s>

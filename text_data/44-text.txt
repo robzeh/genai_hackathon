@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I recently had some lab tests done at your hospital, and I'm really worried about the results.
+
+Agent 4: I understand how concerning that can be, Emily. Could you please provide me with your date of birth and the date you had the tests done? This will help me locate your records and provide you with accurate information.
+
+Customer: Sure, my date of birth is June 15, 1985, and I had the tests done on July 25, 2021.
+
+Agent 4: Thank you for providing that information, Emily. Let me pull up your records. Please bear with me for a moment.
+
+(Customer waits patiently)
+
+Agent 4: I have found your records, Emily. Before we proceed, I want to assure you that your privacy is important to us, and I will only discuss the information relevant to your test results. Now, what specific concerns do you have?
+
+Customer: Well, I've been experiencing some symptoms lately, and I'm worried that the test results might indicate something serious.
+
+Agent 4: I understand your worry, Emily. Let me check the results of your tests. (Agent 4 reviews the results) Based on the information here, it appears that your test results are within the normal range. However, I am not a doctor, and I highly recommend that you schedule an appointment with your primary care physician to discuss your symptoms in detail. They will be able to give you a more accurate assessment and provide appropriate guidance.
+
+Customer: Thank you for checking, Agent 4. I appreciate your help. I will definitely make an appointment with my doctor. It's just that I couldn't help but worry.
+
+Agent 4: It's completely understandable, Emily. Your health is important, and it's always better to be proactive. If you have any further questions or concerns, feel free to reach out to us. We are here to assist you.
+
+Customer: I'm glad to hear that. Thank you for your support and guidance, Agent 4. You've been really helpful.
+
+Agent 4: You're most welcome, Emily. It was my pleasure to assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again, Agent 4. Have a great day!
+
+Agent 4: You're welcome, Emily. Take care and have a wonderful day too! Remember, we're just a call away if you need anything in the future. Goodbye! [/INST] Lab and Test Results </s>

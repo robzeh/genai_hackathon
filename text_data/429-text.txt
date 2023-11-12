@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone picked up! I've been trying to reach your hospital for days. I need to request my medical records, and nobody seems to be able to help me!
+
+Agent 2: I apologize for the inconvenience, sir. I understand your frustration. I'll do my best to assist you with your medical records request. May I have your name, please?
+
+Customer: It's John Smith.
+
+Agent 2: Thank you, Mr. Smith. Could you please provide me with your date of birth and the approximate dates of the medical records you're requesting?
+
+Customer: My date of birth is August 15, 1975. I need the records from my surgery last year, which took place on September 10th.
+
+Agent 2: Thank you for the information, Mr. Smith. I will need to verify your identity before proceeding. Can you please provide me with your address and phone number on file?
+
+Customer: This is ridiculous! I've already provided all this information when I called earlier! Can't you find it in your system?
+
+Agent 2: I apologize for the inconvenience, Mr. Smith. Due to security reasons, I need to confirm your details once again. Your address and phone number are essential for the verification process.
+
+Customer: Fine! My address is 123 Main Street, and my phone number is 555-1234.
+
+Agent 2: Thank you for confirming, Mr. Smith. I apologize for any frustration caused. Now, regarding your medical records request, I will need to transfer you to our Medical Records department. They will be able to assist you further. Please hold the line while I connect you.
+
+(Customer is put on hold)
+
+Agent 2: (after a short wait) Mr. Smith, thank you for your patience. I have successfully connected you to our Medical Records department. They will be able to assist you further. Is there anything else I can help you with?
+
+Customer: About time! No, thank you. I just hope they can actually help me.
+
+Agent 2: I understand your frustration, Mr. Smith. I apologize for any inconvenience caused. If you have any further questions or concerns, please don't hesitate to call us back. Have a good day, sir.
+
+(Customer hangs up) [/INST] Medical Records Requests </s>

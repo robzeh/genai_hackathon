@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good morning, thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Finally! I've been trying to get my medical records from your hospital for weeks now, and nobody seems to be able to help me. This is ridiculous!
+
+Agent 1: I'm sorry to hear that you're having trouble. I understand your frustration. I'll do my best to assist you with your medical records request. May I please have your name and date of birth?
+
+Customer: My name is Sarah Johnson and my date of birth is January 15, 1985.
+
+Agent 1: Thank you, Sarah. I apologize for any inconvenience caused. Let me check the status of your medical records request. 
+
+(Customer waits for a few moments)
+
+Agent 1: I'm sorry, but I couldn't find any information about your request in our system. Can you please provide me with some additional details about your request?
+
+Customer: Are you kidding me? I've called multiple times and provided all the necessary information. This is absolutely ridiculous!
+
+Agent 1: I understand your frustration, Sarah. I apologize for the inconvenience this has caused you. Let me escalate this issue to our medical records department. They will investigate and get back to you as soon as possible. Can I have your contact number?
+
+Customer: Fine! My contact number is 555-1234.
+
+Agent 1: Thank you, Sarah. I will make sure the medical records department contacts you regarding your request. Is there anything else I can assist you with?
+
+Customer: No, I just want my medical records. This has been such a hassle!
+
+Agent 1: I completely understand, Sarah. We will prioritize your request and ensure that it's resolved promptly. Again, I apologize for the inconvenience caused. 
+
+(Customer remains silent)
+
+Agent 1: Sarah, I want to assure you that we take these matters seriously and will do our best to address your concerns. Is there anything else I can assist you with today?
+
+Customer: No, just make sure someone contacts me soon regarding my medical records.
+
+Agent 1: Absolutely, Sarah. I will personally follow up with the medical records department to expedite the resolution of your request. Thank you for your patience, and I apologize once again for any inconvenience caused. Have a good day.
+
+(Customer hangs up) [/INST] Medical Records Requests </s>

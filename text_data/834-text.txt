@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is John Smith, and I'm calling to request my medical records.
+
+Agent 4: Hello, Mr. Smith. I'm happy to help you with that. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure, my date of birth is October 15, 1985. I need my records for insurance purposes.
+
+Agent 4: Thank you for providing that information, Mr. Smith. To better assist you, could you please confirm your address and contact number?
+
+Customer: Certainly. My address is 123 Main Street, Anytown, and my phone number is 555-1234.
+
+Agent 4: Thank you, Mr. Smith. I will now access your records. Please bear with me for a moment.
+
+(Customer and Agent 4 wait for a few seconds)
+
+Agent 4: I have located your records, Mr. Smith. Before we proceed, I need to verify your identity for security purposes. Can you please provide me with the last four digits of your social security number?
+
+Customer: Of course, the last four digits are 5678.
+
+Agent 4: Thank you for confirming, Mr. Smith. Now, regarding your medical records request, are you looking for your complete records or specific documents?
+
+Customer: I just need a copy of my recent lab results and any imaging reports from the past year.
+
+Agent 4: Understood, Mr. Smith. I will make a note of that. Please allow me a moment to process your request.
+
+(Customer and Agent 4 wait for a few seconds)
+
+Agent 4: Your request has been processed, and we will mail the copies of your requested records to the address you provided. Is there anything else I can assist you with today?
+
+Customer: That's all I needed, Agent 4. Thank you for your help.
+
+Agent 4: You're welcome, Mr. Smith. If you have any further questions or need assistance in the future, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Mr. Smith. Take care! [/INST] Medical Records Requests </s>

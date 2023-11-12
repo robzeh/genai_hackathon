@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi, Agent 2. I'm John Smith and I need to request my medical records from your hospital. I'm feeling quite worried as I need them urgently for an upcoming appointment with a specialist.
+
+Agent 2: I understand your concern, Mr. Smith. I'll do my best to help you with that. Can you please provide me with your date of birth and any other relevant information to locate your records?
+
+Customer: Sure, my date of birth is June 15, 1980. I was last admitted to HealthHarbor on January 10, 2021, for a minor surgery. Does that help?
+
+Agent 2: Thank you for providing that information, Mr. Smith. Let me check our system to locate your records. Please bear with me for a moment.
+
+(Customer waits)
+
+Agent 2: I apologize for the delay, Mr. Smith. It seems that I'm having some trouble accessing your records at the moment. However, I assure you that I'll do everything I can to resolve this issue. Could you please provide me with an alternate form of identification, such as your driver's license or social security number?
+
+Customer: Of course, my driver's license number is 12345678.
+
+Agent 2: Thank you, Mr. Smith. Let me try again with this additional information.
+
+(Customer waits)
+
+Agent 2: I apologize for the inconvenience, but it appears that I'm still unable to locate your records. I understand that you're worried, and I apologize for any frustration this may be causing. I will escalate this issue to our medical records department, and they will contact you directly within 24 hours to resolve this matter. Is there a preferred contact number where they can reach you?
+
+Customer: Yes, my phone number is 555-123-4567. I appreciate your help, Agent 2. I hope the medical records department can assist me soon.
+
+Agent 2: You're welcome, Mr. Smith. I understand the urgency, and I'll make sure to convey that to the medical records department. They will reach out to you as soon as possible. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. I just hope this issue gets resolved soon. Thank you for your understanding and assistance, Agent 2.
+
+Agent 2: I completely understand your concern, Mr. Smith. Rest assured that we will do our best to resolve this matter promptly. Thank you for reaching out to HealthHarbor, and we apologize for any inconvenience caused. Take care and have a good day.
+
+Customer: Thank you, Agent 2. Goodbye. [/INST] Medical Records Requests </s>

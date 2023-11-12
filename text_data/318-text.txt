@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Call Center Agent: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi Agent 1, my name is Sarah Johnson. I'm calling because I wanted to get some information about your healthcare facility, HealthHarbor.
+
+Agent 1: Hi Sarah, thank you for reaching out. I'd be happy to provide you with information about HealthHarbor. What specifically would you like to know?
+
+Customer: Well, I'm interested in knowing what kind of medical services HealthHarbor offers. Can you give me a brief overview?
+
+Agent 1: Absolutely, Sarah. HealthHarbor is a comprehensive healthcare facility that provides a wide range of medical services. We have departments for primary care, emergency care, surgery, radiology, and various specialty clinics. Our goal is to ensure that patients receive high-quality care in a comfortable and compassionate environment.
+
+Customer: That sounds great. I'm particularly interested in the specialty clinics. Can you tell me more about them?
+
+Agent 1: Of course, Sarah. Our specialty clinics cover a range of medical areas, including cardiology, orthopedics, neurology, gastroenterology, and many more. These clinics are staffed with highly skilled specialists who are dedicated to providing specialized care to patients with specific medical conditions. We also offer support services such as physical therapy and rehabilitation.
+
+Customer: That's impressive. Does HealthHarbor accept insurance? I have coverage with BlueCross.
+
+Agent 1: Yes, Sarah, we do accept insurance. HealthHarbor works with a wide range of insurance providers, including BlueCross. However, I would recommend contacting your insurance provider to confirm your coverage and any specific requirements they may have.
+
+Customer: That makes sense. I'll definitely check with my insurance provider. Another question I have is about the availability of appointments. How easy is it to schedule an appointment at HealthHarbor?
+
+Agent 1: Scheduling an appointment at HealthHarbor is typically quite easy, Sarah. We have a user-friendly online platform where you can request appointments, or you can simply call our appointment line to speak with one of our scheduling specialists. Our goal is to accommodate patients as efficiently as possible, but availability may vary based on the type of appointment and the availability of our healthcare professionals.
+
+Customer: That's good to know. I appreciate the convenience of online scheduling. One last thing, what are the visiting hours for patients at HealthHarbor?
+
+Agent 1: Visiting hours at HealthHarbor may vary depending on the department and the patient's condition. Generally, we have flexible visiting hours to ensure that patients receive the support they need from their loved ones. However, I would recommend checking with the specific department or unit where your loved one would be staying for more accurate visiting hour information.
+
+Customer: Alright, thank you for all the information, Agent 1. You've been very helpful.
+
+Agent 1: You're welcome, Sarah. I'm glad I could assist you. If you have any more questions or need further information, feel free to reach out to us anytime. We're here to help.
+
+Customer: I will definitely keep that in mind. Thanks again, Agent 1. Have a great day!
+
+Agent 1: You're welcome, Sarah. You have a great day too! Take care. Goodbye! [/INST] Healthcare Facility Information </s>

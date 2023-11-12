@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold forever! I need some medical advice right away.
+
+Agent 4: I apologize for the wait, and I understand your urgency. I'll do my best to assist you. Can you please provide me with your name?
+
+Customer: My name is Sarah Thompson.
+
+Agent 4: Thank you, Sarah. What seems to be the problem today?
+
+Customer: I've been experiencing severe headaches for the past week, and they just won't go away. It's affecting my daily life, and I'm really frustrated!
+
+Agent 4: I'm sorry to hear that, Sarah. Headaches can be quite debilitating. Have you tried any over-the-counter pain relievers yet?
+
+Customer: Yes, I've tried taking some ibuprofen, but it only provides temporary relief. The headaches keep coming back.
+
+Agent 4: I understand your frustration, Sarah. Since the headaches are persistent, it's important for you to consult with a healthcare professional. Have you considered scheduling an appointment with your primary care doctor?
+
+Customer: I don't have a primary care doctor, and I can't wait for an appointment. Is there anything else I can do?
+
+Agent 4: I can understand your urgency, Sarah. In that case, it might be a good idea for you to visit an urgent care center. They can provide you with a thorough evaluation and suggest appropriate treatment options for your headaches.
+
+Customer: Urgent care, huh? Alright, I guess I can try that. Do you know of any urgent care centers near my location?
+
+Agent 4: Yes, of course. Can you please provide me with your zip code so that I can find the nearest urgent care center for you?
+
+Customer: My zip code is 12345.
+
+Agent 4: Thank you, Sarah. Give me a moment to find the nearest urgent care center for you. 
+
+(Customer waits for a few seconds)
+
+Agent 4: I found an urgent care center near your location, Sarah. It's called QuickCare Urgent Care. The address is 123 Main Street. They are open until 8 PM today. Would you like me to provide you with their phone number?
+
+Customer: Yes, please. I want to call them right away.
+
+Agent 4: The phone number for QuickCare Urgent Care is 555-1234. I hope they can provide you with the help you need. Is there anything else I can assist you with today, Sarah?
+
+Customer: No, that should be it for now. Thank you for your help, Agent 4.
+
+Agent 4: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or concerns, don't hesitate to reach out. Take care and I hope you feel better soon!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Sarah. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

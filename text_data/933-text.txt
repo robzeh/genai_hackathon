@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, my name is Emily Johnson. I need to request my medical records, but I'm really scared about how to go about it.
+
+Agent 1: Hi Emily, I understand this can be a daunting process. Don't worry, I'm here to help you. Can you please provide me with your date of birth and a contact number?
+
+Customer: Sure, my date of birth is May 17, 1985, and my contact number is 555-1234.
+
+Agent 1: Thank you, Emily. Let me pull up your information. While I do that, can you please let me know the reason for requesting your medical records?
+
+Customer: I'm changing doctors, and my new doctor requires all my previous medical history. I want to make sure they have all the necessary information to provide the best care for me.
+
+Agent 1: I completely understand, Emily. Your health is important, and having your complete medical history will definitely help your new doctor. Now, to process your request, I'll need you to fill out a form. Would you like me to email it to you or would you prefer a physical copy mailed to your address?
+
+Customer: I think I would prefer a physical copy mailed to my address. Can you please confirm the address you have on file for me?
+
+Agent 1: Of course, Emily. I have your address as 123 Main Street, Anytown, USA. Is that correct?
+
+Customer: Yes, that's correct. Thank you.
+
+Agent 1: You're welcome. Now, please allow me a moment to generate the form and initiate the request. Once the form is ready, I'll provide you with a reference number for tracking purposes. Is that alright?
+
+Customer: Yes, that sounds good. Thank you for your assistance.
+
+[Short pause]
+
+Agent 1: Alright, Emily. I have generated the form and initiated your medical records request. Your reference number is MH123456. Please keep this number handy for any future inquiries regarding your request.
+
+Customer: Thank you so much, Agent 1. I really appreciate your help. Is there anything else I need to do?
+
+Agent 1: You're welcome, Emily. You've done everything necessary for now. Our team will process your request, and you should receive your medical records within 10-14 business days. If there are any delays or issues, we will reach out to you directly.
+
+Customer: Okay, I understand. I'll be sure to keep an eye out for any updates. Thank you again for your assistance.
+
+Agent 1: It was my pleasure, Emily. If you have any further questions or concerns, please don't hesitate to reach out to us. We're here to help. Take care!
+
+Customer: Thank you, Agent 1. Have a great day. Goodbye.
+
+Agent 1: You too, Emily. Goodbye and take care. [/INST] Medical Records Requests </s>

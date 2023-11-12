@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3. My name is Emily Johnson. I'm calling to request my medical records. Can you help me with that?
+
+Agent 3: Of course, Emily. I'll be happy to assist you with your medical records request. Can you please provide me with your date of birth and the name of the healthcare provider you were seeing?
+
+Customer: My date of birth is January 15, 1985, and I was seeing Dr. Smith at HealthHarbor.
+
+Agent 3: Thank you for providing that information, Emily. Now, to process your request, I will need your written consent. We have a form that you can fill out electronically and submit online. Would that be convenient for you?
+
+Customer: Yes, that sounds convenient. Can you please guide me on how to access the form?
+
+Agent 3: Certainly, Emily. I will provide you with a link via email where you can access the form. Please provide me with your email address, and I'll send it to you right away.
+
+Customer: My email address is emilyjohnson@email.com.
+
+Agent 3: Thank you, Emily. I've sent you an email with the link to the form. Once you've filled it out, please submit it, and our team will process your request within 5-7 business days. Is there anything else I can assist you with?
+
+Customer: Actually, I have a question about the medical records fee. Will there be any charges for this request?
+
+Agent 3: That's a great question, Emily. HealthHarbor does charge a nominal fee for medical records requests to cover administrative costs. However, the exact fee will depend on the number of pages and any additional services requested. Once we receive your form, our team will review your request and inform you of the fee before proceeding. Rest assured, we strive to keep the fees as reasonable as possible.
+
+Customer: I understand. Thank you for clarifying that. I have one more question. Can you provide me with an estimate of how many pages my medical records might have?
+
+Agent 3: I apologize, Emily, but I don't have immediate access to that information. The number of pages can vary depending on your medical history and the duration of your visits. However, our team will provide you with the exact number once they process your request. Is there anything else I can assist you with?
+
+Customer: No, that's all. Thank you for your help, Agent 3. I appreciate your assistance.
+
+Agent 3: You're welcome, Emily. It was my pleasure assisting you today. If you have any other questions in the future, feel free to contact us. Have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye.
+
+Agent 3: Goodbye, Emily. Take care. [/INST] Medical Records Requests </s>

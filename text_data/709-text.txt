@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone answered! I've been trying to get through to this hospital for days now. I need to request my medical records, and nobody seems to be able to help me!
+
+Agent 2: I apologize for the inconvenience, sir. I understand your frustration. I'll do my best to assist you with your medical records request. Can you please provide me with your name and date of birth?
+
+Customer: My name is John Smith, and my date of birth is January 15, 1978. I hope you can actually help me because I've been getting the runaround.
+
+Agent 2: I'm sorry to hear about your experience, Mr. Smith. Rest assured, I'll do everything I can to resolve this for you. Could you please tell me the reason for your medical records request?
+
+Customer: I need a copy of my medical records for a specialist I'm seeing next week. They require all my past medical history, and I can't afford any delays.
+
+Agent 2: I completely understand the urgency, Mr. Smith. Let me check if your medical records are available in our system. Can you please hold for a moment while I look into this for you?
+
+Customer: Fine, but make it quick. I don't have all day.
+
+[Agent 2 puts the customer on hold and checks the system]
+
+Agent 2: Thank you for your patience, Mr. Smith. I apologize for the wait. I've checked our system, and it appears that your medical records are not available electronically. In this case, we'll need to request your records from our medical records department.
+
+Customer: Are you kidding me? I've been waiting for weeks, and now you're telling me they're not even in the system? This is ridiculous!
+
+Agent 2: I understand your frustration, Mr. Smith, and I apologize for the inconvenience. Unfortunately, there are times when certain records are not available electronically. I assure you that I will personally expedite your request with our medical records department. Can you please provide me with your contact information so that I can update you on the progress?
+
+Customer: Fine, my phone number is 555-123-4567. But I better not have to wait another week for this!
+
+Agent 2: I completely understand your concern, Mr. Smith, and I assure you that I will follow up with the medical records department right away. Is there any specific information you need from your records, or would you like a copy of your entire medical history?
+
+Customer: I need a copy of my entire medical history. The specialist needs a comprehensive overview of my past health conditions and treatments. I can't risk missing any crucial information.
+
+Agent 2: Noted, Mr. Smith. I will make sure the medical records department understands the urgency of your request. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Just make sure my records are sent to me as soon as possible. This whole process has been a nightmare.
+
+Agent 2: I completely understand, Mr. Smith, and I apologize for the inconvenience. I will personally ensure your medical records are processed and sent to you promptly. Thank you for choosing HealthHarbor, and I hope we can resolve this matter to your satisfaction.
+
+Customer: Well, I certainly hope so. Goodbye.
+
+Agent 2: Goodbye, Mr. Smith. Have a great day. [/INST] Medical Records Requests </s>

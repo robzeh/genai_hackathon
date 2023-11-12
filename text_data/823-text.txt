@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emma Johnson. I'm feeling really worried about my health and I was hoping you could help me with some general inquiries.
+
+Agent 4: Of course, Emma. I'm here to help. What seems to be the issue?
+
+Customer: Well, I've been experiencing some persistent headaches and I'm not sure if I should be concerned. Can you give me any advice?
+
+Agent 4: I'm not a medical professional, but headaches can have various causes. It might be helpful for you to schedule an appointment with a healthcare provider to discuss your symptoms in more detail. They can provide a proper evaluation and recommend any necessary treatment.
+
+Customer: I understand, but I'm just worried it could be something serious. Is there any way to get a general idea of what it might be?
+
+Agent 4: I completely understand your concern, Emma. However, it's important to note that only a healthcare professional can provide an accurate diagnosis. It's always best to consult with a doctor who can evaluate your specific symptoms and medical history.
+
+Customer: Alright, I guess you're right. I'll make an appointment with my doctor. Thank you for your advice.
+
+Agent 4: You're welcome, Emma. Is there anything else I can assist you with?
+
+Customer: Actually, yes. I recently moved to a new city and I'm looking for a primary care physician. Can you help me find one near my location?
+
+Agent 4: Absolutely, Emma. I can assist you with that. Can you please provide me with your new city and zip code?
+
+Customer: I'm currently residing in Springfield, zip code 12345.
+
+Agent 4: Thank you for providing that information, Emma. Let me search our database for primary care physicians in Springfield, zip code 12345. Please bear with me for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 4: I apologize for the delay, Emma. I have found a few primary care physicians near your location. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. That would be very helpful.
+
+Agent 4: I have three options for you. Dr. Smith at Springfield Medical Center, Dr. Johnson at Springfield Family Clinic, and Dr. Anderson at Springfield Health Associates. Would you like me to provide you with their phone numbers?
+
+Customer: Yes, please. Could you give me the numbers for Dr. Smith and Dr. Anderson?
+
+Agent 4: Certainly, Emma. The phone number for Dr. Smith at Springfield Medical Center is (555) 123-4567. And the phone number for Dr. Anderson at Springfield Health Associates is (555) 987-6543. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you so much for your help, Agent 4.
+
+Agent 4: You're welcome, Emma. I'm glad I could assist you. If you have any further questions or concerns, please don't hesitate to reach out. Take care and have a great day!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Emma. Have a wonderful day! [/INST] General Inquiries </s>

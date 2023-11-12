@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm really worried about some symptoms I've been experiencing lately. I'm not sure what's going on and I thought it would be best to seek some medical advice.
+
+Agent 3: I'm here to help you. Can you please provide me with your name?
+
+Customer: Sure, my name is Emily Johnson.
+
+Agent 3: Thank you, Emily. Can you describe the symptoms you've been experiencing?
+
+Customer: Well, I've been having persistent headaches, fatigue, and occasional dizziness. It's been going on for a couple of weeks now and it's really starting to concern me.
+
+Agent 3: I understand your concern, Emily. Have you experienced any other symptoms along with these?
+
+Customer: Yes, I've also been feeling nauseous at times and my appetite has decreased significantly.
+
+Agent 3: I'm not a doctor, but based on your symptoms, it could be worth considering making an appointment with a healthcare professional. They would be able to assess your condition more accurately and provide appropriate medical advice. Would you like me to help you schedule an appointment?
+
+Customer: Yes, please. That would be great. I'm just really worried that it could be something serious.
+
+Agent 3: I completely understand your concerns, Emily. Let me check the availability of our healthcare providers in your area. Can you please provide me with your zip code?
+
+Customer: My zip code is 12345.
+
+Agent 3: Thank you, Emily. I have found a few healthcare providers near you. I will provide you with their names, contact information, and available appointment times. Please keep in mind that these are just suggestions, and it's important for you to choose a provider that suits your needs and preferences.
+
+Agent 3: The first provider is Dr. Sarah Thompson. She is available tomorrow at 10 AM. The second option is Dr. Mark Davis, available on Friday at 2 PM. And finally, we have Dr. Jennifer Anderson, available next Monday at 9 AM. Which one works best for you?
+
+Customer: I think I'll go with Dr. Sarah Thompson tomorrow at 10 AM. Please schedule that appointment for me.
+
+Agent 3: Absolutely, Emily. I have successfully scheduled your appointment with Dr. Sarah Thompson for tomorrow at 10 AM. I will email you the details shortly. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you so much for your help, Agent 3. I really appreciate it.
+
+Agent 3: You're welcome, Emily. I'm glad I could assist you. If you have any further questions or need any additional support, don't hesitate to reach out. Take care and I hope you feel better soon!
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Emily. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

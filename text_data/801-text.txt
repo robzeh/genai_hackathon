@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Johnson. I need to request copies of my medical records.
+
+Agent 3: Hi, Sarah. I'm happy to help you with that. Can you please provide me with your date of birth and the approximate dates of the records you need?
+
+Customer: My date of birth is January 15, 1985. I need records from my visits between 2015 and 2020.
+
+Agent 3: Thank you for providing the details, Sarah. Just to confirm, are you requesting your complete medical records or specific documents?
+
+Customer: I would like a copy of my complete medical records, please.
+
+Agent 3: Understood, Sarah. In order to process your request, we will need you to fill out a Medical Records Request form. This form can be obtained from our website or we can mail it to you. Which option would you prefer?
+
+Customer: Can you please mail it to me? I don't have access to a printer at the moment.
+
+Agent 3: Of course, Sarah. I'll send the form to the address we have on file. Is your current address still 123 Main Street?
+
+Customer: Yes, that's correct.
+
+Agent 3: Perfect. You should receive the form within the next 3-5 business days. Once you receive it, please fill it out completely and return it to us using the pre-paid envelope provided.
+
+Customer: Alright, I'll make sure to fill it out and send it back promptly. How long will it take for me to receive the copies of my medical records once I send the form back?
+
+Agent 3: Once we receive your completed form, it usually takes around 7-10 business days to process your request and mail the copies to you. Please note that there might be a nominal fee for the copies, depending on the number of pages. We will include the details in the form.
+
+Customer: That's understandable. I'm willing to pay the fee. Is there any way to expedite the process? I need these records for an upcoming specialist appointment.
+
+Agent 3: I apologize, Sarah, but our standard processing time cannot be expedited. However, if you inform us about the urgency of your request, we can try to prioritize it. Please make a note of the specialist appointment on the form when you send it back to us.
+
+Customer: Okay, I will definitely do that. Is there anything else I need to know or any additional steps I should take?
+
+Agent 3: Once we receive your completed form, we will contact you if there are any issues or if we require any additional information. Otherwise, you should receive the copies as mentioned earlier. If you have any further questions or concerns, feel free to give us a call.
+
+Customer: Thank you, Agent 3. You've been very helpful. I appreciate your assistance.
+
+Agent 3: You're welcome, Sarah. It's my pleasure to assist you. If there's anything else you need in the future, don't hesitate to reach out. Have a great day!
+
+Customer: You too, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Sarah. Take care! [/INST] Medical Records Requests </s>

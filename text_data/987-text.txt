@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good morning, thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm really scared. I recently had some lab tests done, and I received a call asking me to contact the hospital regarding the results.
+
+Agent 1: I understand how concerning that can be. Don't worry, I'm here to help. May I have your name and date of birth, please?
+
+Customer: My name is Emily Johnson, and my date of birth is January 15th, 1985.
+
+Agent 1: Thank you, Emily. Let me pull up your file. I see here that you had some lab tests done. Can you please tell me which specific tests were conducted?
+
+Customer: I had a complete blood count (CBC), lipid panel, and a thyroid function test.
+
+Agent 1: Alright, thank you for providing that information. Let me check the results for you. Please stay on the line for a moment.
+
+(Short pause)
+
+Agent 1: Emily, I have reviewed your test results, and I'm pleased to inform you that everything looks normal. There's no cause for concern.
+
+Customer: Oh, thank goodness! I was really worried. Can you provide me with a brief summary of the results?
+
+Agent 1: Of course, Emily. Your CBC shows that your red and white blood cell counts are within the normal range. The lipid panel indicates healthy cholesterol levels, and your thyroid function test indicates that your thyroid is functioning properly.
+
+Customer: That's such a relief to hear. Thank you for reassuring me. I was really scared about what the results might show.
+
+Agent 1: I completely understand, Emily. It's natural to feel anxious when waiting for test results. However, I'm glad I could provide you with peace of mind. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you so much for your help, Agent 1. You've really put my mind at ease.
+
+Agent 1: You're very welcome, Emily. I'm here to help whenever you need it. If you have any further questions or concerns in the future, don't hesitate to reach out. Take care and have a wonderful day!
+
+Customer: Thank you, Agent 1. You too! Goodbye.
+
+Agent 1: Goodbye, Emily. Have a great day! [/INST] Lab and Test Results </s>

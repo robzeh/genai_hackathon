@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Emily Johnson. I need to request some of my medical records from your hospital.
+
+Agent 3: Of course, Emily. I'll be happy to help you with that. Can you please provide me with your date of birth and the approximate dates of the medical records you need?
+
+Customer: Sure, my date of birth is January 15, 1985. I need the records from my hospital visits between January 2019 and December 2020.
+
+Agent 3: Thank you for providing the information, Emily. Let me check our system for your medical records. Please bear with me for a moment.
+
+(Customer waits for a few moments)
+
+Agent 3: Emily, I have found your medical records in our system for the specified time period. Before we proceed, I need to confirm your identity for security purposes. Can you please provide me with your address and phone number?
+
+Customer: Yes, my address is 123 Oak Street, Anytown, USA, and my phone number is (555) 123-4567.
+
+Agent 3: Thank you, Emily. Now that we have verified your identity, I will start processing your medical records request. Please note that there might be a fee associated with this service. Is that alright with you?
+
+Customer: Yes, I understand there might be a fee. That's fine.
+
+Agent 3: Great. To process your request, I will need you to fill out a Medical Records Release Form. This form can be emailed or mailed to you, whichever option is more convenient for you. Which would you prefer?
+
+Customer: Can you please email me the form? My email address is emilyjohnson@email.com.
+
+Agent 3: Sure, Emily. I will email you the form right away. Please check your inbox and let me know if you have received it.
+
+(Customer checks their email)
+
+Customer: Yes, I have received the form. Thank you.
+
+Agent 3: You're welcome, Emily. Please take your time to fill out the form accurately and sign it. Once you have completed it, you can either scan and email it back to us or send it via regular mail. Our contact information is provided on the form itself.
+
+Customer: Alright, I'll make sure to fill it out and send it back as soon as possible. Is there anything else I need to know?
+
+Agent 3: Not at the moment, Emily. Once we receive your completed form, we will process your request and send you a copy of your medical records within the specified timeframe. If you have any further questions or need any assistance, feel free to reach out to us.
+
+Customer: Thank you for your help, Agent 3. I appreciate your assistance with this request.
+
+Agent 3: You're welcome, Emily. It was my pleasure assisting you. If there's anything else we can assist you with in the future, please don't hesitate to contact us. Take care and have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye.
+
+Agent 3: Goodbye, Emily. Have a wonderful day! [/INST] Medical Records Requests </s>

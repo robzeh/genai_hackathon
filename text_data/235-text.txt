@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 3: Thank you for calling HealthHarbor. My name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Johnson. I'm feeling a bit worried and I need some assistance with a medical records request.
+
+Agent 3: Hi, Sarah. I understand that medical records can be a sensitive matter. Don't worry, I'm here to help. Could you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure. My date of birth is October 15, 1985. I recently switched doctors, and my new physician requires access to my previous medical records.
+
+Agent 3: Thank you for the information, Sarah. I can assist you with that. In order to proceed, I'll need to verify your identity. Can you please provide me with your full address and phone number?
+
+Customer: My address is 123 Main Street, Anytown, USA. And my phone number is 555-123-4567.
+
+Agent 3: Great, thank you for confirming that, Sarah. Now, let me just pull up your records. It may take a few moments.
+
+[Short hold]
+
+Agent 3: Sarah, I have located your records. It seems like you visited our hospital last year. Could you please provide me with the specific dates you would like to request?
+
+Customer: I would like to request all records from January 1, 2020, to December 31, 2020.
+
+Agent 3: Noted, Sarah. I will process your request for that time period. Please be aware that there may be a small fee associated with obtaining your medical records. Is that okay with you?
+
+Customer: Yes, that's fine. I understand there might be a fee. I just want to make sure my new doctor has all the necessary information for my care.
+
+Agent 3: I completely understand, Sarah. Your health is important, and we want to ensure a smooth transition of your medical records. Just to confirm, do you prefer to receive the records electronically or by mail?
+
+Customer: I would prefer to receive them electronically, if possible. It's more convenient for me.
+
+Agent 3: Noted, Sarah. We will send you an email with instructions on how to access your medical records securely. Please make sure to check your spam or junk folder if you don't see it in your inbox within the next 48 hours.
+
+Customer: Okay, I'll keep an eye out for the email. Thank you for your assistance, Agent 3.
+
+Agent 3: You're welcome, Sarah. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again for your help. You've put my mind at ease.
+
+Agent 3: I'm glad I could assist you, Sarah. If you have any further questions or concerns, don't hesitate to reach out. Take care and have a wonderful day!
+
+Customer: You too, Agent 3. Goodbye!
+
+Agent 3: Goodbye, Sarah! [/INST] Medical Records Requests </s>

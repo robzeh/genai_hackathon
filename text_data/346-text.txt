@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer (worried): Hi, Agent 2. I'm really worried about my health and I have some general inquiries about your hospital. Can you help me?
+
+Agent 2: Of course, I'm here to help. What seems to be the problem?
+
+Customer: Well, I've been experiencing some persistent headaches lately and I'm not sure if it's something serious. Can you tell me what kind of medical services your hospital offers for headaches?
+
+Agent 2: HealthHarbor provides a wide range of medical services, including neurology. We have specialized doctors who can help diagnose and treat various types of headaches. Would you like me to schedule an appointment for you?
+
+Customer: That would be great. Can you tell me if HealthHarbor accepts my insurance?
+
+Agent 2: Absolutely. May I have your name and insurance information, please?
+
+Customer: My name is Emily Johnson and my insurance provider is XYZ Health Insurance.
+
+Agent 2: Thank you, Emily. Let me check our database to verify if we accept XYZ Health Insurance. Please hold for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 2: Emily, I have checked and I'm glad to inform you that we do accept XYZ Health Insurance. You can proceed with scheduling your appointment.
+
+Customer: That's a relief. Thank you for checking. Can you also tell me about the availability of your doctors? I work during the weekdays, so I would prefer an appointment on the weekend if possible.
+
+Agent 2: I understand your concern, Emily. Our doctors have varying schedules, but we do have some availability on weekends. Let me check which neurologist has weekend slots. Please hold on.
+
+(Customer waits for a few more minutes)
+
+Agent 2: Emily, I have found a neurologist who is available on Saturdays. Would that work for you?
+
+Customer: Yes, Saturday works for me. Can you please tell me the earliest available time?
+
+Agent 2: The earliest available time on Saturdays with Dr. Smith is at 10:00 AM. Would you like me to book that appointment for you?
+
+Customer: Yes, please go ahead and book that appointment for me.
+
+Agent 2: Certainly, Emily. I have successfully scheduled your appointment with Dr. Smith on Saturday at 10:00 AM. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you so much for your help, Agent 2. I really appreciate it.
+
+Agent 2: You're welcome, Emily. I'm glad I could assist you. If you have any more questions or concerns in the future, don't hesitate to reach out to us. Take care and have a great day!
+
+Customer: Thank you, Agent 2. Goodbye.
+
+Agent 2: Goodbye, Emily. Take care. [/INST] General Inquiries </s>

@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, umm, my name is Sarah Johnson. I'm feeling really scared and I need some medical advice. 
+
+Agent 4: I'm sorry to hear that, Sarah. I'm here to help. Can you please tell me what symptoms or concerns you are experiencing?
+
+Customer: Well, I've been having this severe headache for the past two days. It's been really intense and doesn't seem to go away with any painkillers.
+
+Agent 4: I understand how concerning that can be. Have you experienced any other symptoms along with the headache?
+
+Customer: Yes, I've also been feeling nauseous and dizzy. It's really affecting my day-to-day activities.
+
+Agent 4: I'm not a doctor, but based on your symptoms, it might be a good idea to seek medical attention. Severe headaches, accompanied by nausea and dizziness, could be indicative of a more serious underlying condition. Have you had any recent head injuries or accidents?
+
+Customer: No, I haven't had any head injuries. But I'm really worried that it might be something serious.
+
+Agent 4: I understand your concern, Sarah. It's always better to be safe than sorry. I would strongly advise you to visit your nearest healthcare provider or emergency room as soon as possible. They will be able to assess your symptoms more accurately and provide you with the necessary medical advice and treatment.
+
+Customer: Okay, I'll try to find a nearby hospital. But what if it's just a normal headache? I don't want to waste anyone's time.
+
+Agent 4: I completely understand your concern, Sarah. However, it's important to remember that your health and well-being should always be a priority. Healthcare professionals are trained to assess and differentiate between normal headaches and more serious conditions. It's always better to err on the side of caution, especially when symptoms are severe and persistent.
+
+Customer: You're right. I'll go to the hospital right away. Thank you for your advice.
+
+Agent 4: You're welcome, Sarah. I'm glad I could help. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you once again. 
+
+Agent 4: You're welcome, Sarah. Take care of yourself and I hope you feel better soon. If you have any other questions or concerns, don't hesitate to call us again. Have a great day!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+Agent 4: Goodbye, Sarah. [/INST] Medical Advice or Symptom Assessment </s>

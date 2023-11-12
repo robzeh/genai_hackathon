@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hello, Agent 1. My name is Sarah Johnson. I'm feeling quite worried and I need to request my medical records from your hospital.
+
+Agent 1: I understand your concern, Sarah. We're here to help you. May I have your date of birth and the approximate dates of the medical records you're requesting?
+
+Customer: Sure, my date of birth is August 15th, 1985. I would like to request all my medical records from January 2010 to December 2015.
+
+Agent 1: Thank you for providing the necessary information, Sarah. I will create a medical records request for you. Can you please confirm your contact information, including your phone number and email address?
+
+Customer: My phone number is (555) 123-4567, and my email address is sarah.johnson@email.com.
+
+Agent 1: Great, thank you. I have updated your contact information. Now, I need to inform you that there might be a fee associated with obtaining your medical records. The exact amount depends on the number of pages and any applicable state laws. Are you aware of this?
+
+Customer: Yes, I'm aware. I am willing to pay the necessary fees to get my records. I just need them as soon as possible.
+
+Agent 1: I understand your urgency, Sarah. We will do our best to expedite the process. Once the request is submitted, it typically takes 7-10 business days to process. However, I'll make a note to prioritize your request. Is there any specific reason you need the records urgently?
+
+Customer: Yes, I'm planning to see a specialist and they require my full medical history. I want to make sure they have all the necessary information for accurate diagnosis and treatment.
+
+Agent 1: I see. That's important. I will prioritize your request accordingly. Just to clarify, are you requesting a physical copy of your medical records or would you prefer a digital copy?
+
+Customer: I would prefer a digital copy, if possible. It would be more convenient for me to have them in electronic format.
+
+Agent 1: Absolutely, Sarah. We can provide you with the records in a secure electronic format. Once the request is processed, we will send you an email with instructions on how to access and download your records. Is there anything else I can assist you with?
+
+Customer: That's all for now, Agent 1. I appreciate your help and understanding. I hope to receive the records soon.
+
+Agent 1: You're welcome, Sarah. Rest assured that we will handle your request promptly. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor.
+
+Customer: Thank you, Agent 1. Goodbye.
+
+Agent 1: Goodbye, Sarah. Take care. [/INST] Medical Records Requests </s>

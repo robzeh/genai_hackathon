@@ -1,0 +1,53 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer (angry): Finally! I've been trying to get through to your hospital for days. I need to request my medical records, and no one seems to be able to help me!
+
+Agent 3: I apologize for the inconvenience, sir. I understand your frustration. I will do my best to assist you with your medical records request. May I have your full name, please?
+
+Customer: It's John Smith.
+
+Agent 3: Thank you, Mr. Smith. Can you please provide me with your date of birth and the approximate dates for which you need the medical records?
+
+Customer: My date of birth is January 15, 1980. I need the records for the past five years, from 2016 to 2021.
+
+Agent 3: Thank you for providing that information, Mr. Smith. In order to process your request, I will need you to fill out a Medical Records Request form. Would you like me to email it to you or send it via mail?
+
+Customer (angry): Are you serious? I've been waiting for days to request my records, and now you're telling me I have to fill out a form? Can't you just get it done without all this paperwork?
+
+Agent 3: I apologize for the inconvenience, Mr. Smith. The form is necessary to ensure that we have accurate information and to protect your privacy. However, if you prefer, I can assist you in filling out the form over the phone.
+
+Customer (angry): Fine, I guess I have no choice. Let's get this over with.
+
+Agent 3: Thank you for understanding, Mr. Smith. Let's begin. First, I will need your current address, phone number, and email address. Could you please provide me with that information?
+
+Customer: My address is 123 Main Street, Anytown, USA. My phone number is (555) 123-4567, and my email address is johnsmith@email.com.
+
+Agent 3: Thank you, Mr. Smith. Now, I need some additional information to ensure we locate your records accurately. Can you please provide me with the names of any specific doctors or departments you visited during the requested time period?
+
+Customer: Yes, I saw Dr. Johnson in the cardiology department for my heart condition, and I also visited the orthopedic department for a knee injury. Are those details sufficient?
+
+Agent 3: Yes, that's helpful, Mr. Smith. Now, I will need your signature to authorize the release of your medical records. Please confirm that you understand and agree to this.
+
+Customer (angry): I already told you, I want my records! Why do I need to keep confirming everything? This is ridiculous!
+
+Agent 3: I apologize for any frustration caused, Mr. Smith. We have specific protocols in place to ensure that we handle your medical records securely and with utmost care. Your confirmation is necessary to comply with these protocols and protect your privacy.
+
+Customer (angry): Just get this done already. I confirm that I understand and agree to authorize the release of my medical records.
+
+Agent 3: Thank you, Mr. Smith. I appreciate your cooperation. One last thing, we require a processing fee of $25 for medical records requests. How would you like to make the payment?
+
+Customer (angry): Seriously? I have to pay for my own records? This is unbelievable! Fine, just add it to my bill.
+
+Agent 3: I apologize for any inconvenience, Mr. Smith. We understand your concerns, but unfortunately, the processing fee is a standard procedure. We can add it to your bill, or you can provide a credit card number for immediate payment. Which option would you prefer?
+
+Customer: Just add it to my bill. I want to get this over with as soon as possible.
+
+Agent 3: Understood, Mr. Smith. I have processed your request, and you will receive an itemized bill reflecting the processing fee. Is there anything else I can assist you with today?
+
+Customer (angry): No, I've wasted enough time on this already. Just make sure you send me my records promptly.
+
+Agent 3: I apologize for any inconvenience caused, Mr. Smith. We will prioritize your request, and you should receive your medical records within 10 business days. If you have any further questions or concerns, please don't hesitate to contact us. Thank you for choosing HealthHarbor, and have a good day.
+
+Customer: Whatever. Goodbye. [/INST] Medical Records Requests </s>

@@ -1,0 +1,47 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Sarah Thompson. I'm calling to request my medical records. 
+
+Agent 1: Hello, Ms. Thompson. I'm happy to assist you with that. Can you please provide me with your date of birth and any other identifying information?
+
+Customer: Sure, my date of birth is January 15, 1985. My address is 123 Main Street, and my phone number is 555-1234.
+
+Agent 1: Thank you, Ms. Thompson. I have located your information. Could you please specify which medical records you are requesting?
+
+Customer: I would like a copy of my records from the past two years, including any test results, diagnoses, and treatment plans.
+
+Agent 1: Understood, Ms. Thompson. I will process your request. Please note that there may be a fee associated with obtaining your medical records. Is that okay?
+
+Customer: Yes, I understand. Can you let me know how much the fee will be?
+
+Agent 1: Sure, let me check the fee schedule for you. One moment, please. 
+
+(Customer is put on hold for a brief moment)
+
+Agent 1: Thank you for patiently waiting, Ms. Thompson. The fee for obtaining your medical records will be $25. 
+
+Customer: That's reasonable. How can I make the payment?
+
+Agent 1: We accept payment via credit or debit card. I can take your payment information over the phone if you'd like.
+
+Customer: Yes, that would be convenient. I'll provide my card details. 
+
+Agent 1: Thank you, Ms. Thompson. Please provide your card number, expiration date, and the three-digit security code on the back of the card.
+
+(Customer provides the payment information)
+
+Agent 1: Perfect, Ms. Thompson. Your payment has been processed successfully. Now, let me confirm your preferred delivery method for the records. Would you like them mailed to your address or sent electronically?
+
+Customer: I would prefer them to be sent electronically if possible. My email address is sarah.thompson@email.com.
+
+Agent 1: Noted, Ms. Thompson. Your medical records will be sent to the provided email address within 3-5 business days. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Agent 1.
+
+Agent 1: You're welcome, Ms. Thompson. If you have any further questions or need assistance in the future, feel free to reach out. Have a great day!
+
+Customer: You too. Goodbye.
+
+Agent 1: Goodbye, Ms. Thompson. Take care. [/INST] Medical Records Requests </s>

@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. I'm calling to request my medical records. Can you help me with that?
+
+Agent 3: Of course, I'd be happy to help. May I have your name and date of birth, please?
+
+Customer: My name is John Smith and my date of birth is January 15, 1980.
+
+Agent 3: Thank you, Mr. Smith. Let me access your records in our system. Please bear with me for a moment.
+
+(Customer waits for a few seconds)
+
+Agent 3: Thank you for your patience, Mr. Smith. I have located your records. How can I assist you with them?
+
+Customer: I need a copy of my medical records for my personal records. Can you send them to me digitally?
+
+Agent 3: Absolutely, Mr. Smith. We can definitely provide you with a digital copy of your medical records. Could you please provide us with your email address so that we can send them to you?
+
+Customer: Sure, my email address is john.smith@email.com.
+
+Agent 3: Thank you, Mr. Smith. I have noted down your email address. May I know the reason for requesting your medical records?
+
+Customer: I recently changed healthcare providers, and they require a copy of my medical history for their records. I want to ensure a smooth transition of my care.
+
+Agent 3: I understand, Mr. Smith. That's a valid reason. We will process your request accordingly. Is there any specific timeframe within which you need these records?
+
+Customer: As soon as possible would be great, but I understand if there's a certain processing time.
+
+Agent 3: Thank you for your understanding, Mr. Smith. We will prioritize your request and aim to send the records to you within 7-10 business days. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Mr. Smith. If you have any further questions or need assistance in the future, please don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye.
+
+Agent 3: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

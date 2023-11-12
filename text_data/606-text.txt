@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I'm feeling really scared and not sure what to do. I've been experiencing some unusual symptoms lately and I'm not sure if I should be concerned.
+
+Agent 4: I'm here to help, Sarah. Can you please tell me what symptoms you've been experiencing?
+
+Customer: Well, I've been having frequent headaches, dizziness, and sometimes I feel nauseous. It's been going on for a couple of weeks now and it's really starting to worry me.
+
+Agent 4: I understand how concerning that can be, Sarah. Have you experienced any other symptoms along with these?
+
+Customer: Yes, I've also noticed that I've been feeling more fatigued than usual, and my vision has been a bit blurry at times. I've never experienced anything like this before, so it's really scaring me.
+
+Agent 4: I can understand why you're feeling scared, Sarah. It's important to take your symptoms seriously. While I'm not a doctor, I can certainly provide some guidance and help you decide on the next steps. Have you seen a doctor about these symptoms yet?
+
+Customer: No, I haven't. I've been hesitant to go to the hospital because I'm not sure if it's necessary or if it's just something that will eventually go away on its own.
+
+Agent 4: I completely understand your concerns, Sarah. It's always better to be safe than sorry when it comes to your health. Based on your symptoms, it might be a good idea to schedule an appointment with a healthcare professional. They will be able to assess your condition and provide you with the appropriate medical advice.
+
+Customer: Okay, I guess you're right. I should probably see a doctor. Do you have any recommendations for doctors in my area?
+
+Agent 4: Absolutely, Sarah. Let me just pull up our database here. Can you please provide me with your zip code?
+
+Customer: Sure, it's 12345.
+
+Agent 4: Great, thank you. I've found a few doctors in your area who specialize in the symptoms you've described. Here are their names and contact information: Dr. Emily Collins at ABC Medical Center, Dr. Michael Thompson at XYZ Family Clinic, and Dr. Olivia Davis at HealthFirst Hospital. I would recommend reaching out to any of them to schedule an appointment as soon as possible.
+
+Customer: Thank you so much, Agent 4. I really appreciate your help. I'll definitely give one of those doctors a call right away.
+
+Agent 4: You're very welcome, Sarah. I'm glad I could assist you. Remember, it's important to prioritize your health and seek professional advice. If you have any more questions or concerns, feel free to reach out to us again. Take care and I hope you feel better soon!
+
+Customer: Thank you, Agent 4. I will definitely keep that in mind. Goodbye!
+
+Agent 4: Goodbye, Sarah. Take care! [/INST] Medical Advice or Symptom Assessment </s>

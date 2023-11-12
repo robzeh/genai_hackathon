@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone picked up. I've been trying to get through for ages. I need to request my medical records. This is urgent!
+
+Agent 2: I apologize for the delay and any inconvenience caused. I understand that you need to request your medical records. I'll be happy to assist you with that. Can I have your full name and date of birth, please?
+
+Customer: My name is Sarah Johnson, and my date of birth is October 15th, 1980.
+
+Agent 2: Thank you, Sarah. Before we proceed, I want to assure you that we take your request seriously, and I'll do my best to assist you promptly. Could you please provide me with your contact information, including your phone number and email address?
+
+Customer: My phone number is (555) 123-4567, and my email address is sarahjohnson@email.com.
+
+Agent 2: Thank you for providing that information, Sarah. Now, could you please specify the reason for your medical records request?
+
+Customer: I'm changing doctors, and my new physician requires a copy of my complete medical history. They need it as soon as possible, and I've been waiting for weeks for HealthHarbor to process my request!
+
+Agent 2: I apologize for the delay. I understand the urgency of your situation. Let me check your records and see what we can do to expedite the process. Please hold on for a moment.
+
+(Customer is put on hold for a short time)
+
+Agent 2: Thank you for your patience, Sarah. I have reviewed your case, and I see that your medical records request is still pending. I apologize for the delay in processing it. Let me assure you that I will escalate this matter to our medical records department right away.
+
+Customer: It's about time! I need those records sent to my new doctor by the end of the week. This whole situation has been incredibly frustrating!
+
+Agent 2: I understand your frustration, Sarah, and I apologize for any inconvenience caused. Rest assured, I will personally follow up with the medical records department to ensure your request is prioritized. Is there anything else I can assist you with today?
+
+Customer: No, this is all I needed. Just make sure my records are sent ASAP. I appreciate your help.
+
+Agent 2: Absolutely, Sarah. I will personally oversee the process to ensure your records are sent as soon as possible. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: Thank you. Goodbye.
+
+Agent 2: Goodbye, Sarah. Take care. [/INST] Medical Records Requests </s>

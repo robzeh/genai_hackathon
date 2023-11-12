@@ -1,0 +1,27 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I'm calling to request my medical records. I recently moved and need to transfer them to my new healthcare provider.
+
+Agent 1: Of course, I'd be happy to help you with that. Can I have your full name and date of birth, please?
+
+Customer: My name is Emily Johnson and my date of birth is January 10, 1985.
+
+Agent 1: Thank you, Emily. Can you please verify your current address and the address of your new healthcare provider?
+
+Customer: My current address is 123 Main Street, Anytown, and the address of my new healthcare provider is 456 Elm Avenue, New City.
+
+Agent 1: Great, thank you for providing that information. I see here that we have your records stored electronically. To initiate the transfer, I will need your written consent. I can either email you the consent form or mail it to your current address, which would you prefer?
+
+Customer: I would prefer to receive it via email. My email address is emilyjohnson@email.com.
+
+Agent 1: Perfect! I will send the consent form to your email right away. Once you receive it, please read and sign it, and then send it back to us. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. Thank you for your help.
+
+Agent 1: You're welcome, Emily. If you have any further questions or need any additional assistance, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, you too. Goodbye.
+
+Agent 1: Goodbye, take care! [/INST] Medical Records Requests </s>

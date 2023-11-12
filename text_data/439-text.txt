@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Johnson. I need to request my medical records from your hospital.
+
+Agent 2: Of course, Sarah. I can assist you with that. Can you please provide me with some details so that I can locate your records?
+
+Customer: Sure. My date of birth is September 15, 1985, and my social security number is 123-45-6789.
+
+Agent 2: Thank you, Sarah. Let me pull up your records. Please bear with me for a moment.
+
+(Customer and Agent 2 wait for a brief moment)
+
+Agent 2: I have found your records, Sarah. How can I assist you further with your medical records request?
+
+Customer: I recently changed doctors, and they require my complete medical history. Can you please send all my records to them?
+
+Agent 2: I understand, Sarah. To ensure a smooth transfer, could you please provide me with the name and address of your new doctor's office?
+
+Customer: Yes, my new doctor's name is Dr. Emily Roberts, and the address is 123 Elm Street, Anytown, USA.
+
+Agent 2: Perfect, Sarah. I will arrange for your medical records to be sent to Dr. Roberts' office. Please note that this process may take a few days. Is there anything else I can assist you with?
+
+Customer: Actually, I have one more question. I noticed that my records from a particular visit a year ago seem to be missing. Can you help me locate them?
+
+Agent 2: I apologize for the inconvenience, Sarah. Let me investigate this for you. Can you provide me with the approximate date of the visit?
+
+Customer: It was around November 10th, 2020.
+
+Agent 2: Thank you for the information, Sarah. I will look into this matter and get back to you as soon as possible with an update. Is there anything else I can help you with?
+
+Customer: No, that's all for now. Please let me know as soon as you find any information about the missing records. Thank you.
+
+Agent 2: You're welcome, Sarah. I will prioritize this issue and reach out to you as soon as I have any updates. Have a great day!
+
+(Customer and Agent 2 end the call) [/INST] Medical Records Requests </s>

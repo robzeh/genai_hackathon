@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. This is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson, and I need some assistance with a medical records request.
+
+Agent 3: Hello, Emily. I'm here to help. Could you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Sure, my date of birth is January 15, 1985. I need the records for my recent hospital stay for my personal records.
+
+Agent 3: Thank you for providing that information, Emily. I understand that you would like a copy of your medical records from your recent hospital stay. May I ask which hospital you were admitted to?
+
+Customer: I was admitted to HealthHarbor Hospital.
+
+Agent 3: Perfect! Since you were admitted to HealthHarbor Hospital, we have direct access to your medical records. Can you please verify your address and contact information so that we can send the records to you?
+
+Customer: Yes, my address is 123 Main Street, Anytown, USA. My phone number is (555) 123-4567.
+
+Agent 3: Thank you, Emily. I have your address and phone number on file. Now, in order to process your request, I need your written consent. We will be sending you a release form via email or mail, whichever you prefer. Which option would you like?
+
+Customer: Could you please send it to me via email? My email address is emily.johnson@email.com.
+
+Agent 3: Certainly, Emily. I will send you the release form to your email address. Once you receive it, please review and complete the form, then send it back to us using the provided instructions.
+
+Customer: Okay, I will be on the lookout for the email. How long does it usually take to receive the medical records once the form is submitted?
+
+Agent 3: Typically, it takes about 7 to 10 business days to process the request and send out the medical records. However, please keep in mind that this timeframe may vary depending on the volume of requests we have at the moment.
+
+Customer: That's understandable. Is there a fee associated with obtaining the medical records?
+
+Agent 3: Yes, there is a nominal fee for obtaining medical records. The cost may vary depending on the number of pages and any additional services requested. Once we receive your completed form, we will send you an invoice with the total amount due.
+
+Customer: Alright, I will keep an eye out for the invoice as well. Is there anything else I need to know or do in order to complete this process?
+
+Agent 3: Once you have submitted the form and made the payment, our team will process your request promptly. If there are any issues or delays, we will reach out to you directly. If you have any further questions or need assistance during this process, feel free to call us back at any time.
+
+Customer: Great, thank you for your help, Agent 3. I appreciate your assistance with this matter.
+
+Agent 3: You're welcome, Emily. It was my pleasure to assist you. If you have any other questions or concerns in the future, don't hesitate to reach out. Have a wonderful day!
+
+Customer: Thank you, Agent 3. You too. Goodbye!
+
+Agent 3: Goodbye, Emily. Take care! [/INST] Medical Records Requests </s>

@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I have some general inquiries about your hospital.
+
+Agent 4: Hello, Emily. I'm here to help. What specific information are you looking for?
+
+Customer: Well, I recently moved to this area, and I wanted to know more about the services provided at HealthHarbor.
+
+Agent 4: Of course, Emily. HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We have departments for cardiology, orthopedics, oncology, neurology, and many more. We also provide emergency care, outpatient services, and surgical procedures.
+
+Customer: That sounds impressive. Are there any specialized treatments or procedures that HealthHarbor is known for?
+
+Agent 4: Absolutely, Emily. HealthHarbor is renowned for its cardiac care, including open-heart surgeries and advanced cardiac interventions. We also have a specialized cancer center that provides cutting-edge treatments like chemotherapy, radiation therapy, and surgical oncology.
+
+Customer: That's good to know. How about the availability of doctors and specialists?
+
+Agent 4: We have a dedicated team of highly qualified doctors and specialists at HealthHarbor. They are available round the clock to provide the best possible care to our patients. We also have a robust referral system in place, so if a particular specialist is not available at our hospital, we can help you find one in our network.
+
+Customer: That's reassuring. What about insurance coverage? Does HealthHarbor accept all major insurance providers?
+
+Agent 4: Yes, Emily. HealthHarbor accepts most major insurance providers. However, I would recommend contacting your insurance company directly to verify coverage and any potential out-of-pocket expenses. Our billing department can also assist you with any insurance-related questions or concerns.
+
+Customer: That's great to hear. How about the facilities and amenities for patients and their families?
+
+Agent 4: HealthHarbor is committed to providing a comfortable and supportive environment for our patients and their families. We have spacious and well-equipped patient rooms, state-of-the-art diagnostic and imaging facilities, and comfortable waiting areas. We also have a cafeteria, a gift shop, and ample parking for visitors.
+
+Customer: That's impressive. One last question, are there any support groups or counseling services available for patients and their families?
+
+Agent 4: Absolutely, Emily. HealthHarbor understands the importance of emotional support during difficult times. We have support groups and counseling services available for patients and their families, providing a safe space to discuss their concerns and share experiences. These services are led by licensed professionals who specialize in providing emotional support in a healthcare setting.
+
+Customer: That's wonderful to hear. Thank you so much for all the information, Agent 4. You've been very helpful.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. If you have any more questions or need further assistance, feel free to reach out to us anytime. We're here 24/7.
+
+Customer: Thank you, Agent 4. Have a great day!
+
+Agent 4: You too, Emily. Take care and have a wonderful day! Goodbye.
+
+[Call ends] [/INST] General Inquiries </s>

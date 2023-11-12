@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Finally, someone answers! I've been trying to get my medical records for weeks now, and no one seems to be able to help me. This is ridiculous!
+
+Agent 2: I apologize for the inconvenience, sir. I understand your frustration. I'm here to assist you with your medical records request. May I have your name, please?
+
+Customer: It's John Smith.
+
+Agent 2: Thank you, Mr. Smith. Can you please provide me with your date of birth and the name of the healthcare provider you visited?
+
+Customer: My date of birth is June 15, 1980, and I visited Dr. Johnson at HealthHarbor.
+
+Agent 2: Thank you for the information. Let me check our system for your medical records. Please bear with me for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 2: Mr. Smith, I apologize for the delay. I have located your medical records in our system. How can I assist you further?
+
+Customer: Finally, some progress! I need these records urgently for a second opinion, and nobody seems to understand the urgency. Can you please expedite this?
+
+Agent 2: I apologize for any inconvenience caused, Mr. Smith. I completely understand your urgency. Let me check if we have an expedited process for medical records requests. Please hold on for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 2: Mr. Smith, I have good news. We do have an expedited process for medical records requests. I will personally ensure that your request is prioritized, and you should receive your records within 48 hours.
+
+Customer: Thank you! I appreciate your help. It's about time someone took my request seriously.
+
+Agent 2: You're welcome, Mr. Smith. I apologize again for any inconvenience caused. Is there anything else I can assist you with today?
+
+Customer: No, that will be all. Just make sure I receive those records on time.
+
+Agent 2: I will personally oversee the process to ensure your records are delivered promptly. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for contacting HealthHarbor, and I hope you have a great day!
+
+Customer: Thank you. Goodbye.
+
+Agent 2: Goodbye, Mr. Smith. Take care. [/INST] Medical Records Requests </s>

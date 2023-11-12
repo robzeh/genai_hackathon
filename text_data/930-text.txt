@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, I'm calling to request my medical records. Can you help me with that?
+
+Agent 4: Of course, I'd be happy to assist you with your medical records request. Can you please provide me with your full name and date of birth?
+
+Customer: My name is Sarah Johnson and my date of birth is January 10, 1985.
+
+Agent 4: Thank you, Sarah. To ensure the security of your information, I will need to ask you a few more questions. Can you please verify your home address and the last four digits of your social security number?
+
+Customer: My address is 123 Maple Street, and the last four digits of my social security number are 5678.
+
+Agent 4: Thank you for verifying your information, Sarah. Now, could you please specify the type of medical records you are requesting?
+
+Customer: I need a copy of my medical records from the past two years, including any test results and doctor's notes.
+
+Agent 4: Understood, Sarah. We will need your written consent to release your medical records. I can assist you with filling out the necessary form. Would you like me to email it to you, or would you prefer it to be mailed?
+
+Customer: Email would be great. My email address is sarah.johnson@email.com.
+
+Agent 4: Perfect, Sarah. I will email you the form right away. Once you receive it, please fill it out and return it to us as soon as possible. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thank you for your help, Agent 4.
+
+Agent 4: You're welcome, Sarah. If you have any further questions or need any additional assistance, please don't hesitate to reach out. Have a great day!
+
+Customer: You too. Goodbye!
+
+Agent 4: Goodbye, Sarah. Take care! [/INST] Medical Records Requests </s>

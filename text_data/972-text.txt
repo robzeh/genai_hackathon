@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I have some general inquiries about the services provided at HealthHarbor.
+
+Agent 4: Hello, Emily. I'm here to help. What specific information are you looking for?
+
+Customer: Well, first of all, I wanted to know what kind of medical services are offered at HealthHarbor.
+
+Agent 4: HealthHarbor is a full-service hospital, offering a wide range of medical services. We provide emergency care, surgeries, diagnostic imaging, laboratory services, maternity care, and much more.
+
+Customer: That's great to hear. Can you tell me if HealthHarbor accepts insurance?
+
+Agent 4: Yes, Emily. We work with most major insurance providers. However, it would be best to contact your insurance company directly to confirm coverage at HealthHarbor.
+
+Customer: Alright, I'll do that. Can you also tell me about the availability of specialists at your hospital?
+
+Agent 4: Certainly, Emily. HealthHarbor has a team of highly skilled specialists in various fields such as cardiology, orthopedics, neurology, and more. We strive to provide comprehensive care to meet our patients' needs.
+
+Customer: That's reassuring to know. I also wanted to inquire about the visiting hours for patients at HealthHarbor.
+
+Agent 4: Our visiting hours are from 9 am to 9 pm, seven days a week. However, due to the ongoing COVID-19 pandemic, we have implemented certain restrictions on visitation. It's always best to check with the hospital staff for the most up-to-date information regarding visitation policies.
+
+Customer: Understood. One more thing, are there any support services available for patients and their families?
+
+Agent 4: Absolutely, Emily. At HealthHarbor, we understand the importance of emotional support during difficult times. We have social workers, counselors, and chaplains available to provide support to patients and their families. We also offer various support groups and educational programs.
+
+Customer: That's really helpful to know. Thank you for all the information, Agent 4. Is there anything else I should be aware of?
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. If you have any further questions or need assistance in the future, please don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 4. I appreciate your assistance. Have a great day too!
+
+Agent 4: You're welcome, Emily. Take care and stay healthy. Goodbye! [/INST] General Inquiries </s>

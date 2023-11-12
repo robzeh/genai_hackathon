@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Sarah Thompson. I need to request my medical records, but I'm feeling quite scared about it.
+
+Agent 2: I understand, Sarah. I'm here to help you with that. Let me assure you that we will handle your request with the utmost care and confidentiality. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Thank you, Agent 2. My date of birth is September 15, 1985. I need the records because I will be seeing a new specialist next week and they require my complete medical history.
+
+Agent 2: I see, Sarah. I can definitely assist you with that. Just to let you know, the process may take a few days, but we will do our best to expedite it for you. Can you please confirm your contact information, including your address and phone number?
+
+Customer: Yes, of course. My address is 1234 Elm Street, Anytown, USA, and my phone number is (555) 123-4567.
+
+Agent 2: Thank you for providing that information, Sarah. Now, to ensure we have the correct records, could you please specify the timeframe or specific medical procedures you would like to include in your request?
+
+Customer: I would like to request all my medical records from the past five years, including any surgeries, diagnoses, and test results.
+
+Agent 2: Understood, Sarah. I will proceed with your request for the past five years, including surgeries, diagnoses, and test results. Is there a specific format you would like the records to be sent in? We can email, fax, or mail them to you.
+
+Customer: Email would be the most convenient for me, Agent 2. My email address is sarah.thompson@email.com.
+
+Agent 2: Perfect, Sarah. I have noted your preference for email delivery. Now, to ensure we maintain your privacy, I need to verify your identity. Can you please provide me with your social security number or any other identification number that was previously associated with your medical records?
+
+Customer: I understand the need for verification, but I feel a bit uncomfortable sharing my social security number over the phone. Is there an alternative method we can use?
+
+Agent 2: Absolutely, Sarah. I completely understand your concern. We can use an alternative method to verify your identity. Please provide me with the last four digits of your social security number and your mother's maiden name.
+
+Customer: Thank you for accommodating my request. The last four digits of my social security number are 5678, and my mother's maiden name is Anderson.
+
+Agent 2: Thank you, Sarah. I've successfully verified your identity. Now, I will submit your medical records request. As mentioned earlier, it may take a few days to process. Is there anything else I can assist you with?
+
+Customer: No, Agent 2. That covers everything for now. I appreciate your help and understanding. I was really scared to make this call, but you've made the process much easier for me.
+
+Agent 2: I'm glad I could help, Sarah. We strive to provide a comfortable experience for all our patients. If you have any further questions or concerns, don't hesitate to reach out to us. Take care and good luck with your upcoming specialist appointment.
+
+Customer: Thank you, Agent 2. I really appreciate your assistance. Have a great day!
+
+Agent 2: You're welcome, Sarah. Have a great day too! [/INST] Medical Records Requests </s>

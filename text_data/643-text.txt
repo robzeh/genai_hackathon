@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor. My name is Agent 2. How can I assist you today?
+
+Customer: Finally! I've been on hold for ages! I need to request my medical records, and I can't believe how difficult it has been to get through to someone.
+
+Agent 2: I apologize for the inconvenience, sir. I understand you're frustrated, and I'm here to help. Can you please provide me with your full name and date of birth?
+
+Customer: It's John Smith, and my date of birth is January 12, 1980.
+
+Agent 2: Thank you, Mr. Smith. I'm sorry for any inconvenience caused. To process your request for medical records, I will need you to fill out a release form. Can I confirm your address, please?
+
+Customer: Sure, it's 123 Main Street, Anytown, USA.
+
+Agent 2: Thank you, Mr. Smith. I will send the release form to the address you provided. Once you receive it, please fill it out completely and return it to us. You can send it back by mail or fax. Do you have a preference?
+
+Customer: I just want to get this over with, so I'll fax it back. Can you confirm the fax number?
+
+Agent 2: Of course, Mr. Smith. The fax number is 555-123-4567. Once we receive your completed form, our team will process your request. Please allow up to 10 business days for us to gather your medical records.
+
+Customer: 10 business days? Are you kidding me? I need these records urgently! I can't believe it takes that long.
+
+Agent 2: I apologize for any inconvenience, Mr. Smith. Our team needs time to locate and compile your records accurately. However, if you have an urgent need for specific records, such as for another medical appointment, please let us know, and we'll do our best to expedite the process.
+
+Customer: Well, I do have an upcoming specialist appointment. Can you please prioritize those records?
+
+Agent 2: Certainly, Mr. Smith. I will make a note of the urgency regarding your specialist appointment. We will do our best to expedite the retrieval of those specific records. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I hope you can actually deliver on your promises. This whole experience has been frustrating.
+
+Agent 2: I understand your frustration, Mr. Smith, and I apologize for any inconvenience caused. We will do our best to meet your expectations. If you have any further questions or concerns, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: Whatever. Goodbye. [/INST] Medical Records Requests </s>

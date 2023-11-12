@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is John Smith. I recently had some lab tests done at your hospital and I was wondering if the results are available yet.
+
+Agent 1: Hello, Mr. Smith. I'd be happy to check that for you. Can you please provide me with your date of birth and the date you had the lab tests done?
+
+Customer: Sure, my date of birth is March 15, 1985, and I had the lab tests done on May 10, 2021.
+
+Agent 1: Thank you for providing that information, Mr. Smith. Let me check our system for your results. Please bear with me for a moment.
+
+(Customer waits for a few minutes)
+
+Agent 1: Mr. Smith, I have found your lab results. Is there a specific test or set of tests you would like to discuss?
+
+Customer: Yes, I would like to know the results for my cholesterol and blood sugar levels.
+
+Agent 1: Alright, let me pull up those specific results for you. (Pause) I see here that your cholesterol levels are within the normal range. They are at 180 mg/dL, which is a healthy level. Your blood sugar levels also appear to be normal, with a reading of 90 mg/dL. Do you have any questions about these results?
+
+Customer: No, I don't have any questions. Thank you for providing the information.
+
+Agent 1: You're welcome, Mr. Smith. I'm glad to hear that your results are within a healthy range. Is there anything else I can assist you with today?
+
+Customer: Actually, yes. I had another test done for my thyroid function. Could you please check those results as well?
+
+Agent 1: Of course, let me pull up your thyroid function test results for you. (Pause) I see here that your thyroid function is normal as well. Your TSH level is 2.5 mIU/L, which falls within the recommended range. If you have any further questions or concerns about these results, please let me know.
+
+Customer: Thank you for checking that. I appreciate your help. I don't have any more questions at the moment.
+
+Agent 1: You're welcome, Mr. Smith. I'm glad I could assist you. If you have any other concerns in the future or need any further assistance, don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 1. You've been very helpful. Have a great day too!
+
+Agent 1: Thank you, Mr. Smith. Take care and stay healthy. Goodbye!
+
+(Customer and Agent 1 end the call) [/INST] Lab and Test Results </s>

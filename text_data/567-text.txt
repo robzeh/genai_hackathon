@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. I have some general inquiries about your hospital. Can you provide me with some information?
+
+Agent 1: Of course, I'd be happy to help. What specific information are you looking for?
+
+Customer: Firstly, I'd like to know what medical services HealthHarbor offers.
+
+Agent 1: HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We provide services such as emergency care, surgery, pediatrics, maternity care, radiology, and much more.
+
+Customer: That sounds great. What are the visiting hours for patients?
+
+Agent 1: Our visiting hours are from 10 am to 8 pm every day. However, please note that there might be certain restrictions or limitations during specific situations, such as during a pandemic or for intensive care units. It's always best to check with the specific department or unit for any specific guidelines.
+
+Customer: Alright, I understand. How do I make an appointment?
+
+Agent 1: To make an appointment at HealthHarbor, you can either call our appointment hotline or visit our website. Our phone number is 123-456-7890, and our website is www.healthharbor.com. You can choose the department you need, select a preferred date and time, and our staff will assist you with scheduling.
+
+Customer: That's convenient. Is there a parking facility available at the hospital?
+
+Agent 1: Yes, we do have parking facilities for patients and visitors. Our hospital has a dedicated parking area where you can park your vehicle. However, please note that parking may be subject to availability during peak hours.
+
+Customer: Good to know. Are there any support services available for patients and their families?
+
+Agent 1: Absolutely. At HealthHarbor, we understand that healthcare can be a challenging time for patients and their families. That's why we offer various support services, including counseling, social work, and support groups. These services aim to provide emotional and practical support to help patients and their families cope during their healthcare journey.
+
+Customer: That's really thoughtful. One last question, are there any specific insurance plans that HealthHarbor accepts?
+
+Agent 1: HealthHarbor accepts a wide range of insurance plans, including but not limited to major providers like Aetna, Blue Cross Blue Shield, Cigna, and UnitedHealthcare. However, please note that the acceptance of insurance plans may vary depending on the specific department or service you require. It's always best to contact our billing department or check with your insurance provider for confirmation.
+
+Customer: Alright, thank you for all the information, Agent 1. That's all I needed to know.
+
+Agent 1: You're welcome! I'm glad I could assist you. If you have any more questions in the future or need any further assistance, don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, you too. Goodbye!
+
+Agent 1: Goodbye, take care! [/INST] General Inquiries </s>

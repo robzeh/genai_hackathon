@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Emily Johnson. I'm feeling really worried about some symptoms I've been experiencing lately.
+
+Agent 4: Hello, Emily. I understand it can be concerning when you're not feeling well. I'm here to help. Can you please describe your symptoms to me?
+
+Customer: Well, for the past week, I've been having a persistent headache and feeling quite fatigued. I also have a sore throat and occasional coughing. I'm worried it might be something serious.
+
+Agent 4: I'm sorry to hear that, Emily. Let me ask you a few more questions to better understand your situation. Have you taken your temperature recently?
+
+Customer: Yes, I have. It's been slightly elevated, around 100.4 degrees Fahrenheit.
+
+Agent 4: Okay, thank you for sharing that. Based on your symptoms, it could be possible that you have a viral infection such as the flu or a common cold. However, I'm not a doctor, and it's important for you to consult with a healthcare professional for a proper diagnosis. Would you like me to help you find a nearby healthcare facility?
+
+Customer: Yes, please. That would be really helpful.
+
+Agent 4: Of course, Emily. Can you please provide me with your zip code?
+
+Customer: My zip code is 12345.
+
+Agent 4: Thank you. I'm searching our database for healthcare facilities in your area. It appears that there are several options available near you. I recommend visiting either HealthCare Clinic or Wellness Medical Center. Both have good ratings and offer a wide range of medical services. Would you like me to provide you with their contact details?
+
+Customer: Yes, please. I'll note them down.
+
+Agent 4: Sure, here are the contact details:
+1. HealthCare Clinic - Phone: (555) 123-4567, Address: 123 Main Street, City, State, Zip.
+2. Wellness Medical Center - Phone: (555) 987-6543, Address: 456 Elm Avenue, City, State, Zip.
+
+Customer: Thank you, Agent 4. I'll make sure to contact them and schedule an appointment.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you for your help and guidance.
+
+Agent 4: It was my pleasure, Emily. I hope you feel better soon. If you have any further questions or concerns, don't hesitate to reach out to us. Take care!
+
+Customer: Thank you. Goodbye.
+
+Agent 4: Goodbye, Emily. Have a great day! [/INST] Medical Advice or Symptom Assessment </s>

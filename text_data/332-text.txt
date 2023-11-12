@@ -1,0 +1,29 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, this is John Smith. I recently had some lab tests done at your hospital, and I'm calling to inquire about my test results.
+
+Agent 4: Thank you for reaching out, Mr. Smith. I understand you're looking for information about your lab test results. I'll be happy to assist you with that. Can you please provide me with your date of birth and any other identifying information?
+
+Customer: Sure, my date of birth is January 15th, 1985. My address is 123 Main Street, and my phone number is 555-1234.
+
+Agent 4: Thank you for providing that information, Mr. Smith. Let me pull up your records. While I'm doing that, may I ask if you have a preferred method of receiving the results?
+
+Customer: Email would be great. My email address is johnsmith@email.com.
+
+Agent 4: Noted, Mr. Smith. I have your records in front of me. It seems like your lab tests were conducted last week. Due to our high volume of tests, it can take a few days for the results to be processed. I apologize for any inconvenience caused. I see here that your results are not yet available. However, I can provide you with an estimated time frame for when you can expect them. Would that be helpful?
+
+Customer: Yes, please. I'm just eager to know the results, so any information on when I can expect them would be great.
+
+Agent 4: I completely understand, Mr. Smith. Based on our current turnaround time, I would estimate that your results will be available within the next two business days. Please keep in mind that this is an estimate and could be subject to change. Is there anything else I can assist you with?
+
+Customer: No, that's all for now. I appreciate your help, Agent 4.
+
+Agent 4: You're welcome, Mr. Smith. If you have any further questions or concerns, please don't hesitate to call us back. We're here to help. Thank you for choosing HealthHarbor, and have a great day!
+
+Customer: Thank you, Agent 4. Goodbye.
+
+[Call ends] [/INST] Lab and Test Results </s>

@@ -1,0 +1,49 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Emily Johnson, and I'm feeling really worried about some symptoms I've been experiencing.
+
+Agent 1: I'm sorry to hear that, Emily. I'm here to help. Can you please describe your symptoms to me?
+
+Customer: Well, I've been having persistent headaches for the past week. They're intense and seem to come out of nowhere. I've also been feeling unusually tired and dizzy.
+
+Agent 1: I understand your concern, Emily. Headaches, fatigue, and dizziness can be symptoms of various conditions. Have you experienced any other symptoms?
+
+Customer: Yes, actually. I've been having some trouble sleeping as well. I wake up frequently during the night and sometimes even have trouble falling asleep.
+
+Agent 1: I see. Have you noticed any changes in your appetite or weight recently?
+
+Customer: Now that you mention it, my appetite has decreased, and I've lost a few pounds without intentionally trying to.
+
+Agent 1: Thank you for sharing that, Emily. These symptoms could be indicative of different health issues, but I'm not a doctor. I would recommend scheduling an appointment with a healthcare professional to get a proper examination.
+
+Customer: I was hoping to get some advice or guidance before making an appointment. I'm really worried, and I don't want to ignore any potential health problems.
+
+Agent 1: I completely understand your concern, Emily. While I can't provide a diagnosis, I can give you some general advice. Based on your symptoms, it's important to stay hydrated, maintain a healthy diet, and try to get enough rest. However, it's crucial to consult a healthcare professional for a comprehensive evaluation.
+
+Customer: I appreciate your advice, Agent 1. I'll definitely keep that in mind. Can you recommend any specific healthcare providers in my area?
+
+Agent 1: Of course, Emily. Can you please provide me with your zip code, and I'll check our database for healthcare providers near you?
+
+Customer: Sure, my zip code is 12345.
+
+Agent 1: Thank you. Give me a moment to look that up.
+
+[Agent 1 searches for healthcare providers near the customer's location]
+
+Agent 1: I found a few healthcare providers near your area, Emily. There's HealthCare Clinic on Main Street and LifeWell Medical Center on Oak Avenue. Both have good patient reviews.
+
+Customer: Thank you, Agent 1. I'll definitely look into those options. Is there anything else I should be aware of or any specific questions I should ask the doctor?
+
+Agent 1: It's always a good idea to write down your symptoms, including when they started and any triggers you may have noticed. You can also ask the doctor about potential causes for your symptoms and any necessary tests or screenings. It's important to be open and honest with your healthcare provider to help them make an accurate diagnosis.
+
+Customer: That's great advice, Agent 1. I'll make sure to do that. Thank you for your help and guidance.
+
+Agent 1: You're welcome, Emily. I'm glad I could assist you. Remember, it's always better to be proactive about your health. If you have any more questions or concerns in the future, don't hesitate to reach out to us or your healthcare provider.
+
+Customer: I will, Agent 1. Thanks again for your time. Goodbye.
+
+Agent 1: You're welcome, Emily. Take care and goodbye. [/INST] Medical Advice or Symptom Assessment </s>

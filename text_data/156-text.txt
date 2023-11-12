@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Hi, Agent 1. My name is Emily Johnson, and I'm feeling really worried about some symptoms I've been having lately.
+
+Agent 1: Hi, Emily. I'm here to help you. What symptoms are you experiencing?
+
+Customer: Well, for the past week, I've been having persistent headaches and occasional dizziness. It's been bothering me a lot, and I'm not sure what could be causing it.
+
+Agent 1: I understand how concerning that can be. Have you noticed any other symptoms along with the headaches and dizziness?
+
+Customer: Yes, I've also been feeling a bit nauseous at times, and sometimes my vision gets blurry.
+
+Agent 1: Okay, thank you for sharing that information, Emily. Based on your symptoms, it's important to consider multiple factors. However, I would advise you to consult with a healthcare professional to get a proper diagnosis. They will be able to assess your condition thoroughly and provide you with the appropriate medical advice.
+
+Customer: I was hoping to get some insight before making an appointment. Do you have any idea what could be causing these symptoms?
+
+Agent 1: I'm not a doctor, but there are a few possible causes for your symptoms. It could be related to stress or tension headaches, dehydration, or even a side effect of certain medications. However, it's crucial to have a healthcare professional evaluate your condition to determine the exact cause and provide the most accurate advice.
+
+Customer: I understand. It's just that I've been feeling quite anxious about it all. Is there anything I can do to alleviate the symptoms in the meantime?
+
+Agent 1: I completely understand your concern, Emily. While waiting for a professional assessment, you can try some self-care measures. Make sure you're well-hydrated, get enough rest, and try relaxation techniques like deep breathing or meditation to manage stress. However, remember that these are just temporary measures and it's important to seek medical advice for a proper evaluation.
+
+Customer: Thank you for your suggestions. I'll definitely try those. I guess I should schedule an appointment with my doctor as soon as possible.
+
+Agent 1: That sounds like a good plan, Emily. It's always better to be safe and seek professional guidance. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 1.
+
+Agent 1: You're welcome, Emily. I'm glad I could assist you. If you have any more questions or concerns in the future, don't hesitate to reach out. Take care of yourself and have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye.
+
+Agent 1: Goodbye, Emily. Take care. [/INST] Medical Advice or Symptom Assessment </s>

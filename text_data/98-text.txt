@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor call center. My name is Agent 3. How may I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I need to request some of my medical records from your hospital.
+
+Agent 3: Hello, Emily. I'd be happy to assist you with your medical records request. Can you please provide me with your date of birth and the specific records you would like to request?
+
+Customer: Sure, my date of birth is January 15, 1985. I would like to request my complete medical records from the past five years.
+
+Agent 3: Thank you for providing your date of birth, Emily. I will need to verify your identity before processing the request. Could you please provide me with your address and phone number?
+
+Customer: My address is 123 Main Street, Anytown, USA, and my phone number is (555) 123-4567.
+
+Agent 3: Thank you, Emily. I have verified your identity. Now, let me check our system to see if we have your medical records available. Please stay on the line for a moment.
+
+(Customer is put on hold for a brief moment)
+
+Agent 3: Thank you for patiently waiting, Emily. I have found your medical records in our system. Could you please confirm if you would like physical copies of your records or if you prefer them to be sent electronically?
+
+Customer: I would prefer electronic copies, if possible. It would be more convenient for me.
+
+Agent 3: Noted, Emily. We can certainly provide you with electronic copies. Could you please provide me with your email address so that we can send the records to you securely?
+
+Customer: My email address is emilyjohnson@email.com.
+
+Agent 3: Thank you for providing your email address, Emily. I will now proceed with the request to send your medical records electronically. Please note that there may be a processing fee for this service. Is that acceptable to you?
+
+Customer: Yes, that's fine. I understand there might be a fee.
+
+Agent 3: Great. I will initiate the request for your medical records and inform you of any applicable fees. Please allow us some time to process your request. Is there anything else I can assist you with today, Emily?
+
+Customer: No, that's all I needed. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emily. It was my pleasure assisting you today. If you have any further questions or need assistance in the future, please don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 3. You too. Goodbye.
+
+Agent 3: Goodbye, Emily. Take care. [/INST] Medical Records Requests </s>

@@ -1,0 +1,53 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Finally, someone answered! I have been on hold for over 15 minutes! This is ridiculous!
+
+Agent: I apologize for the wait, and I understand your frustration. How can I help you today?
+
+Customer: I've been feeling really sick lately, and I need some medical advice. I'm experiencing severe headaches, dizziness, and fatigue. What do you think could be wrong with me?
+
+Agent: I'm sorry to hear that you're feeling unwell. I'm not a doctor, but those symptoms could be indicative of several conditions. It would be best for you to consult with a healthcare professional who can provide a proper assessment. Have you considered scheduling an appointment with a doctor?
+
+Customer: Yes, but I wanted to get some preliminary advice before I go. I can't afford to waste my time and money on unnecessary doctor visits.
+
+Agent: I understand your concerns, but it's important to have a healthcare professional evaluate your symptoms to provide an accurate diagnosis. They can also recommend appropriate treatment options. Would you like me to help you find a doctor near your location?
+
+Customer: Fine, if you insist. But make it quick!
+
+Agent: Of course, I'll do my best. Can you please provide me with your zip code?
+
+Customer: It's 12345.
+
+Agent: Great, give me a moment to search for doctors in your area. In the meantime, have you experienced any other symptoms or noticed any patterns related to your headaches and dizziness?
+
+Customer: Well, the headaches are more frequent in the morning and the dizziness tends to worsen when I stand up suddenly.
+
+Agent: Thank you for sharing that information. It could be helpful for the doctor during your appointment. I have found a few doctors near your location. Dr. Smith, Dr. Johnson, and Dr. Anderson are highly recommended. Which one would you prefer?
+
+Customer: I don't know any of them. Just pick one for me!
+
+Agent: Alright, I'll schedule an appointment with Dr. Smith for you. The earliest available slot is tomorrow at 10 am. Does that work for you?
+
+Customer: I guess it will have to. Can you also tell me if my health insurance covers this visit?
+
+Agent: Sure, I can check that for you. Can you please provide me with your insurance information?
+
+Customer: My insurance provider is XYZ Insurance, and my policy number is 987654321.
+
+Agent: Thank you for providing that information. I will verify your coverage and inform you shortly.
+
+(Customer waits on hold for a few minutes)
+
+Agent: I apologize for the wait. According to our records, your insurance does cover the visit with Dr. Smith. You will only need to pay your standard copay at the time of the appointment.
+
+Customer: Finally, some good news. Thank you for checking. Is there anything else I need to know?
+
+Agent: You're welcome! Just make sure to bring any relevant medical records or a list of your symptoms to share with the doctor. They will be able to provide a more accurate assessment with that information.
+
+Customer: Alright, I will do that. Thanks for your help, Agent 4.
+
+Agent: You're welcome! I'm glad I could assist you. If you have any other questions or concerns, don't hesitate to reach out. Take care and feel better soon!
+
+Customer: I will. Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

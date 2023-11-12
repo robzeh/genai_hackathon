@@ -1,0 +1,55 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Sarah Johnson. I've been experiencing some unusual symptoms lately, and I was hoping to get some medical advice or assessment.
+
+Agent 3: Hi, Sarah. I'm sorry to hear that you're not feeling well. I'll do my best to help you. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure, Agent 3. For the past few days, I've been having a persistent headache, dizziness, and occasional nausea. I haven't had any fever or cough though.
+
+Agent 3: I understand, Sarah. Headache, dizziness, and nausea can be caused by various factors. Have you been under any stress or have you made any changes in your daily routine recently?
+
+Customer: Well, I have been feeling a bit stressed at work lately, but nothing out of the ordinary. And no, I haven't made any significant changes to my routine.
+
+Agent 3: Alright, stress can sometimes contribute to these symptoms. However, it's important for us to rule out any underlying medical conditions. Have you had any recent injuries or accidents?
+
+Customer: No, I haven't had any injuries or accidents recently.
+
+Agent 3: Okay, thank you for clarifying that. Considering your symptoms, it's possible that you may be experiencing tension headaches or migraines. These can be triggered by stress, fatigue, or even certain foods. It's always best to consult with a healthcare professional for a proper diagnosis. Would you like me to help you find a doctor near your area?
+
+Customer: Yes, that would be helpful. Thank you, Agent 3.
+
+Agent 3: Not a problem, Sarah. Can you please provide me with your zip code so that I can search for doctors in your vicinity?
+
+Customer: My zip code is 12345.
+
+Agent 3: Great, thank you. I'm now searching for doctors in your area who specialize in headache and migraine treatment. While I do that, I would also recommend keeping a headache diary to track any patterns or triggers that may be causing your symptoms. This information can be helpful for your doctor during the consultation.
+
+Customer: That's a good idea, Agent 3. I will definitely start keeping a headache diary. I appreciate your help.
+
+Agent 3: You're welcome, Sarah. I have found a few doctors near your area who specialize in headache and migraine treatment. Would you like me to provide you with their contact information?
+
+Customer: Yes, please. That would be great.
+
+Agent 3: Sure, Sarah. I will provide you with the names, addresses, and phone numbers of the doctors. Please note that availability may vary, so it's best to call and schedule an appointment as soon as possible. Here are the details:
+
+1. Dr. Emily Roberts
+   123 Main Street
+   Phone: 555-1234
+
+2. Dr. Michael Anderson
+   456 Elm Avenue
+   Phone: 555-5678
+
+Customer: Thank you so much for your assistance, Agent 3. I will contact one of these doctors and schedule an appointment.
+
+Agent 3: You're welcome, Sarah. I'm glad I could help. Is there anything else I can assist you with?
+
+Customer: No, that will be all for now. Thank you again, Agent 3.
+
+Agent 3: You're welcome, Sarah. Take care and feel better soon. If you have any other questions or concerns, don't hesitate to call us back. Have a great day!
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Sarah. [/INST] Medical Advice or Symptom Assessment </s>

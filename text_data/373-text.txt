@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone ringing]
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, my name is Emily Johnson. I need to request my medical records from HealthHarbor.
+
+Agent 2: Hi, Emily. I'm sorry to hear that you're having difficulty. I'll be happy to assist you with your medical records request. Can you please provide me with your date of birth and the reason for your request?
+
+Customer: Sure, my date of birth is July 15, 1985. The reason for my request is that I'm changing doctors, and the new doctor needs my complete medical history.
+
+Agent 2: I understand, Emily. Let me pull up your records. Please bear with me for a moment.
+
+[Pause]
+
+Agent 2: Thank you for waiting, Emily. I see that you have been a patient at HealthHarbor for several years. To process your request, I'll need you to fill out a medical records request form. Would you like me to email it to you or would you prefer to receive it through regular mail?
+
+Customer: Email would be more convenient for me. Could you please send it to my email address, emilyjohnson@email.com?
+
+Agent 2: Absolutely, Emily. I will send the form to your email address right away. Please make sure to check your spam or junk folder in case it goes there. Once you receive it, please fill out the form completely and return it to us. It's important to include any specific dates or types of records you need.
+
+Customer: Okay, I will keep an eye on my email and make sure to fill out the form accurately. How long does it usually take to process the request once I send it back?
+
+Agent 2: Typically, it takes about 7-10 business days to process a medical records request. However, please note that during busy periods, it may take a bit longer. We strive to fulfill all requests as quickly as possible while ensuring accuracy and privacy.
+
+Customer: That's understandable. I just want to make sure my new doctor has all the necessary information. Will there be any fees associated with this request?
+
+Agent 2: There might be a fee for copying and processing your medical records, Emily. The exact cost will depend on the number of pages and the format you prefer. We will include all the information about the fees in the email with the form. If you have any insurance coverage that may apply to this request, please let us know, and we can provide you with the necessary documentation.
+
+Customer: I appreciate the transparency. I will check my insurance coverage and make sure to include that information when I send the form back. Is there anything else I need to know or do in regard to this request?
+
+Agent 2: Just a couple more things, Emily. Please remember to sign the form before sending it back to us, as we require a signature to release your medical records. Additionally, if you have any specific instructions or questions, feel free to include them with your request, and we'll do our best to accommodate you. If you have any further concerns or need assistance at any point, don't hesitate to reach out to us.
+
+Customer: Thank you, Agent 2. I appreciate your help and guidance. I will keep an eye on my email for the form and make sure to complete it promptly.
+
+Agent 2: You're very welcome, Emily. It was my pleasure assisting you today. If you need any further assistance, please don't hesitate to contact us. Have a great day!
+
+Customer: Thank you, Agent 2. You too. Goodbye.
+
+Agent 2: Goodbye, Emily. Take care. [/INST] Medical Records Requests </s>

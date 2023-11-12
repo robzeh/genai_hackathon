@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, this is Linda Sullivan. I'm feeling really scared and I'm not sure what to do. Can you help me?
+
+Agent 4: Of course, Linda. I'm here to help. What seems to be the problem? Can you describe your symptoms to me?
+
+Customer: Well, I've been having this persistent cough for the past week and it's getting worse. I'm also experiencing shortness of breath and chest pain. I'm really worried it could be something serious.
+
+Agent 4: I understand your concern, Linda. It's important that we address this. Have you taken your temperature recently? Any other symptoms like fever or fatigue?
+
+Customer: Yes, I have been feeling quite fatigued lately. I just checked my temperature, and it's 101.5 degrees Fahrenheit.
+
+Agent 4: Okay, Linda. Based on your symptoms, it's important that you seek medical attention as soon as possible. I would recommend visiting your nearest emergency room to get a proper evaluation.
+
+Customer: Oh no, that sounds really serious. What could it possibly be?
+
+Agent 4: I'm not a doctor, Linda, but your symptoms could indicate a respiratory infection or even pneumonia. It's best to get checked out by a healthcare professional who can provide a proper diagnosis.
+
+Customer: I'm really scared. What if it's something worse?
+
+Agent 4: I understand your fear, Linda. However, it's important to address these symptoms promptly. Seeking medical attention will help ensure you receive the appropriate treatment and care. Remember, early intervention is key in managing any health condition.
+
+Customer: You're right. I need to take this seriously. Can you help me find the nearest hospital or clinic?
+
+Agent 4: Absolutely, Linda. I can assist you with that. Can you please provide me with your zip code?
+
+Customer: My zip code is 12345.
+
+Agent 4: Thank you for providing that information. I have found a hospital near you. It's called Community Medical Center. Their address is 123 Main Street. I would recommend calling ahead to let them know about your symptoms before you visit.
+
+Customer: Thank you so much, Agent 4. I appreciate your help. I'll call them right away.
+
+Agent 4: You're welcome, Linda. I'm glad I could assist you. Is there anything else I can help you with?
+
+Customer: No, that's all for now. I'll take your advice and seek medical attention immediately. Thank you again.
+
+Agent 4: You're welcome, Linda. Take care of yourself and I hope you feel better soon. Don't hesitate to reach out if you need any further assistance. Have a good day!
+
+Customer: Thank you, Agent 4. Goodbye. [/INST] Medical Advice or Symptom Assessment </s>

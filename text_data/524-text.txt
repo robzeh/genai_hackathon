@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. I have some general inquiries about your hospital.
+
+Agent 1: Of course, I'll be happy to help. What would you like to know?
+
+Customer: Firstly, I wanted to know what kind of medical services does HealthHarbor offer?
+
+Agent 1: HealthHarbor offers a wide range of medical services, including emergency care, surgical procedures, diagnostic imaging, laboratory testing, and specialized treatments for various health conditions. We also have departments for cardiology, orthopedics, pediatrics, and more.
+
+Customer: That sounds comprehensive. How about the availability of doctors and specialists?
+
+Agent 1: We have a team of highly skilled doctors and specialists available at HealthHarbor. Our staff includes experienced physicians from various fields, ensuring that patients receive the best care possible. They work in shifts to provide round-the-clock medical services.
+
+Customer: That's great to hear. What about insurance coverage? Does HealthHarbor accept all insurance providers?
+
+Agent 1: HealthHarbor accepts most major insurance providers. However, I would recommend checking with your insurance company to confirm if they have a partnership with our hospital. Our billing department can also assist you in understanding your coverage and any out-of-pocket expenses you may have.
+
+Customer: Alright, I'll make sure to check with my insurance company. Can you tell me about the facilities and amenities available at HealthHarbor?
+
+Agent 1: Certainly! HealthHarbor is equipped with state-of-the-art facilities to ensure the comfort and well-being of our patients. We have modern patient rooms, advanced medical equipment, and a dedicated team of nurses and support staff. Additionally, we have a cafeteria, parking facilities, and a pharmacy on-site for the convenience of our patients and their families.
+
+Customer: That sounds very convenient. I appreciate the information. Is HealthHarbor affiliated with any medical research or academic institutions?
+
+Agent 1: Yes, HealthHarbor is proud to be affiliated with several renowned medical research and academic institutions. We actively participate in clinical trials and research studies to contribute to the advancement of medical knowledge and provide our patients with access to innovative treatments.
+
+Customer: That's impressive. I have one more question. How can I schedule an appointment at HealthHarbor?
+
+Agent 1: To schedule an appointment, you can call our appointment line, which is available 24/7. Our friendly staff will assist you in finding a suitable time slot and provide any necessary instructions. Alternatively, you can also schedule an appointment online through our website.
+
+Customer: Perfect, thank you for your help. That's all I needed to know.
+
+Agent 1: You're welcome! I'm glad I could assist you. If you have any more questions in the future or need any further assistance, feel free to reach out to us. Have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye.
+
+Agent 1: Goodbye, take care! [/INST] General Inquiries </s>

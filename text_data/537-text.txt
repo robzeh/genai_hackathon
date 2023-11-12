@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Emily Thompson, and I'm feeling quite worried. I need to request my medical records from your hospital.
+
+Agent 2: I understand your concern, Emily. We're here to help. Could you please provide me with your date of birth and the reason for your request?
+
+Customer: Sure. My date of birth is March 12, 1985. The reason for my request is that I'm switching doctors, and they need my complete medical history.
+
+Agent 2: I see. Thank you for sharing that information. In order to process your request, I will need your written authorization. Could you please confirm your current address?
+
+Customer: Yes, my current address is 123 Oak Street, Anytown, USA.
+
+Agent 2: Great, thank you. To expedite the process, would you prefer to receive your medical records electronically or in paper format?
+
+Customer: I think electronic format would be more convenient for me. Is that possible?
+
+Agent 2: Absolutely, Emily. We can definitely accommodate that. We will send you a secure link via email where you can access and download your medical records. Could you please provide me with your email address?
+
+Customer: Sure. It's emily.thompson@email.com.
+
+Agent 2: Perfect, thank you. I have updated your preference to electronic delivery. Please allow us up to 3 business days to process your request. Is there anything else I can assist you with today?
+
+Customer: Actually, yes. I recently had some lab tests done at your hospital, and I haven't received the results yet. Is there any way you can help me with that?
+
+Agent 2: Of course, Emily. Let me check that for you. Can you please provide me with the date when the tests were conducted?
+
+Customer: The tests were conducted on February 27th.
+
+Agent 2: Thank you for that information. I'm checking our system now. It seems that the results were already sent to your primary care physician. They should have received them by now. Have you been in touch with your doctor's office regarding this?
+
+Customer: No, I haven't. I will reach out to them and see if they have received the results. Thank you for your help.
+
+Agent 2: You're welcome, Emily. If you have any further questions or concerns, please don't hesitate to contact us again. We're here to assist you. Take care, and have a great day!
+
+Customer: Thank you, Agent 2. I really appreciate your help. Goodbye.
+
+Agent 2: Goodbye, Emily. Take care. [/INST] Medical Records Requests </s>

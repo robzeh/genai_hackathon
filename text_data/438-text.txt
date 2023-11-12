@@ -1,0 +1,33 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Finally! I've been waiting for my lab and test results for weeks now. This is absolutely unacceptable!
+
+Agent 4: I apologize for the delay in receiving your results. I understand your frustration, and I'm here to help. May I have your name, please?
+
+Customer: My name is John Smith.
+
+Agent 4: Thank you, Mr. Smith. Let me check your file to see if your results have been processed. Can you please verify your date of birth?
+
+Customer: It's June 15, 1980.
+
+Agent 4: Thank you for confirming. I see here that your lab and test results were sent out last week. However, it seems there was an issue with the delivery. I apologize for the inconvenience caused.
+
+Customer: This is unbelievable! How could you let something like that happen? I need those results urgently!
+
+Agent 4: I understand your urgency, Mr. Smith. Rest assured, we take this matter seriously. I will personally follow up on this and ensure your results are delivered to you as soon as possible. Can you please provide me with your current address?
+
+Customer: My address is 123 Main Street, Anytown, USA.
+
+Agent 4: Thank you, Mr. Smith. I have updated your address in our system. I will arrange for your results to be sent out again today with expedited shipping. You should receive them within the next two business days.
+
+Customer: It better arrive this time. I've had enough of this incompetence!
+
+Agent 4: I completely understand your frustration, Mr. Smith, and again, I apologize for the inconvenience caused. Is there anything else I can assist you with today?
+
+Customer: No, just make sure I receive my results this time.
+
+Agent 4: Absolutely, Mr. Smith. I will personally monitor the delivery and make sure everything goes smoothly. If you have any further questions or concerns, please don't hesitate to call us back. Thank you for choosing HealthHarbor, and have a great day.
+
+Customer: Thank you. [/INST] Lab and Test Results </s>

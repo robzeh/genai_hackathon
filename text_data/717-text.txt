@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor. This is Agent 3. How can I assist you today?
+
+Customer: Finally, someone who answered! I've been trying to get my medical records for weeks now and nobody seems to care!
+
+Agent 3: I'm sorry to hear about your frustration. I'll do my best to help you. Could you please provide me with your name and date of birth so I can locate your records?
+
+Customer: My name is John Smith and my date of birth is July 15, 1980.
+
+Agent 3: Thank you, Mr. Smith. Let me check your records in our system. I understand you've been experiencing difficulties obtaining them. I apologize for any inconvenience caused. Can you please let me know the specific records you are looking for?
+
+Customer: I need a copy of my recent lab test results and my medical history for the past five years. I've requested them multiple times but haven't received anything!
+
+Agent 3: I apologize for the delay, Mr. Smith. Let me assure you that I will personally look into this matter for you. While I locate your records, could you please verify your contact information, including your address and phone number?
+
+Customer: My address is 123 Main Street, Anytown, USA. My phone number is 555-123-4567.
+
+Agent 3: Thank you for confirming your contact information. I have located your records in our system. I see that there was an error in processing your previous requests, and I sincerely apologize for that. Rest assured, I'm here to rectify the situation. 
+
+Customer: It's about time! I can't believe it took so long for someone to take action.
+
+Agent 3: I completely understand your frustration, Mr. Smith. I assure you that we take your concerns seriously. To expedite the process, I will personally process your request for the lab test results and medical history. Is there a specific format you would like these records in, such as printed copies or digital files?
+
+Customer: Printed copies would be best for me. I want to have a physical copy of my records.
+
+Agent 3: Noted, Mr. Smith. I will arrange for printed copies of your records to be sent to your address. Please allow 7-10 business days for delivery. Additionally, I will also email you a digital copy for your convenience.
+
+Customer: Finally, some progress! I hope this time it actually happens.
+
+Agent 3: I understand your concern, Mr. Smith, and I apologize for any inconvenience caused. I will personally follow up on your request to ensure it is processed promptly. Is there anything else I can assist you with today?
+
+Customer: No, that's all I needed. Just make sure my records are sent this time.
+
+Agent 3: Absolutely, Mr. Smith. I will personally oversee the process to ensure your records are sent without any further delays. If you have any other questions or concerns in the future, please don't hesitate to reach out to us. Thank you for your patience and understanding.
+
+Customer: Thank you. I hope this gets resolved soon.
+
+Agent 3: You're welcome, Mr. Smith. I apologize again for the inconvenience caused. We will make sure to rectify this situation promptly. Have a great day!
+
+Customer: Goodbye. [/INST] Medical Records Requests </s>

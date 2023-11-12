@@ -1,0 +1,51 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi Agent 2, my name is Emily Johnson. I have some general inquiries about your hospital. 
+
+Agent 2: Hi Emily, I'll be happy to help you with your inquiries. What would you like to know?
+
+Customer: Firstly, I would like to know what medical services HealthHarbor offers?
+
+Agent 2: HealthHarbor offers a wide range of medical services including emergency care, surgery, maternity care, pediatrics, cardiology, radiology, and various specialized treatments. We also have a fully equipped laboratory and pharmacy.
+
+Customer: That's great to know. Can you tell me more about your emergency care services?
+
+Agent 2: Of course, Emily. Our emergency care department is available 24/7 to handle any urgent medical situations. We have highly trained doctors and nurses who are experienced in providing immediate and specialized care to patients in critical conditions.
+
+Customer: That's reassuring. How about your surgical services? Are all types of surgeries available at HealthHarbor?
+
+Agent 2: Yes, Emily. We have state-of-the-art operation theaters and highly skilled surgeons who perform a wide range of surgeries including general surgeries, orthopedic surgeries, cardiovascular surgeries, neurosurgeries, and more. We ensure the highest standards of safety and care during surgical procedures.
+
+Customer: That's impressive. I also wanted to inquire about your maternity care. What kind of facilities do you have for expectant mothers?
+
+Agent 2: We have a dedicated maternity ward with comfortable rooms and advanced equipment to support expectant mothers throughout their pregnancy and delivery. Our team of obstetricians, gynecologists, and nurses provide personalized care and support during this special time.
+
+Customer: That sounds wonderful. What about pediatrics? Do you have specialized care for children?
+
+Agent 2: Absolutely, Emily. HealthHarbor has a comprehensive pediatric department with experienced pediatricians who specialize in the healthcare needs of infants, children, and adolescents. We provide routine check-ups, vaccinations, and treatment for various pediatric conditions.
+
+Customer: That's really important. I'm glad to hear that you have such a specialized department. What about cardiology services? Are heart-related treatments available at HealthHarbor?
+
+Agent 2: Yes, Emily. Our cardiology department provides a wide range of services for heart-related conditions. We have advanced diagnostic tools for identifying cardiovascular diseases and a team of cardiologists who offer comprehensive treatment plans, including medical management, interventional procedures, and cardiac surgeries if necessary.
+
+Customer: That's good to know. I also wanted to ask if HealthHarbor has radiology services?
+
+Agent 2: Yes, Emily. We have a fully equipped radiology department with state-of-the-art imaging technology. Our radiologists perform various imaging tests like X-rays, MRIs, CT scans, ultrasounds, and more. These tests help in diagnosing and monitoring various medical conditions.
+
+Customer: That's great. And finally, does HealthHarbor have any specialized treatments or departments?
+
+Agent 2: Yes, Emily. We have several specialized departments, such as oncology for cancer treatment, neurology for neurological disorders, gastroenterology for digestive system issues, and many more. Each department is staffed with specialized doctors and healthcare professionals who provide focused care for specific medical conditions.
+
+Customer: That's really helpful information, Agent 2. Thank you for answering all my questions so patiently.
+
+Agent 2: You're welcome, Emily. I'm glad I could assist you. Is there anything else you would like to know or any other concerns you have?
+
+Customer: No, that's all for now. I appreciate your help.
+
+Agent 2: It was my pleasure, Emily. If you have any further questions in the future, don't hesitate to reach out. Have a great day!
+
+Customer: Thank you, Agent 2. You too. Goodbye!
+
+Agent 2: Goodbye, Emily. Take care! [/INST] General Inquiries </s>

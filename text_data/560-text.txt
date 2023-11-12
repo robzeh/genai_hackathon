@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi, Agent 3. My name is Emily Johnson. I'm feeling really worried about my health and I was hoping you could help me with some general inquiries.
+
+Agent 3: Of course, Emily. I'm here to help. What seems to be the problem?
+
+Customer: Well, I've been experiencing some frequent headaches lately and I'm not sure if it's something I should be concerned about.
+
+Agent 3: I understand your concern, Emily. Headaches can be caused by various factors. Have you noticed any specific triggers or patterns with your headaches?
+
+Customer: Not really. They just seem to come out of nowhere and they're becoming more frequent. I've tried taking over-the-counter pain relievers, but they only provide temporary relief.
+
+Agent 3: I'm not a doctor, but I can certainly try to provide some general information. Frequent headaches could be a symptom of different underlying conditions. It's always a good idea to consult with a healthcare professional who can evaluate your specific situation. Would you like me to assist you in finding a healthcare provider near you?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 3: Great, I'll need your location to find the nearest healthcare providers. Could you please provide me with your zip code?
+
+Customer: Sure, it's 12345.
+
+Agent 3: Thank you. Give me a moment to search for healthcare providers in your area. While I do that, Emily, have you experienced any other symptoms along with your headaches?
+
+Customer: Not really, just some occasional dizziness and fatigue.
+
+Agent 3: Okay, thank you for letting me know. I found a few healthcare providers near your location. There's HealthFirst Clinic and City Medical Center. Both have good ratings and offer a wide range of services. Would you like their contact information?
+
+Customer: Yes, please. I would appreciate that.
+
+Agent 3: For HealthFirst Clinic, their number is (555) 123-4567, and for City Medical Center, their number is (555) 987-6543. I recommend giving them a call and explaining your symptoms to schedule an appointment with a healthcare professional. They will be able to provide a more accurate diagnosis and recommend appropriate treatment options.
+
+Customer: Thank you, Agent 3. I will definitely reach out to them and schedule an appointment. I appreciate your help.
+
+Agent 3: You're welcome, Emily. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again for your assistance.
+
+Agent 3: It was my pleasure, Emily. I hope everything goes well with your appointment. If you have any more questions or concerns in the future, don't hesitate to reach out. Take care!
+
+Customer: Thank you, Agent 3. Goodbye.
+
+Agent 3: Goodbye, Emily. Have a great day! [/INST] General Inquiries </s>

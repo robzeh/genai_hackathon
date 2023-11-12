@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Good morning, thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer (angry): Finally, someone answered! I've been on hold for ages! I need to know why my insurance claim hasn't been processed yet. This is unacceptable!
+
+Agent 4: I apologize for the wait and any inconvenience caused. I understand your frustration, and I'll do my best to assist you. May I have your name and policy number, please?
+
+Customer: My name is Jane Smith, and my policy number is 123456789.
+
+Agent 4: Thank you, Ms. Smith. Let me check the status of your claim. I'm sorry to inform you that there seems to be a delay in processing your claim. Our team is currently experiencing a high volume of claims due to an increase in patient visits. Rest assured, we are working diligently to resolve this issue as soon as possible.
+
+Customer: Well, it better be resolved soon! I've been waiting for weeks, and I need this claim processed for my medical bills.
+
+Agent 4: I completely understand your urgency, Ms. Smith. I apologize for any inconvenience caused. To expedite the process, I will personally follow up with our claims department and ensure your claim is processed promptly. Can I have your contact number to update you on the progress?
+
+Customer: Fine, it's 555-123-4567.
+
+Agent 4: Thank you for providing your contact number, Ms. Smith. I will keep you updated on the progress of your claim. In the meantime, is there anything else I can assist you with?
+
+Customer: No, I just want this claim issue sorted out. It's causing me so much stress and financial burden.
+
+Agent 4: I completely understand, Ms. Smith, and I apologize for the inconvenience this has caused you. Rest assured, I will personally monitor your claim and ensure it is resolved as soon as possible. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Just make sure it gets resolved quickly.
+
+Agent 4: I assure you, Ms. Smith, that I will do everything in my power to resolve this matter promptly. Thank you for bringing this to our attention, and I appreciate your patience. If you have any further questions or concerns, please don't hesitate to reach out to me. Have a great day.
+
+Customer: I hope so. Goodbye.
+
+Agent 4: Goodbye, Ms. Smith. Take care. [/INST] General Inquiries </s>

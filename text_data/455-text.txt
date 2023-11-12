@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good morning, thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: Good morning, Agent 1. I'm calling because I would like some information about your healthcare facility, HealthHarbor.
+
+Agent 1: Of course, I'll be happy to help you with that. Can I please have your name?
+
+Customer: Yes, my name is John Smith.
+
+Agent 1: Thank you, Mr. Smith. How may I assist you today regarding HealthHarbor?
+
+Customer: I would like to know what medical services are offered at HealthHarbor.
+
+Agent 1: HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We provide primary care, emergency medicine, surgical services, diagnostic imaging, laboratory services, and much more. Our goal is to provide high-quality care to our patients.
+
+Customer: That sounds great. Are there any specialized departments or services available at HealthHarbor?
+
+Agent 1: Absolutely, we have several specialized departments within our hospital. We have departments for cardiology, orthopedics, neurology, oncology, and pediatrics. Each department is staffed by highly skilled and experienced medical professionals to ensure the best possible care for our patients.
+
+Customer: That's impressive. How can I schedule an appointment at HealthHarbor?
+
+Agent 1: Scheduling an appointment is easy. You can call our appointment hotline at any time, and our friendly staff will assist you in finding a suitable time slot. Alternatively, you can also schedule an appointment online through our website.
+
+Customer: That's convenient. Is HealthHarbor covered by insurance?
+
+Agent 1: HealthHarbor accepts most major insurance plans. However, it is always a good idea to check with your insurance provider to ensure coverage. We also offer payment plans and financial assistance for those without insurance or with limited coverage.
+
+Customer: That's good to know. Is there anything else I should be aware of when visiting HealthHarbor?
+
+Agent 1: When you visit our facility, please make sure to bring your identification, insurance card, and any relevant medical records. It's also helpful to arrive a few minutes early for your appointment to complete any necessary paperwork. Our staff will guide you through the process and answer any questions you may have.
+
+Customer: Thank you for the information, Agent 1. I appreciate your help.
+
+Agent 1: You're welcome, Mr. Smith. If you have any more questions or need further assistance, please don't hesitate to reach out. We're here to help. Have a great day!
+
+Customer: Thank you, Agent 1. You too. Goodbye.
+
+Agent 1: Goodbye, Mr. Smith. Take care. [/INST] Healthcare Facility Information </s>

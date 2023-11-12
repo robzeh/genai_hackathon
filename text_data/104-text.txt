@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor. My name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I've been experiencing some concerning symptoms lately, and I was hoping to get some medical advice or a symptom assessment.
+
+Agent 4: I'm here to help, Sarah. Could you please describe the symptoms you've been experiencing?
+
+Customer: Well, for the past week, I've had a persistent cough, occasional shortness of breath, and fatigue. I also noticed a slight fever a few days ago.
+
+Agent 4: I'm sorry to hear that, Sarah. These symptoms can be indicative of various conditions. To better understand your situation, may I ask if you have any underlying medical conditions or allergies?
+
+Customer: I don't have any known medical conditions, but I do suffer from seasonal allergies.
+
+Agent 4: Thank you for sharing that information, Sarah. It's important to consider all factors when assessing your symptoms. Based on what you've described, it would be best to consult a healthcare professional. They can provide a more accurate diagnosis and recommend appropriate treatment. Would you like me to help you find a healthcare provider in your area?
+
+Customer: Yes, that would be helpful. Thank you.
+
+Agent 4: Of course, Sarah. Could you please provide me with your zip code?
+
+Customer: My zip code is 12345.
+
+Agent 4: Thank you. Give me a moment to search for healthcare providers near your location.
+
+(Customer and Agent 4 wait for a few moments.)
+
+Agent 4: I have found a few healthcare providers near your area, Sarah. Would you like me to provide you with their contact information?
+
+Customer: Yes, please.
+
+Agent 4: I have found two options for you. The first option is HealthFirst Medical Center, located at 123 Main Street. Their phone number is (555) 123-4567. The second option is CareWell Clinic, located at 456 Elm Street. Their phone number is (555) 987-6543. Please note that it's advisable to call ahead and check their availability.
+
+Customer: Thank you so much, Agent 4. I really appreciate your help.
+
+Agent 4: You're welcome, Sarah. I'm glad I could assist you. Is there anything else I can help you with?
+
+Customer: No, that will be all. Thanks again.
+
+Agent 4: It was my pleasure, Sarah. Take care, and I hope you feel better soon.
+
+(Customer and Agent 4 exchange pleasantries and end the call.) [/INST] Medical Advice or Symptom Assessment </s>

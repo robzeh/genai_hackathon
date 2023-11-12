@@ -1,0 +1,39 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 2: Good morning, thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, I'm John Smith. I recently had some lab tests done at your hospital and I was wondering if the results are available yet.
+
+Agent 2: Hello, Mr. Smith. I'll be happy to help you with that. May I have your date of birth and the type of test you had done?
+
+Customer: Sure, my date of birth is January 15, 1980, and I had a blood test done last week.
+
+Agent 2: Thank you for providing that information, Mr. Smith. Let me quickly check your test results in our system. Please bear with me for a moment.
+
+[Pause]
+
+Agent 2: I have found your lab results, Mr. Smith. According to the report, everything appears to be within the normal range. Is there anything specific you would like to know about your test results?
+
+Customer: That's a relief to hear. I just wanted to make sure everything was okay. Thank you for checking. I do have a question, though. Could you explain what some of the values mean on the report?
+
+Agent 2: Absolutely, Mr. Smith. I'll do my best to explain them to you. Which values are you specifically interested in?
+
+Customer: Well, there are a few numbers that caught my attention. For example, my cholesterol levels and my liver enzymes. I'm not sure what the normal range is for those.
+
+Agent 2: I understand your concern. Let me pull up the specific ranges for you. For cholesterol, the normal range for total cholesterol is below 200 milligrams per deciliter. As for liver enzymes, there are a few different values we look at, such as ALT and AST. The normal range for ALT is typically between 7 and 55 units per liter, while the normal range for AST is usually between 8 and 48 units per liter.
+
+Customer: Thank you for explaining that. It's good to know that my results are within the normal range. Is there anything else I should be concerned about?
+
+Agent 2: Based on the report, Mr. Smith, there doesn't seem to be any significant concerns. However, it's important to remember that I'm not a doctor, and it's always a good idea to discuss your results with your primary care physician. They will be able to provide you with a more comprehensive analysis and address any specific concerns you may have.
+
+Customer: I understand. I have an appointment scheduled with my doctor next week, so I will definitely bring the results with me. Thank you for your assistance.
+
+Agent 2: You're welcome, Mr. Smith. I'm glad I could help. Is there anything else I can assist you with today?
+
+Customer: No, that was all. Thank you again for your help. Have a great day!
+
+Agent 2: You're welcome, Mr. Smith. Have a great day too, and take care!
+
+[End of call] [/INST] Lab and Test Results </s>

@@ -1,0 +1,29 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How can I assist you today?
+
+Customer: Finally, someone answered! I've been on hold for ages. I need to make a complaint about the service I received at your hospital.
+
+Agent 1: I apologize for the wait and any inconvenience caused. I understand you're feeling upset. Could you please provide me with your name and some details about your visit?
+
+Customer: My name is Emma Thompson. I was at your hospital last week for a minor surgery, and I have never been so disappointed. The staff was rude, and the facilities were not up to par. I demand an explanation!
+
+Agent 1: I'm sorry to hear about your negative experience, Emma. I can definitely understand your frustration. Let me assure you that we take complaints like these seriously. I will do my best to address your concerns. Can you please elaborate on the specific issues you encountered?
+
+Customer: Well, first of all, the nurses seemed disinterested in their work. They were rude and dismissive when I asked for assistance. Secondly, the cleanliness of the hospital was appalling. I expected a hygienic environment, but it was far from it. I'm appalled at the lack of professionalism.
+
+Agent 1: I apologize for the behavior of our staff and the overall cleanliness of the hospital during your visit, Emma. This is not the standard we strive to maintain. I will make sure to escalate your concerns to the appropriate department for further investigation. We aim to provide excellent care and will take immediate action to rectify any shortcomings.
+
+Customer: Well, I hope you do take this seriously. It's unacceptable to treat patients this way. I trusted your hospital to provide quality care, and I feel let down.
+
+Agent 1: I understand your disappointment, Emma, and I assure you that we are taking this seriously. Your feedback helps us improve our services. Is there anything else you would like to bring to my attention?
+
+Customer: No, that's all. I just wanted to express my dissatisfaction and make sure that you understand the gravity of the situation.
+
+Agent 1: I appreciate you taking the time to share your concerns with us, Emma. Rest assured, we will investigate this matter thoroughly and take appropriate action. I apologize once again for the inconvenience caused. Is there anything else I can assist you with today?
+
+Customer: No, that will be all. I hope you address these issues promptly.
+
+Agent 1: Absolutely, Emma. Thank you for bringing this to our attention. We value your feedback and will make every effort to prevent such incidents in the future. If you have any further questions or concerns, please don't hesitate to reach out to us. Have a good day.
+
+Customer: Goodbye. [/INST] General Inquiries </s>

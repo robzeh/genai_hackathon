@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 3: Thank you for calling HealthHarbor, my name is Agent 3. How can I assist you today?
+
+Customer: Hi Agent 3, my name is Emma Johnson. I've been experiencing some symptoms lately and I wanted to seek medical advice or get a symptom assessment.
+
+Agent 3: I'm sorry to hear that, Emma. I'll do my best to help you. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. I've been having a persistent headache for the past few days, and it's been accompanied by dizziness and occasional nausea. I'm not sure what could be causing it.
+
+Agent 3: I understand your concern, Emma. Headaches can have various causes. Have you experienced any recent changes in your lifestyle or any other symptoms besides the headache, dizziness, and nausea?
+
+Customer: No major lifestyle changes, but I have noticed that my vision seems a bit blurry at times. And I've been feeling more fatigued than usual.
+
+Agent 3: Thank you for sharing that information, Emma. Blurry vision and fatigue can also be related to your symptoms. It's important to consider all these factors for a proper assessment. Based on your symptoms, I would recommend consulting with a healthcare professional. They will be able to conduct a thorough examination and provide a more accurate diagnosis.
+
+Customer: I was hoping to get some advice before scheduling a doctor's appointment. Is there anything I can do to relieve these symptoms in the meantime?
+
+Agent 3: While I'm not a doctor, I can offer some general suggestions. You could try applying a cold or warm compress to your forehead to see if it helps with the headache. It's also important to stay hydrated and get enough rest. However, it's crucial to understand that these measures may not address the underlying cause of your symptoms. A medical professional will be able to provide a more targeted approach.
+
+Customer: I understand. I'll make sure to schedule an appointment with a doctor as soon as possible. Thank you for your advice.
+
+Agent 3: You're welcome, Emma. It's always better to be safe and have a professional evaluation. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. Thank you for your help, Agent 3.
+
+Agent 3: You're welcome, Emma. I hope you feel better soon. If you have any more questions or concerns, don't hesitate to reach out. Take care!
+
+Customer: Thank you, Agent 3. Have a great day!
+
+Agent 3: You too, Emma. Goodbye! [/INST] Medical Advice or Symptom Assessment </s>

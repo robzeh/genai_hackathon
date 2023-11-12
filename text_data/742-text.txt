@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How may I assist you today?
+
+Customer: Hi, Agent 1. My name is Emily Thompson. I need some help with a medical records request.
+
+Agent 1: Of course, Emily. I'd be happy to assist you with that. What specific medical records are you looking to request?
+
+Customer: I recently visited your hospital for a surgery, and I need a copy of my operative report and any other relevant documents.
+
+Agent 1: I understand your concern, Emily. I'm sorry to hear that you're worried. Let me check if I can assist you in obtaining those records. Could you please provide me with your date of birth and any other identifying information?
+
+Customer: Sure, my date of birth is September 12, 1985. My address is 123 Main Street, Anytown, USA.
+
+Agent 1: Thank you for providing that information, Emily. Let me pull up your records. While I'm doing that, can you please explain why you need these records?
+
+Customer: I have been experiencing some post-surgery complications, and my new doctor needs to review the details of my surgery. They've requested a copy of my operative report to better understand my condition.
+
+Agent 1: I'm sorry to hear about your complications, Emily. It's important that your new doctor has all the necessary information. I appreciate your patience while I locate your records.
+
+(Customer and Agent 1 wait for a moment as the records are being searched.)
+
+Agent 1: Thank you for waiting, Emily. I've found your records. I see that you had your surgery on June 5, 2021. Is that correct?
+
+Customer: Yes, that's correct.
+
+Agent 1: Great. I will initiate the process to send you the requested documents. You will receive them via mail within the next 5-7 business days. Is there any other assistance you need?
+
+Customer: Thank you for your help, Agent 1. I appreciate your prompt action in sending the records. I don't have any other questions at the moment.
+
+Agent 1: You're welcome, Emily. I'm glad I could help. If you have any further questions or concerns, please don't hesitate to contact us. We're here to assist you. Take care, and I hope your complications get resolved soon.
+
+Customer: Thank you, Agent 1. I will reach out if I need any further assistance. Goodbye.
+
+Agent 1: Goodbye, Emily. Have a great day and take care. [/INST] Medical Records Requests </s>

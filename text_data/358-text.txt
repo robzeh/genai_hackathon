@@ -1,0 +1,37 @@
+<s>[INST] Classify the following call transcript:
+
+[Customer]: Hello, is this the HealthHarbor call center?
+
+[Agent 3]: Yes, this is the HealthHarbor call center. How may I assist you today?
+
+[Customer]: I'm feeling really worried about some symptoms I've been experiencing lately. I was hoping to get some medical advice or an assessment of my symptoms.
+
+[Agent 3]: I'd be happy to help you with that. Can you please provide me with your name?
+
+[Customer]: My name is Emily Johnson.
+
+[Agent 3]: Thank you, Emily. Before we proceed, I want to assure you that we are here to help and provide you with the best possible guidance. Can you please describe the symptoms you're experiencing?
+
+[Customer]: Lately, I've been having persistent headaches, dizziness, and occasional blurred vision. It's been going on for about a week now, and I'm getting worried.
+
+[Agent 3]: I understand your concern, Emily. Headaches, dizziness, and blurred vision can be symptoms of various conditions. Have you experienced any other symptoms alongside these?
+
+[Customer]: No, these are the main symptoms I've been noticing.
+
+[Agent 3]: Alright, based on the symptoms you've described, it's important to consider several possibilities. However, I'm not a doctor, so I would recommend scheduling an appointment with a healthcare provider for a thorough evaluation. They will be able to assess your symptoms, conduct any necessary tests, and provide you with an accurate diagnosis.
+
+[Customer]: I was really hoping to get some initial advice before scheduling an appointment. Is there anything I can do in the meantime to alleviate my symptoms?
+
+[Agent 3]: I understand your concern, Emily. While I cannot provide a diagnosis, I can offer some general suggestions. It's important to ensure you're well-hydrated, get enough rest, and avoid triggers such as bright lights or loud noises that might worsen your symptoms. It may also be helpful to keep a diary of your symptoms, noting any patterns or triggers that you observe. This information can be valuable during your appointment.
+
+[Customer]: Thank you for the advice. I will definitely try those suggestions and keep track of my symptoms. I guess I'll schedule an appointment with my doctor as soon as possible.
+
+[Agent 3]: That's a wise decision, Emily. It's always better to consult with a healthcare professional for a proper evaluation. They will be able to provide you with the necessary guidance and support. Is there anything else I can assist you with today?
+
+[Customer]: No, that's all for now. Thank you for your help, Agent 3.
+
+[Agent 3]: You're welcome, Emily. I'm glad I could assist you today. If you have any further questions or concerns, don't hesitate to reach out to us. Take care and I hope you feel better soon.
+
+[Customer]: Thank you, Agent 3. Goodbye.
+
+[Agent 3]: Goodbye, Emily. Have a great day. [/INST] Medical Advice or Symptom Assessment </s>

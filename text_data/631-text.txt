@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Good morning, thank you for calling HealthHarbor. My name is Agent 1. How may I assist you today?
+
+Customer: Hello, Agent 1. My name is Emma Johnson. I'm feeling really scared and I need some help with a medical records request.
+
+Agent 1: I'm sorry to hear that you're feeling scared, Emma. Don't worry, we're here to help you. Can you please provide me with your date of birth and the reason for your medical records request?
+
+Customer: Thank you, Agent 1. My date of birth is June 15, 1985. I need the records for my recent surgery, as my new doctor requires them for further treatment.
+
+Agent 1: I understand, Emma. Let me pull up your file to see what we can do for you. Can you please verify your address and contact number to ensure we have the correct information?
+
+Customer: Sure. My address is 123 Main Street, Anytown, USA, and my contact number is 555-123-4567.
+
+Agent 1: Thank you for confirming, Emma. Let me check if your medical records are available in our system. Please bear with me for a moment.
+
+(Customer waits for a brief moment)
+
+Agent 1: Emma, I have checked our system and I'm happy to inform you that we do have your medical records on file. However, due to our security protocols, we cannot provide them over the phone. You have a couple of options to obtain your records.
+
+Customer: Oh no, what are my options? I really need those records as soon as possible.
+
+Agent 1: I completely understand, Emma. Option one is to visit our hospital's medical records department in person and request a copy. Option two is to fill out a medical records release form, which we can mail or email to you. Once you complete and return the form, we will send you a copy of your records.
+
+Customer: I see. Option two sounds more convenient for me. Can you please email me the form?
+
+Agent 1: Of course, Emma. I will need your email address to send it to you. Could you please provide me with your email?
+
+Customer: Absolutely. My email address is emma.johnson@email.com.
+
+Agent 1: Thank you, Emma. I will send you the form right away. Please check your inbox and fill it out as soon as possible. Once we receive the completed form, we will process your request and send you a copy of your medical records within 7-10 business days.
+
+Customer: Okay, I will keep an eye on my email. Thank you so much for your help, Agent 1. I really appreciate it.
+
+Agent 1: You're welcome, Emma. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you again for your assistance and understanding. Have a great day!
+
+Agent 1: You're welcome, Emma. You have a great day too, and take care. If you have any further questions or concerns, don't hesitate to reach out to us. Goodbye!
+
+(Customer and Agent 1 end the call) [/INST] Medical Records Requests </s>

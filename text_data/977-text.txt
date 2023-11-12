@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Anna Smith, and I'm calling because I've been experiencing some symptoms and I'm not sure what to do about them.
+
+Agent: I'm sorry to hear that, Anna. Can you please describe the symptoms you've been experiencing?
+
+Customer: Sure. For the past few days, I've had a persistent headache, along with a stuffy nose and a sore throat. I've also been feeling a bit fatigued.
+
+Agent: I understand, Anna. It sounds like you might be coming down with a cold or a sinus infection. Have you taken any over-the-counter medication to help with the symptoms?
+
+Customer: I've been taking some pain relievers for the headache, but they only provide temporary relief. I haven't tried anything specifically for cold or sinus symptoms.
+
+Agent: I recommend trying an over-the-counter nasal decongestant to help with your stuffy nose. It should provide some relief. Additionally, drinking plenty of fluids and getting enough rest can help your body fight off the infection. If your symptoms worsen or persist for more than a week, I would recommend scheduling an appointment with your primary care physician.
+
+Customer: Thank you for the advice, Agent 2. I'll definitely try those recommendations. Is there anything else I should be aware of or any specific warning signs I should watch out for?
+
+Agent: You're welcome, Anna. If you experience difficulty breathing, severe throat pain, or if your headache becomes unbearable, it's important to seek medical attention immediately. These could be signs of a more serious condition that requires further evaluation.
+
+Customer: I'll keep an eye out for those warning signs. Thank you for your help, Agent 2. Is there anything else I need to know?
+
+Agent: You're welcome, Anna. Just remember to take care of yourself, get plenty of rest, and follow up with your primary care physician if your symptoms persist or worsen. If you have any further questions or concerns, don't hesitate to give us a call. We're here to assist you.
+
+Customer: I appreciate your assistance, Agent 2. I feel more informed now and will definitely follow your advice. Thank you for your time.
+
+Agent: You're welcome, Anna. I'm glad I could help. Take care, and I hope you feel better soon. Have a great day!
+
+Customer: Thank you, Agent 2. You too. Goodbye!
+
+Agent: Goodbye, Anna. [/INST] Medical Advice or Symptom Assessment </s>

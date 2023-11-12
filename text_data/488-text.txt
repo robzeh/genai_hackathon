@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Finally! I've been trying to get through to someone for ages. Your customer service is terrible!
+
+Agent: I apologize for the wait and any inconvenience caused. How can I help you?
+
+Customer: I have some general inquiries about your hospital. First of all, why is it so difficult to schedule an appointment? I've been trying for days!
+
+Agent: I understand your frustration, and I apologize for the inconvenience. Our appointment slots can fill up quickly, especially for popular specialties or specific doctors. Have you tried using our online platform to schedule an appointment?
+
+Customer: Yes, I have. But every time I try, it says there are no available slots. It's extremely frustrating!
+
+Agent: I apologize for the inconvenience. Our online platform may not always reflect real-time availability. However, I assure you that we do have appointments available. Can you please provide me with your name and contact information? I will personally assist you in scheduling an appointment.
+
+Customer: Fine. My name is John Smith, and my phone number is 555-1234.
+
+Agent: Thank you, Mr. Smith. I will check our system for available appointments and contact you within the next 24 hours to schedule one for you. Is there anything else I can assist you with?
+
+Customer: Well, while we're at it, I have another concern. The last time I visited your hospital, the staff was extremely rude and unprofessional. I expect better treatment from a healthcare facility!
+
+Agent: I apologize for the negative experience you had. We strive to provide the highest level of care and professionalism to all our patients. Could you please provide me with more details about your visit? This will help me address the issue appropriately.
+
+Customer: I don't remember all the details, but one of the nurses was very dismissive when I asked some questions about my treatment. It made me feel like a burden rather than a patient.
+
+Agent: I apologize for the nurse's behavior. We take such incidents seriously, and I assure you that appropriate action will be taken. I will forward your complaint to the relevant department for further investigation. Thank you for bringing this to our attention.
+
+Customer: Well, I hope you actually do something about it. It's unacceptable to treat patients like that. Anyway, I guess that's all for now.
+
+Agent: I understand your concern, Mr. Smith, and I assure you that we will take the necessary steps to address the issue. If you have any other questions or concerns in the future, please don't hesitate to reach out to us. Thank you for choosing HealthHarbor.
+
+Customer: I hope you actually improve your service. Goodbye.
+
+Agent: Goodbye, Mr. Smith. Take care. [/INST] General Inquiries </s>

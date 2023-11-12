@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How may I assist you today?
+
+Customer: Hi, Agent 2. My name is Emma Johnson. I recently had a medical procedure at your hospital, and I need to request my medical records. I'm quite scared about it, to be honest.
+
+Agent 2: I understand, Emma. It's completely normal to feel apprehensive about medical records requests. Rest assured, I'm here to help you through the process. Could you please provide me with your date of birth and the approximate date of your procedure?
+
+Customer: Sure, my date of birth is January 15, 1985, and my procedure was on June 25, 2021.
+
+Agent 2: Thank you, Emma. Let me pull up your records. While I do that, I want to assure you that your privacy is of utmost importance to us. We have strict protocols in place to ensure the confidentiality and security of your medical information.
+
+Customer: That's good to know. I appreciate your efforts in safeguarding my privacy.
+
+Agent 2: I have located your records, Emma. To initiate the medical records request, I will need you to fill out a form. Would you prefer to do this online or would you like me to email it to you?
+
+Customer: I think emailing the form would be more convenient for me, Agent 2.
+
+Agent 2: Noted, Emma. Could you please provide me with your email address?
+
+Customer: Sure, it's emmajohnson@email.com.
+
+Agent 2: Thank you, Emma. I will send the form to your email right away. Please keep an eye on your inbox. Once you receive it, fill it out completely and accurately. Make sure to include the specific details of the records you require.
+
+Customer: Okay, I'll be on the lookout for the email. Should I expect any further communication after submitting the form?
+
+Agent 2: Yes, after you submit the form, our medical records department will review your request. They may reach out to you if they require any additional information or clarification regarding your request. Once your records are ready, they will be securely sent to you through the method you choose on the form, either by mail or email.
+
+Customer: Alright, I understand. How long does it typically take for the records to be processed?
+
+Agent 2: The processing time can vary depending on the complexity of your request and the volume of requests our department is handling. However, we strive to fulfill all requests within 10 business days. If there are any delays, we will inform you promptly.
+
+Customer: I appreciate the transparency, Agent 2. Is there anything else I need to know or do?
+
+Agent 2: Just a few reminders, Emma. Please ensure that the form is filled out completely and accurately to avoid any delays in processing your request. Also, keep in mind that there may be a fee associated with obtaining your medical records, which will be communicated to you in the email along with the form.
+
+Customer: I'll make sure to double-check everything before submitting the form. Thank you for your assistance, Agent 2. You've been really helpful in alleviating my concerns.
+
+Agent 2: You're welcome, Emma. It was my pleasure to assist you. If you have any further questions or need any additional support, don't hesitate to reach out to us. We're here to help. Take care, and I hope everything goes smoothly with your medical records request.
+
+Customer: Thank you, Agent 2. I appreciate your kind words. Goodbye.
+
+Agent 2: Goodbye, Emma. Have a great day! [/INST] Medical Records Requests </s>

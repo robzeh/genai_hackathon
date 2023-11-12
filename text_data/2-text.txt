@@ -1,0 +1,43 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: About time someone answered! I've been waiting for my lab and test results for over a week now. This is completely unacceptable!
+
+Agent 4: I apologize for the delay in receiving your results. I understand your frustration. May I have your name, please?
+
+Customer: It's John Smith. And I want to know why it's taking so long. I need those results for my appointment tomorrow!
+
+Agent 4: I apologize for any inconvenience, Mr. Smith. Let me check the status of your lab and test results. Could you please provide me with your date of birth and the name of the tests you're waiting for?
+
+Customer: My date of birth is June 15, 1980. I had a blood test and an MRI done last week.
+
+Agent 4: Thank you for providing the details, Mr. Smith. Let me pull up your records and check the status of your lab and test results. Please bear with me for a moment.
+
+(Customer is put on hold for a few minutes)
+
+Agent 4: Thank you for patiently waiting, Mr. Smith. I have located your records. It appears there was a delay in processing your blood test results due to a high volume of tests being conducted. However, I'm pleased to inform you that your MRI results are already available.
+
+Customer: Finally! What about the blood test results? I need those too!
+
+Agent 4: I understand your urgency, Mr. Smith. I apologize for the delay with your blood test results. Let me check if they are ready now.
+
+(Customer is put on hold for a few more minutes)
+
+Agent 4: Thank you for your patience, Mr. Smith. I have good news. Your blood test results have just been finalized, and I can provide you with the information now. Would you like me to go over the results with you?
+
+Customer: Yes, please! I want to know if everything is okay.
+
+Agent 4: According to the report, your blood test results are within normal ranges. There don't appear to be any concerning issues. However, I would recommend discussing the results in detail with your doctor during your appointment tomorrow.
+
+Customer: That's a relief! Thank you for checking and letting me know. I appreciate it.
+
+Agent 4: You're welcome, Mr. Smith. I'm glad to hear that the results are normal. Is there anything else I can assist you with today?
+
+Customer: No, that will be all. Just make sure this delay doesn't happen again in the future. It caused me a lot of stress.
+
+Agent 4: I apologize again for the inconvenience caused, Mr. Smith. I will make a note of your feedback and ensure it is addressed appropriately. Thank you for bringing it to our attention. If you have any further concerns or questions, don't hesitate to reach out to us. Have a great day!
+
+Customer: Thank you. Goodbye.
+
+Agent 4: Goodbye, Mr. Smith. Take care. [/INST] Lab and Test Results </s>

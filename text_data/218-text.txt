@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi Agent 4, my name is Emily Brown. I'm calling to gather some information about the services offered at HealthHarbor.
+
+Agent 4: Hello, Emily. I'd be happy to help you with that. HealthHarbor is a comprehensive healthcare facility that provides a wide range of medical services. What specific information are you looking for?
+
+Customer: I'm interested in knowing if HealthHarbor offers specialized services like cardiology and orthopedics.
+
+Agent 4: Absolutely, Emily. HealthHarbor has a dedicated cardiology department that specializes in diagnosing and treating heart-related conditions. We also have an orthopedic department that focuses on musculoskeletal issues. Our team of experts in both departments is highly skilled and experienced.
+
+Customer: That's great to hear. Can you tell me if HealthHarbor has any emergency services available?
+
+Agent 4: Yes, Emily. HealthHarbor has a fully equipped emergency department that operates 24/7. Our emergency services are staffed by trained professionals who are ready to handle any medical emergencies that come their way.
+
+Customer: Excellent. I also wanted to inquire about the availability of primary care physicians at HealthHarbor.
+
+Agent 4: HealthHarbor has a team of primary care physicians who provide comprehensive and personalized healthcare to patients of all ages. They focus on preventive care, manage chronic illnesses, and coordinate specialized care when necessary.
+
+Customer: That's exactly what I was looking for. Thank you for the information. Are there any specific amenities or facilities at HealthHarbor that I should be aware of?
+
+Agent 4: HealthHarbor offers a range of amenities to ensure a comfortable and convenient experience for our patients. We have spacious waiting areas, clean and well-equipped patient rooms, and ample parking facilities. Additionally, our hospital cafeteria provides a variety of healthy meal options.
+
+Customer: That sounds really convenient. I appreciate your help. Is there anything else I should know about HealthHarbor?
+
+Agent 4: One more thing, Emily. HealthHarbor also provides various support services such as physical therapy, radiology, and laboratory services. Our goal is to offer comprehensive care under one roof, making it convenient for our patients to receive the necessary medical attention.
+
+Customer: That's fantastic. Thank you so much for all the information, Agent 4. You've been incredibly helpful.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. If you have any more questions in the future or if there's anything else I can help you with, please don't hesitate to call us back. Have a great day!
+
+Customer: Thank you, Agent 4. I will definitely keep that in mind. Have a great day too! Goodbye.
+
+Agent 4: Goodbye, Emily. Take care! [/INST] Healthcare Facility Information </s>

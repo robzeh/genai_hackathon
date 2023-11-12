@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+[Phone rings]
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How may I assist you today?
+
+Customer: Hi, Agent 4. My name is Sarah Johnson. I have a few general inquiries about your hospital's services.
+
+Agent 4: Hello, Sarah. I'm here to help. What specific information are you looking for?
+
+Customer: Well, first of all, I wanted to know the range of medical services your hospital provides.
+
+Agent 4: HealthHarbor offers a wide range of medical services, including primary care, specialty care, emergency services, surgical procedures, diagnostic imaging, laboratory services, and more. Is there anything in particular you would like to know more about?
+
+Customer: That sounds comprehensive. I'm mainly interested in your specialty care services. Could you give me some examples?
+
+Agent 4: Certainly, Sarah. Our specialty care services cover areas such as cardiology, orthopedics, neurology, oncology, gastroenterology, and many others. We have a team of highly skilled specialists in each department who provide personalized care to our patients.
+
+Customer: That's impressive. How can I make an appointment with a specialist?
+
+Agent 4: To make an appointment with a specialist, you can either request a referral from your primary care physician or directly contact our hospital's appointment scheduling department. They will guide you through the process and help you find the right specialist for your needs.
+
+Customer: Okay, I'll keep that in mind. Another question I have is about insurance coverage. Does HealthHarbor accept all insurance plans?
+
+Agent 4: HealthHarbor accepts a wide range of insurance plans, including major providers like Blue Cross, Aetna, UnitedHealthcare, and Medicare. However, it's always a good idea to verify your specific coverage with your insurance company or our billing department to ensure we are in-network for your plan.
+
+Customer: That makes sense. I'll definitely check with my insurance company. Now, I wanted to ask about the availability of telehealth services at HealthHarbor.
+
+Agent 4: Yes, Sarah. HealthHarbor does offer telehealth services for certain medical conditions and consultations. It allows patients to have virtual appointments with their healthcare providers from the comfort of their own homes. This option is especially beneficial for non-emergency situations or when physical presence is not required.
+
+Customer: That's great to know, especially during these times. One last question, do you offer any wellness programs or preventive care services?
+
+Agent 4: Absolutely, Sarah. HealthHarbor believes in promoting overall wellness and preventive care. We have various wellness programs, such as health screenings, vaccinations, lifestyle counseling, and health education classes. Our goal is to help our patients maintain good health and prevent the onset of chronic conditions.
+
+Customer: That's wonderful. Thank you for all the information, Agent 4. You've been very helpful.
+
+Agent 4: You're welcome, Sarah. I'm glad I could assist you. If you have any further questions or need any more information, feel free to reach out to us anytime. We're here to help you.
+
+Customer: I appreciate that. Have a great day!
+
+Agent 4: You too, Sarah. Take care and stay healthy. Goodbye!
+
+Customer: Goodbye!
+
+[Call ends] [/INST] General Inquiries </s>

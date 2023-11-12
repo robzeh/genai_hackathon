@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: Hi, Agent 2. My name is Lisa Johnson. I've been experiencing some worrying symptoms lately, and I was hoping you could provide me with some medical advice or help assess my symptoms.
+
+Agent 2: Of course, Lisa. I'm here to help. Can you please tell me a little bit about the symptoms you've been experiencing?
+
+Customer: Well, I've been having persistent headaches for the past week, and they seem to be getting worse. I also feel nauseous at times and have been having trouble sleeping.
+
+Agent 2: I'm sorry to hear that, Lisa. Headaches can be concerning. Have you noticed any specific triggers for these headaches? And are they accompanied by any other symptoms?
+
+Customer: I haven't noticed any specific triggers, and I haven't experienced any other symptoms besides the nausea and trouble sleeping.
+
+Agent 2: Alright, Lisa. It's important to note that I'm not a doctor, but I can certainly help guide you. Based on the symptoms you've described, it might be a good idea for you to consult with a healthcare professional to get a proper diagnosis. They will be able to assess your symptoms more thoroughly and provide you with appropriate medical advice.
+
+Customer: I understand that, but I wanted to get some preliminary information before deciding whether I should see a doctor.
+
+Agent 2: I completely understand, Lisa. In the meantime, I can provide you with some general advice. For headaches, it's often helpful to try relaxation techniques, such as deep breathing or meditation. You could also try applying a cold or warm compress to your forehead. However, if the headaches persist or worsen, I strongly recommend seeking medical attention.
+
+Customer: Thank you for the advice. I'll definitely try those techniques. Is there anything else I should be aware of?
+
+Agent 2: It's important to monitor your symptoms closely, Lisa. If you notice any sudden or severe changes, such as loss of consciousness or difficulty speaking, you should seek immediate medical attention. Additionally, if your headaches become more frequent or intense, it's important to consult a healthcare professional.
+
+Customer: I will keep a close eye on my symptoms and seek help if necessary. Thank you for your assistance, Agent 2. You've been very helpful.
+
+Agent 2: You're welcome, Lisa. I'm glad I could assist you. If you have any more questions or concerns in the future, don't hesitate to reach out to us. Take care of yourself and feel better soon!
+
+Customer: Thank you, Agent 2. I appreciate your help. Goodbye.
+
+Agent 2: Goodbye, Lisa. Take care. [/INST] Medical Advice or Symptom Assessment </s>

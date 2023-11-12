@@ -1,0 +1,51 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hi, Agent 4. My name is Anna Smith, and I need to make a medical records request.
+
+Agent 4: Thank you, Anna. I'll be happy to assist you with that. Can you please provide me with your date of birth and the reason for your request?
+
+Customer: Sure, my date of birth is July 15, 1985. The reason for my request is that I need to provide my medical records to a specialist I will be seeing next week.
+
+Agent 4: I understand. To process your request, I'll need some additional information. Could you please provide me with your contact information and the specialist's details?
+
+Customer: Of course. My phone number is 555-1234, and my email address is annasmith@email.com. The specialist's name is Dr. Johnson, and their clinic is located at 123 Main Street.
+
+Agent 4: Thank you, Anna. I have noted down your contact information and the specialist's details. Now, let me explain the process for obtaining your medical records. We have a standard release form that needs to be completed and signed by you.
+
+Customer: Alright. How can I obtain this form?
+
+Agent 4: I can send it to you via email, or we can mail it to your address if you prefer. Which option would you like?
+
+Customer: Email would be more convenient for me.
+
+Agent 4: Noted. I will email you the form within the next hour. Once you receive it, please review the document, complete the necessary sections, and sign it. Afterward, you can send it back to us either by email or fax.
+
+Customer: Okay, got it. Is there a specific email or fax number I should use?
+
+Agent 4: Yes, please use the email address records@healthharbor.com to send the completed form. If you prefer fax, you can send it to 555-5678.
+
+Customer: Perfect, I will make sure to send it back promptly. How long will it take for my medical records to be processed and sent to Dr. Johnson's clinic?
+
+Agent 4: Once we receive the completed form, it usually takes about 3-5 business days to process your request. However, please note that it may take longer depending on the volume of requests we have at the time.
+
+Customer: Alright, I understand. Is there any fee associated with this request?
+
+Agent 4: Yes, there is a processing fee for medical records requests. The fee depends on the number of pages in your records. I can provide you with an estimate if you'd like.
+
+Customer: Yes, please. I'd like to know how much it would cost.
+
+Agent 4: Based on the average number of pages, the estimated fee for your records would be $25. However, please keep in mind that this is just an estimate, and the final fee will be determined once we process your request.
+
+Customer: Okay, I understand. I will be prepared for the fee. Is there anything else I should know or do?
+
+Agent 4: Once we receive your completed form and payment, we will process your request as quickly as possible. You will receive a confirmation email once your records have been sent to Dr. Johnson's clinic. If you have any further questions or concerns, feel free to reach out to us.
+
+Customer: Alright, thank you for your help, Agent 4. I appreciate your assistance.
+
+Agent 4: You're welcome, Anna. It was my pleasure to assist you. If there's anything else you need in the future, don't hesitate to contact us. Have a great day!
+
+Customer: Thank you, you too. Goodbye!
+
+Agent 4: Goodbye, Anna. Take care! [/INST] Medical Records Requests </s>

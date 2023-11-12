@@ -1,0 +1,31 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 4: Thank you for calling HealthHarbor, my name is Agent 4. How can I assist you today?
+
+Customer: Hello, Agent 4. My name is Emily Ross. I'm feeling quite worried and I need some assistance with a medical records request.
+
+Agent 4: I'm here to help, Emily. I understand that medical records can be a sensitive matter. Could you please provide me with some more details about your request?
+
+Customer: Yes, of course. I recently moved to a new city and I need to transfer my medical records to a new healthcare provider. I'm not sure how to go about it and it's causing me a lot of stress.
+
+Agent 4: I understand how important it is to have your medical records transferred smoothly. Don't worry, Emily, we can definitely assist you with that. Could you please provide me with your previous healthcare provider's name and contact information?
+
+Customer: Sure. My previous healthcare provider was FirstCare Hospital, located in my previous city. I don't have their contact information handy, unfortunately.
+
+Agent 4: No problem, Emily. I'll reach out to FirstCare Hospital to request your medical records on your behalf. Could you please provide me with your new healthcare provider's name and contact information?
+
+Customer: Certainly. My new healthcare provider is Harbor Health Clinic, located here in my current city. Their contact information is 555-1234.
+
+Agent 4: Thank you, Emily. I will contact FirstCare Hospital and Harbor Health Clinic to initiate the transfer of your medical records. Please note that this process may take a few days to complete. Is there anything else I can assist you with?
+
+Customer: That's my main concern for now, Agent 4. I really appreciate your help with this. I'm just glad to know that the process is underway.
+
+Agent 4: You're welcome, Emily. I'm glad I could assist you. Is there anything else I can help you with today?
+
+Customer: No, that's all for now. Thank you for your time and assistance, Agent 4. It's been a relief to speak with someone who can help me with this matter.
+
+Agent 4: I'm glad I could provide you with the assistance you needed, Emily. If you have any further questions or concerns, don't hesitate to reach out to us. Take care and have a great day!
+
+Customer: Thank you, Agent 4. You too, have a great day. Goodbye!
+
+Agent 4: Goodbye, Emily. Take care! [/INST] Medical Records Requests </s>

@@ -1,0 +1,35 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor. My name is Agent 1. How can I assist you today?
+
+Customer: (angry) Finally, someone answered! I've been on hold for ages. I need some medical advice right away!
+
+Agent 1: I apologize for the wait, and I understand your urgency. I'll do my best to assist you. May I have your name, please?
+
+Customer: It's John Smith.
+
+Agent 1: Thank you, Mr. Smith. Before we proceed, I must inform you that I am not a doctor, but I can try to help you with general advice or symptom assessment. What seems to be the problem?
+
+Customer: I've been experiencing severe stomach pain for the past couple of hours, and it's getting worse. I don't know what to do!
+
+Agent 1: I'm sorry to hear that, Mr. Smith. Stomach pain can have various causes. Have you eaten anything unusual or experienced any other symptoms alongside the pain?
+
+Customer: No, I haven't eaten anything out of the ordinary, but I do feel nauseous and bloated.
+
+Agent 1: I see. It's important to consider all possibilities. Based on your symptoms, it could be related to indigestion, food poisoning, or even something more serious. However, I strongly advise you to seek medical attention immediately. It's best to consult with a healthcare professional who can provide a proper diagnosis and appropriate treatment.
+
+Customer: But I don't have time to go to the hospital! Is there anything I can do at home to relieve the pain?
+
+Agent 1: I understand your concern, Mr. Smith, but stomach pain can have various causes, and it's crucial to identify the underlying issue. In the meantime, you can try taking over-the-counter antacids to see if it helps alleviate your symptoms. However, it's vital to consult with a healthcare professional as soon as possible to ensure your well-being.
+
+Customer: Fine, I'll go to the hospital. But I expect to be seen immediately!
+
+Agent 1: I completely understand your urgency, Mr. Smith. However, please note that emergency departments prioritize patients based on the severity of their condition. I recommend explaining your symptoms clearly to the medical staff upon arrival. They will ensure you receive the necessary care.
+
+Customer: Alright, I'll do that. Thank you for your assistance.
+
+Agent 1: You're welcome, Mr. Smith. I hope you feel better soon. If you have any further questions or concerns, don't hesitate to reach out. Take care!
+
+Customer: (calmer) Thank you, Agent 1. I appreciate your help. Goodbye.
+
+Agent 1: You're welcome, Mr. Smith. Take care and goodbye. [/INST] Medical Advice or Symptom Assessment </s>

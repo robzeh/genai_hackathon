@@ -1,0 +1,41 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 2: Thank you for calling HealthHarbor, my name is Agent 2. How can I assist you today?
+
+Customer: About time someone answered! I've been calling for days to get my lab and test results. This is outrageous!
+
+Agent 2: I apologize for the delay and any inconvenience caused. I understand your frustration. May I have your name and date of birth, please?
+
+Customer: My name is Sarah Johnson and my date of birth is September 12, 1985. 
+
+Agent 2: Thank you, Sarah. Let me pull up your file. I see here that you recently had some lab tests done. Can you please specify which results you are looking for?
+
+Customer: I had a blood test and an MRI done last week. I need to know the results as soon as possible. It's been a week already!
+
+Agent 2: I completely understand your urgency, Sarah. I will do my best to assist you. Please allow me a moment to access your test results.
+
+(Customer waits for a moment)
+
+Agent 2: Thank you for your patience, Sarah. I have your results here. Your blood test results came back within the normal range, which is great news. However, I see that there was an abnormal finding on your MRI.
+
+Customer: Abnormal finding? What does that mean? Is something seriously wrong with me?
+
+Agent 2: I understand your concern, Sarah. An abnormal finding on an MRI does not always indicate a serious issue, but it does require further evaluation. Your doctor will need to review the results and discuss them with you in detail. I can help you schedule an appointment if you'd like.
+
+Customer: Yes, please schedule an appointment for me as soon as possible. I need to know what's going on.
+
+Agent 2: I completely understand, Sarah. I will do my best to find you an appointment as soon as possible. Can you please provide me with your preferred days and times for the appointment?
+
+Customer: I'm available anytime next week except for Wednesday afternoon. Any other day and time should work for me.
+
+Agent 2: Alright, let me check the availability. I found an appointment for you on Monday morning at 9:30 am. Does that work for you?
+
+Customer: Yes, that works for me. Please book that appointment for me.
+
+Agent 2: Great! I have scheduled the appointment for you on Monday at 9:30 am. You will receive a confirmation email shortly with all the details. Is there anything else I can assist you with, Sarah?
+
+Customer: No, that's all for now. I just hope everything is alright. Thank you for your help.
+
+Agent 2: I understand your concern, Sarah. I'm glad I could assist you today. If you have any further questions or need any assistance in the future, don't hesitate to reach out. Take care and have a great day!
+
+Customer: Thank you, goodbye. [/INST] Lab and Test Results </s>

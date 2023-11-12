@@ -1,0 +1,45 @@
+<s>[INST] Classify the following call transcript:
+
+Agent 1: Thank you for calling HealthHarbor, my name is Agent 1. How may I assist you today?
+
+Customer: I can't believe I have to call and waste my time just to get some basic information about your hospital!
+
+Agent 1: I apologize for any inconvenience. I'm here to help you with any information you need. How can I assist you today?
+
+Customer: I want to know what kind of medical services HealthHarbor offers. Can you give me a detailed list?
+
+Agent 1: Certainly! HealthHarbor is a comprehensive healthcare facility that offers a wide range of medical services. We provide emergency care, general medical services, specialized surgeries, diagnostic imaging, maternity care, pediatrics, and much more.
+
+Customer: That's all well and good, but I specifically want to know about any mental health services you offer. Do you have psychiatrists or psychologists available?
+
+Agent 1: Yes, we do have mental health services available at HealthHarbor. We have a team of highly qualified psychiatrists and psychologists who provide counseling, therapy, and medication management for various mental health conditions.
+
+Customer: Finally, some useful information! Now, what about the availability of doctors? Are they available 24/7?
+
+Agent 1: Our hospital operates 24/7, so there are always doctors available to provide medical care whenever needed. However, for non-emergency cases, it is advisable to schedule an appointment to ensure you receive timely care.
+
+Customer: Okay, but what if I need urgent medical attention outside of regular office hours? Will there be any additional charges?
+
+Agent 1: If you require urgent medical attention outside of regular office hours, our emergency department is open 24/7. There may be additional charges for emergency services, but it's best to check with your insurance provider for specific coverage details.
+
+Customer: This is ridiculous! Why should I have to pay extra for urgent care? Shouldn't that be covered by my insurance?
+
+Agent 1: I understand your concerns, but insurance coverage varies depending on the plan you have. Some insurance plans may cover emergency services fully, while others may require you to pay a portion of the cost. It's important to review your insurance policy or contact your insurance provider directly for more information.
+
+Customer: This is so frustrating! I shouldn't have to jump through hoops just to find out basic information about your hospital and the costs involved.
+
+Agent 1: I apologize for any frustration this may have caused you. We strive to provide our patients with the best care possible, and we understand that navigating healthcare can sometimes be challenging. If you have any more questions or concerns, please let me know, and I'll do my best to assist you.
+
+Customer: Fine. One last question - do you have any patient testimonials or reviews that I can look at?
+
+Agent 1: Absolutely! We understand the importance of patient feedback. We have a section on our website where you can find patient testimonials and reviews. Additionally, you can also find reviews on popular healthcare review websites. Would you like me to provide you with the website details?
+
+Customer: Yes, please. Send me the website details. I'll take a look and see if it's worth my time and money.
+
+Agent 1: Certainly! I'll provide you with the website details shortly. Is there anything else I can assist you with today?
+
+Customer: No, that's all for now. I'll check out the reviews and decide if I want to proceed further. Thank you for your assistance.
+
+Agent 1: You're welcome! If you have any more questions in the future, feel free to reach out. Have a great day!
+
+(Customer hangs up) [/INST] Healthcare Facility Information </s>
