@@ -1,0 +1,10 @@
+ * Patient's Name: Sarah Johnson
+* Patient's Date of Birth / Age: N/A
+* Patient's Gender: Female
+* Presenting Symptoms or Complaints: Curiosity about medical services offered by HealthHarbor, insurance coverage, wait times
+* Duration: N/A
+* Lifestyle Changes: N/A
+* Other Symptoms: N/A
+* Seeking Advice or Assessment: General information and clarification on insurance coverage and wait times
+* Medicine in Use: N/A
+* Allergies: N/A

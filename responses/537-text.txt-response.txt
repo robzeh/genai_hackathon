@@ -1,0 +1,10 @@
+ * Patient's Name: Emily Thompson
+* Patient's Date of Birth / Age: March 12, 1985
+* Patient's Gender: Female
+* Presenting Symptoms or Complaints: Request for medical records, recent lab tests conducted at HealthHarbor hospital
+* Duration: Not specified
+* Lifestyle Changes: None mentioned
+* Other Symptoms: None mentioned
+* Seeking Advice or Assessment: Yes, seeking assistance with obtaining medical records
+* Medicine in Use: None mentioned
+* Allergies: None mentioned

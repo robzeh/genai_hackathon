@@ -1,0 +1,10 @@
+ * Patient's Name: John Smith
+* Patient's Date of Birth / Age: Not provided
+* Patient's Gender: Male
+* Presenting Symptoms or Complaints: None provided
+* Duration: Not provided
+* Lifestyle Changes: Not provided
+* Other Symptoms: None provided
+* Seeking Advice or Assessment: Information seeking
+* Medicine in Use: Not provided
+* Allergies: Not provided

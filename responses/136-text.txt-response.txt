@@ -1,0 +1,10 @@
+ * Patient's Name: John Smith
+* Patient's Date of Birth / Age: January 15, 1980 (age 42)
+* Patient's Gender: Male
+* Presenting Symptoms or Complaints: Concern about lab and test results
+* Duration: Recently had tests done (within a week)
+* Lifestyle Changes: None mentioned
+* Other Symptoms: None mentioned
+* Seeking Advice or Assessment: Seeking guidance on interpreting test results
+* Medicine in Use: None mentioned
+* Allergies: None mentioned

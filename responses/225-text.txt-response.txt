@@ -1,0 +1,12 @@
+ Here is the summary of the call transcript:
+
+* Patient's Name: John Smith
+* Patient's Date of Birth / Age: January 15, 1980
+* Patient's Gender: Male
+* Presenting Symptoms or Complaints: Request for medical records
+* Duration: Not specified
+* Lifestyle Changes: None mentioned
+* Other Symptoms: None mentioned
+* Seeking Advice or Assessment: Yes, seeking a digital copy of medical records
+* Medicine in Use: None mentioned
+* Allergies: None mentioned

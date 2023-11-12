@@ -1,0 +1,12 @@
+ Here is a summary of the patient's information based on the provided call transcript:
+
+* Patient's Name: Sarah Johnson
+* Patient's Date of Birth / Age: April 15, 1985 (37 years old)
+* Patient's Gender: Female
+* Presenting Symptoms or Complaints: Received a call from doctor's office informing her that they have her lab and test results and she needs to contact the hospital for further information
+* Duration: Unknown (call was made to HealthHarbor for assistance)
+* Lifestyle Changes: None mentioned
+* Other Symptoms: None mentioned
+* Seeking Advice or Assessment: Yes, seeking advice on what to expect and how to proceed
+* Medicine in Use: None mentioned
+* Allergies: None mentioned
