@@ -1,6 +1,8 @@
 import os
 import json
 import requests
+import random
+from prompts import prompt_no_triage
 
 BASE_URL = os.environ.get('OLLAMA_HOST', 'http://localhost:11435')
 
@@ -46,7 +48,7 @@ def generate(model_name, prompt, system=None, template=None, format="", context=
                         if not chunk.get("done"):
                             response_piece = chunk.get("response", "")
                             full_response += response_piece
-                            print(response_piece, end="", flush=True)
+                            # print(response_piece, end="", flush=True)
                     
                     # Check if it's the last chunk (done is true)
                     if chunk.get("done"):
@@ -59,17 +61,24 @@ def generate(model_name, prompt, system=None, template=None, format="", context=
         return None, None
 
 
+def generate_summary(transcript, system_prompt):
+    print(f"processing file {transcript}")
+    # open file
+    f = open(f"./text_data/{transcript}", "r")
+    user_prompt = f.read()
+
+    # generate response
+    full_resp = generate("llama2", user_prompt, system_prompt)
+    print(full_resp)
+    with open(f"./responses/{transcript}-response.txt", "w") as f:
+        f.write(full_resp[0])
+
 
 if __name__ == "__main__":
 
-    SYSTEM_PROMPT = """
-    You are a helpful assistant. The following is a transcriptof a patient call. Please provide a summary only.
-    """
+    # generate summaries for 10 random files
+    text_files = os.listdir("./text_data")
+    random_files = random.sample(text_files, 10)
 
-    full_resp, context = generate(
-        "llama2", 
-        "I am feeilng dizzy and nauseous", 
-        SYSTEM_PROMPT
-    )
-
-    print(full_resp)
+    for f in random_files:
+        generate_summary(f, prompt_no_triage)
