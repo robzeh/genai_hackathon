@@ -70,14 +70,12 @@ def generate_summary(transcript, system_prompt):
     # generate response
     full_resp = generate("llama2", user_prompt, system_prompt)
     print(full_resp)
-    with open(f"./responses/{transcript}-response-with-sum.txt", "w") as f:
+    with open(f"./responses/new_.txt", "w") as f:
         f.write(full_resp[0])
 
 
 if __name__ == "__main__":
 
-    # generate summaries for 10 random files
-    text_files = os.listdir("./sample_audio_transcripts")
-
-    for f in text_files:
-        generate_summary(f, prompt_no_triage)
+    # generate summaries for a file in the sample_audio_transcripts folder
+    generate_summary("355.wav-transcript.txt", prompt_no_triage)
+    

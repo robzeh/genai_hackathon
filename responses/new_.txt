@@ -1,0 +1,11 @@
+
+* Patient's Name: Emily Johnson
+* Patient's Date of Birth / Age: Not provided
+* Patient's Gender: Female
+* Presenting Symptoms: Feeling worried and experiencing health issues
+* Duration: Not provided
+* Other Symptoms: Not provided
+* Medicine in Use: Not provided
+* Allergies: Not provided
+
+Summary: Emily Johnson, a female patient, is feeling worried and experiencing unknown health issues. She has been recommended to see a specialist by her primary care doctor but is unsure of how to proceed with the referral.
