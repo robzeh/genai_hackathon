@@ -64,7 +64,7 @@ def generate(model_name, prompt, system=None, template=None, format="", context=
 def generate_summary(transcript, system_prompt):
     print(f"processing file {transcript}")
     # open file
-    f = open(f"./text_data/{transcript}", "r")
+    f = open(f"./sample_audio_transcripts/{transcript}", "r")
     user_prompt = f.read()
 
     # generate response
@@ -77,8 +77,7 @@ def generate_summary(transcript, system_prompt):
 if __name__ == "__main__":
 
     # generate summaries for 10 random files
-    text_files = os.listdir("./text_data")
-    random_files = random.sample(text_files, 10)
+    text_files = os.listdir("./sample_audio_transcripts")
 
-    for f in random_files:
+    for f in text_files:
         generate_summary(f, prompt_no_triage)

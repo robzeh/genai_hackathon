@@ -1,0 +1,9 @@
+
+* Patient's Name: Sarah Johnson
+* Patient's Date of Birth / Age: N/A
+* Patient's Gender: Female
+* Presenting Symptoms: Frequent headaches, dizziness, nausea
+* Duration: Couple weeks
+* Other Symptoms: N/A
+* Medicine in Use: N/A
+* Allergies: N/A

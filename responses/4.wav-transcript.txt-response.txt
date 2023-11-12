@@ -1,0 +1,9 @@
+
+* Patient's Name: Sarah Johnson
+* Patient's Date of Birth / Age: N/A
+* Patient's Gender: Female
+* Presenting Symptoms: High blood pressure
+* Duration: Almost out of pills (duration not specified)
+* Other Symptoms: None mentioned
+* Medicine in Use: High blood pressure medication
+* Allergies: N/A

@@ -1,0 +1,9 @@
+
+* Patient's Name: Sam Johnson
+* Patient's Date of Birth / Age: N/A
+* Patient's Gender: Male
+* Presenting Symptoms: Severe abdominal pain for the past few weeks, getting worse
+* Duration: Few weeks
+* Other Symptoms: N/A
+* Medicine in Use: N/A
+* Allergies: N/A

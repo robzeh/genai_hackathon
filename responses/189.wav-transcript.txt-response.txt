@@ -1,0 +1,9 @@
+
+* Patient's Name: John Smith
+* Patient's Date of Birth / Age: Not provided
+* Patient's Gender: Male
+* Presenting Symptoms: Procedure done at the hospital, follow-up care instructions not clear
+* Duration: Last week
+* Other Symptoms: Not provided
+* Medicine in Use: Not provided
+* Allergies: Not provided
